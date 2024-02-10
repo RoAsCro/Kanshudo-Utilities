@@ -28,11 +28,31 @@ word.grid(column=2, row=0, )
 
 text_box = Text(canvas, height=1, width=30, font=("arial", 24))
 text_box.grid(column=2, row=1)
-
+questions = 0
+correct = 0
 def enter_answer(answer):
+    global questions
+    global correct
     answer = text_box.get(1.0, END)
-    # if answer.strip() in word_loader.get_readings():
-        # word_loader.
+    readings = word_loader.get_readings()
+    if answer.strip() in readings:
+        correct += 1
+        print("correct")
+    else:
+        print("incorrect")
+    print(f"Your answer = {answer.strip()}")
+    print(word_loader.current_word.strip())
+    # print(readings)
+    print(word_loader.get_answer().strip())
+    
+    questions += 1
+    print()
+    print(f"{correct}/{questions}")
+    text_box.delete(1.0, END)
+
+    
+    global word
+    word.config(text=word_loader.get_word(True))
     
 window.bind('<Return>', enter_answer)
 
