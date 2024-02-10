@@ -653,6 +653,7 @@ particle が	(text of grammar points is not available for download)
 ところを	ところを ところを although (it is a certain time or something is in a certain condition)
 よって	よって よって therefore; consequently; accordingly; because of
 したがって	したがって したがって therefore; consequently; accordingly
+しょっちゅう	しょっちゅう しょっちゅう always; constantly; frequently; often
 距	距  distance  キョ  
 素	素  element  ソ  ス  
 修	修  to master  シュウ  シュ  おさ.める
@@ -691,6 +692,12 @@ particle が	(text of grammar points is not available for download)
 製	製  manufacture  セイ  
 輸	輸  transport  ユ  
 続	続  continue  ゾク  つづ.く to continue  つづ.ける to carry on with
+論	論  thesis  ロン  
+被	被  suffer  ヒ  こうむ.る to suffer, to incur, to receive
+彼	彼  he  ヒ  かれ
+破	破  tear  ハ  やぶ.る to tear, break  やぶ.れる to get torn, broken
+波	波  wave  ハ  なみ
+僚	僚  companion  リョウ  
 忘れる	忘れる わすれる to forget; to leave carelessly; to be forgetful of; to forget about; to forget (an article)
 頭	頭 あたま  かしら  かぶり head; hair (on one's head); mind; brains; intellect; leader; chief; boss; captain; top; tip; beginning; start; head; person; top structural component of a kanji
 投げる	投げる なげる to throw; to cast away; to face defeat; to give up
@@ -760,6 +767,7 @@ particle が	(text of grammar points is not available for download)
 しくしく	しくしく しくしく weeping; sobbing; crying; with a dull pain; prolonged dull pain
 ニコニコ	ニコニコ ニコニコ with a friendly grin; smilingly
 ドバドバ	ドバドバ ドバドバ pouring out in large amounts; flowing out gushingly
+クスクス	クスクス クスクス chuckle; giggle
 運ぶ	運ぶ はこぶ to carry; to transport; to move; to convey; to come; to go; to wield (a tool, etc.); to use; to go (well, etc.); to proceed; to progress
 疲れる	疲れる つかれる to get tired; to tire; to be worn out (e.g. of well used objects); to starve
 遭遇	遭遇 そうぐう encounter; being confronted with (e.g. difficulty); meeting with (e.g. accident)
@@ -2376,3 +2384,5 @@ verb stem + にいく	(text of grammar points is not available for download)
 全く	全く まったく really; truly; entirely; completely; wholly; perfectly; indeed; good grief (expression of exasperation)
 噂	噂 うわさ rumour; rumor; report; hearsay; gossip; common talk
 挟む	挟む はさむ to interpose; to hold between; to insert; to be on either side (e.g. road); to be across (e.g. street, river); to be beyond
+扱う	扱う あつかう to deal with (a person); to treat; to handle; to take care of; to entertain; to deal with (a problem); to handle; to manage; to operate (e.g. a machine); to handle; to work; to deal in; to sell; to cover (a topic); to treat; to discuss; to take up; to treat A as B; to mediate (an argument); to be too much for one; to find unmanageable; to gossip
+分の	分の ぶんの -th (e.g. one fifth)

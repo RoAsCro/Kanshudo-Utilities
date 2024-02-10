@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>KanUtils Home</title>
+        <style>
+            .grid{
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+                grid-template-rows: 2fr 1fr 2fr 1fr;
+                column-gap: 3rem;
+                margin-left: 3rem;
+                margin-right: 3rem;
+            }
+
+
+            .confirmation{
+                text-align: center;
+                color: red;
+                font-style: italic;
+                margin-top: 0%;
+                height: 1rem;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="grid">
+            <!-- Row 0 -->
+            <button class="command" value="extract">
+                Extract Kanji
+            </button>
+            <button id="scrape" class="command" value="scrapefalse">
+                Scrape Flashcards
+            </button>
+            <!-- <div class="command" value="scrapefalse" style="width: 100%; height: 100%;"></div> -->
+            <button></button>
+            <!-- Row 1 -->
+            <p class="extractLanding confirmation"></p>
+            <p class="scrapetrueLanding scrapefalseLanding scrapeendLanding confirmation"></p>
+            <p></p>
+            <!-- Row 2 -->
+            <button class="comman" value="extrac">
+            </button>
+            <button></button>
+            <button></button>
+            <!-- Row 3 -->
+            <p id="extractLanding" class="confirmation"></p>
+            <p></p>
+            <p></p>
+
+        </div>
+
+        <script>
+            
+            addEventListener("DOMContentLoaded", function() {
+                
+                var commands = document.querySelectorAll(".command");
+                
+                for (button of commands){
+                    load_command(button)
+                }
+            }, true);
+
+        
+
+            function load_command(button) {   
+                button.addEventListener("click", function(fun){
+                    console.log("2")
+
+                    clicked = fun.target;
+                    commandName = clicked.value;
+                    request = new XMLHttpRequest();
+                    request.onload = function(){
+                        console.log("3")
+                        
+                        console.log(request.responseText)
+                        document.querySelector("." + commandName + "Landing")
+                            .innerHTML = request.responseText
+                    };
+                    request.open("GET", "/" + commandName + "/", true);
+
+                    request.send();
+
+                }, true)     
+            };
+
+            // Set up an observer for the scrape button
+            addEventListener("DOMContentLoaded", function() {
+
+                const targetNode = document.getElementsByClassName("scrapetrueLanding")[0];
+                console.log(targetNode);
+
+                const config = {childList: true, subtree: true};
+                const callback = (list, observer)=>{
+                    elements = targetNode.getElementsByTagName("button");
+                    for (button of elements){
+                        load_command(button)
+                        if (button.value === "scrapetrue"){
+
+                            button.addEventListener("click", function(fun){  
+                                document.getElementsByClassName("scrapetrueLanding")[0].innerHTML = "Working, please do not select another option..."
+                            }, true)
+                        }
+
+                    }
+                };
+                const observer = new MutationObserver(callback);
+                observer.observe(targetNode, config);
+            })
+            </script>
+
+            
+    </body>
+
+</html>

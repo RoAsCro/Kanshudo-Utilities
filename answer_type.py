@@ -30,10 +30,9 @@ text_box = Text(canvas, height=1, width=30, font=("arial", 24))
 text_box.grid(column=2, row=1)
 
 def enter_answer(answer):
-    print("test")
     answer = text_box.get(1.0, END)
-    if answer in word_loader.get_readings():
-        print("correct")
+    # if answer.strip() in word_loader.get_readings():
+        # word_loader.
     
 window.bind('<Return>', enter_answer)
 
