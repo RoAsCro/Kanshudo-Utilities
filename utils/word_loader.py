@@ -25,7 +25,7 @@ class WordLoader():
     
     def get_readings(self):
         answer = self.get_answer()
-        english_index = re.search(r"[a-zA-Z]", answer).start()
+        english_index = re.search(r"[a-zA-Z]|[(]", answer).start()
         readings = answer[answer.find("\n"): english_index].strip().split("\n")
         # print(answer)
         # print(english_index)

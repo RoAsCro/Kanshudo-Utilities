@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Kanji_Type</title>
+        <style>
+            .correct{
+                background-color: #00ff00 ;
+            }
+            .false {
+                background-color: #ff0000 ;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="kanji" style="display: flex; justify-content: center; font-size: 90px; margin-top: 3rem;">{{kanji}}</div>
+        <!-- <form> -->
+            <p>On Readings</p>
+            <div id="on" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+                {{on | safe}}
+            </div>
+            <div id="on_landing" style="font-size: 28px; display: flex; justify-content: space-around;"></div>
+            <p>Kun Readings</p>
+            <div id="kun" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+                {{kun | safe}}
+            </div>
+            <div id="kun_landing" style="font-size: 28px; display: flex; justify-content: space-around;"></div>
+
+        <button id="submit">Submit</button>
+        <button id="next" hidden>Next</button>
+        <!-- </form> -->
+    </body>
+    <script>
+        addEventListener("DOMContentLoaded", function() {           
+                commands = document.getElementById("submit");
+                commands.addEventListener("click", function(fun){
+                    var inputs = [];
+                    var readings = document.getElementsByClassName("reading");
+                    for (r of readings){
+                        answer = r.value ? r.value : "q"
+                        inputs.push(answer) 
+                        // console.log(request.responseText)
+                    }
+                    console.log(inputs)
+                    request = new XMLHttpRequest();
+                    request.onload = function(){
+                        // console.log(request.responseText)
+                        response = request.responseText.replaceAll(/\[|\]|\"|\s/g, "").split(",")
+                        // console.log(response)
+                        for (let i = 0 ; i < response.length ; i++){
+                            // console.log(x)
+                            if (response[i] == "True"){
+                                readings[i].classList.add("correct")
+                            } else {
+                                readings[i].classList.add("false")
+                            }
+                        }
+                        document.getElementById("next").removeAttribute("hidden")
+                        selection = document.querySelectorAll("#on .reading")
+                        output = ""
+                        for (x of selection){
+                            output += x.id + "     "
+                        }
+                        document.getElementById("on_landing").innerHTML = output
+                        selection = document.querySelectorAll("#kun .reading")
+                        output = ""
+                        for (x of selection){
+                            output += "<p>" + x.id + "</p>"
+                        }
+                        document.getElementById("kun_landing").innerHTML = output
+
+                    }
+                    request.open("GET", "kanji_answer/" + inputs, true)
+                    
+                    request.send()
+
+                    
+                })
+            }, true);
+            addEventListener("DOMContentLoaded", function() {
+                document.getElementById("next").addEventListener("click", function(fun){
+                    document.getElementById("next").setAttribute("hidden", "true");
+                    document.getElementById("on_landing").innerHTML = ""
+                    document.getElementById("kun_landing").innerHTML = ""
+                    request = new XMLHttpRequest();
+                    request.onload = function(){
+                        console.log(request.responseText)
+                        response = request.responseText.split(",")
+                        document.getElementById("on").innerHTML = response[2]
+                        document.getElementById("kun").innerHTML = response[1]
+                        document.getElementById("kanji").innerHTML = response[0]
+                    }
+                    request.open("GET", "kanji_next/", true)
+                    
+                    request.send()
+                }, true)
+
+            }, true)
+    </script>
+
+</html>

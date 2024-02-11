@@ -66,21 +66,19 @@
 
             function load_command(button) {   
                 button.addEventListener("click", function(fun){
-                    console.log("2")
 
                     clicked = fun.target;
                     commandName = clicked.value;
                     request = new XMLHttpRequest();
-                    request.onload = function(){
-                        console.log("3")
-                        
-                        console.log(request.responseText)
-                        document.querySelector("." + commandName + "Landing")
-                            .innerHTML = request.responseText
-                    };
-                    request.open("GET", "/" + commandName + "/", true);
+                    // request.onload = function(){                        
+                    //     console.log(request.responseText)
+                    //     document.querySelector("." + commandName + "Landing")
+                    //         .innerHTML = request.responseText
+                    // };
+                    f = request.open("GET", "/" + commandName + "/", true);
 
                     request.send();
+                    console.log(request.responseText)
 
                 }, true)     
             };
