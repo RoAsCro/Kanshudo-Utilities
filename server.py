@@ -4,7 +4,7 @@ import random
 from utils.kanji_extractor import extract
 from utils.kanshudo_scraper import scrape_web
 from utils.txt_to_csv import convert_all
-
+from utils.word_loader import WordLoader
 
 app = Flask(__name__)
 
@@ -53,8 +53,11 @@ file = open("data/kanji/kanji.txt", 'r', encoding="utf8")
 WORDS = [entry.strip() for entry in file.readlines()]
 translated_readings = []
 current_readings = []
+loader = None
+
 def get_kanji():
     return random.choice(WORDS)
+
     # with open(file, "r", encoding="utf-8") as entries:
 
 def render_readings(readings):
@@ -69,13 +72,19 @@ def render_readings(readings):
 @app.route("/kanji_type/")
 def kanji_type():
     global KANJI
+    global loader
     KANJI = json.loads(open("data/kanji/kanjiapi_full.json", encoding="utf8").read())
+    loader = WordLoader()
     entry = kanji_reset()
     current_kanji = entry["kanji"]
     kun_readings = entry["kun_readings"]
     on_readings = entry["on_readings"]
+    words = loader.get_entries(current_kanji)
+    html = ""
+    for word in words:
+        html += f"<p>{word}</p>"
 
-    return render_template("kanji_type.html", kanji=current_kanji, on=render_readings(on_readings), kun=render_readings(kun_readings))
+    return render_template("kanji_type.html", kanji=current_kanji, on=render_readings(on_readings), kun=render_readings(kun_readings), words=html)
 
 @app.route("/kanji_type/kanji_answer/<answer>")
 def kanji_answer(answer):
@@ -90,15 +99,22 @@ def kanji_answer(answer):
             output.append("True")
         else:
             output.append("False")
+
     return output
 
 @app.route("/kanji_type/kanji_next/")
 def kanji_next():
     entry = kanji_reset()
-    return f"{entry["kanji"]},{render_readings(entry["kun_readings"])},{render_readings(entry["on_readings"])}"
+    current_kanji = entry["kanji"]
+    words = loader.get_entries(current_kanji)
+    html = ""
+    for word in words:
+        html += f"<p>{word}</p>"
+    return f"{current_kanji},{render_readings(entry["kun_readings"])},{render_readings(entry["on_readings"])},{html}"
 
 def kanji_reset():
     current_kanji = get_kanji()
+    print(loader.get_entries(current_kanji))
     entry = KANJI["kanjis"][current_kanji]
     translated_readings.clear()
     current_readings.clear()

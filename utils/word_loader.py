@@ -23,6 +23,9 @@ class WordLoader():
     def get_answer(self):
         return self.words[self.current_word]
     
+    def get_entries(self, kanji):
+        return list(filter(lambda word: kanji in word, self.jp_words))
+    
     def get_readings(self):
         answer = self.get_answer()
         english_index = re.search(r"[a-zA-Z]|[(]", answer).start()
