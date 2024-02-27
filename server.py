@@ -84,7 +84,7 @@ def kanji_type():
     for word in words:
         html += f"<p>{word}</p>"
 
-    return render_template("kanji_type.html", kanji=current_kanji, on=render_readings(on_readings), kun=render_readings(kun_readings), words=html)
+    return render_template("kanji_type.html")
 
 @app.route("/kanji_type/kanji_answer/<answer>")
 def kanji_answer(answer):
