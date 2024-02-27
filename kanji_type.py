@@ -2,6 +2,7 @@ import random
 import json
 from utils.word_loader import WordLoader
 class KanjiType():
+    # A dictionary for translating katakana to hiragana in order to standardise text
     KANA_DICTIONARY = str.maketrans('''
         ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじす
         ずせぜそぞただちぢっつづてでとどなにぬねのはばぱひ
@@ -31,11 +32,14 @@ class KanjiType():
         return [entry.strip() for entry in file.readlines()]
 
     def get_kanji(self):
-        return random.choice(self.WORDS)
+        if len(self.WORDS) == 0:
+            self.WORDS = self.load_words()
+        current = random.choice(self.WORDS)
+        # self.WORDS.remove(current)
+        return current
 
     def kanji_answer(self, answer):
         answers = answer.split(",")
-        print(answers)
         output = []
         for response in answers:
             if response.translate(self.KANA_DICTIONARY) in self.translated_readings:
@@ -44,6 +48,12 @@ class KanjiType():
                 output.append("False")
 
         return output
+    
+    def kanji_reset(self):
+        current_kanji = self.get_kanji()
+        entry = self.KANJI["kanjis"][current_kanji]
+        self.translated_readings.clear()
+        return entry
     
     # Rendering HTML
     def kanji_next(self):
@@ -61,9 +71,3 @@ class KanjiType():
             self.translated_readings.append(reading.replace(".", "").translate(self.KANA_DICTIONARY))
             html += f"<input id='{reading}' class='reading'/>"
         return html
-
-    def kanji_reset(self):
-        current_kanji = self.get_kanji()
-        entry = self.KANJI["kanjis"][current_kanji]
-        self.translated_readings.clear()
-        return entry

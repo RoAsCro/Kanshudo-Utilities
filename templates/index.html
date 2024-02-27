@@ -42,7 +42,7 @@
             <!-- Row 2 -->
             <button class="comman" value="extrac">
             </button>
-            <button></button>
+            <a href="kanji_type"><button style="height: 100%; width: 100%;" class="link" value="kanji_type">Kanji Type</button></a>
             <button></button>
             <!-- Row 3 -->
             <p id="extractLanding" class="confirmation"></p>
@@ -70,11 +70,11 @@
                     clicked = fun.target;
                     commandName = clicked.value;
                     request = new XMLHttpRequest();
-                    // request.onload = function(){                        
-                    //     console.log(request.responseText)
-                    //     document.querySelector("." + commandName + "Landing")
-                    //         .innerHTML = request.responseText
-                    // };
+                    request.onload = function(){                        
+                        console.log(request.responseText)
+                        document.querySelector("." + commandName + "Landing")
+                            .innerHTML = request.responseText
+                    };
                     f = request.open("GET", "/" + commandName + "/", true);
 
                     request.send();

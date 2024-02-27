@@ -35,6 +35,7 @@ def scrape(confirm):
 # Kanji type
 @app.route("/kanji_type/")
 def kanji_type():
+    print("cals")
     global kanji_app
     kanji_app = KanjiType()
     return render_template("kanji_type.html")

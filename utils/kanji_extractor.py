@@ -23,3 +23,4 @@ def extract():
             output += "\n" + 漢字
         text.write(output)
 
+extract()
