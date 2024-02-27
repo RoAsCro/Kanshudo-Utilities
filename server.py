@@ -75,15 +75,6 @@ def kanji_type():
     global loader
     KANJI = json.loads(open("data/kanji/kanjiapi_full.json", encoding="utf8").read())
     loader = WordLoader()
-    entry = kanji_reset()
-    current_kanji = entry["kanji"]
-    kun_readings = entry["kun_readings"]
-    on_readings = entry["on_readings"]
-    words = loader.get_entries(current_kanji)
-    html = ""
-    for word in words:
-        html += f"<p>{word}</p>"
-
     return render_template("kanji_type.html")
 
 @app.route("/kanji_type/kanji_answer/<answer>")
