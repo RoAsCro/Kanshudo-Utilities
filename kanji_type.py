@@ -60,9 +60,11 @@ class KanjiType():
         entry = self.kanji_reset()
         current_kanji = entry["kanji"]
         words = self.LOADER.get_entries(current_kanji)
-        html = ""
+        # print(words)
+        html = f"<p>{"; ".join(entry["meanings"])}</p>"
         for word in words:
             html += f"<p>{word}</p>"
+        print(html)
         return f"{current_kanji},{self.render_readings(entry["kun_readings"])},{self.render_readings(entry["on_readings"])},{html}"
     
     def render_readings(self, readings):

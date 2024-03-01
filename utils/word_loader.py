@@ -17,7 +17,9 @@ class WordLoader():
     def get_word(self, remove):
         if remove and self.current_word is not None:
             self.jp_words.remove(self.current_word)
-        self.current_word = random.choice(self.jp_words)
+        self.current_word = None
+        if len(self.jp_words) != 0: 
+            self.current_word = random.choice(self.jp_words)
         return self.current_word
     
     def get_answer(self):
@@ -30,7 +32,6 @@ class WordLoader():
         answer = self.get_answer()
         english_index = re.search(r"[a-zA-Z]|[(]", answer).start()
         readings = answer[answer.find("\n"): english_index].strip().split("\n")
-        # print(answer)
-        # print(english_index)
 
         return readings
+    
