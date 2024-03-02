@@ -1,5 +1,6 @@
 import random
 import json
+import math
 from utils.word_loader import WordLoader
 class KanjiType():
     # A dictionary for translating katakana to hiragana in order to standardise text
@@ -18,6 +19,7 @@ class KanjiType():
     )
     KANJI = "" # The loaded kanji dictionary
     WORDS = [] # The loaded list of kanji to be used
+    REVISION_WORDS = []
     LOADER = None # The WordLoader for getting the known words for the kanji
 
     translated_readings = [] # The readings for the current kanji standardised to hiragana
@@ -34,8 +36,10 @@ class KanjiType():
     def get_kanji(self):
         if len(self.WORDS) == 0:
             self.WORDS = self.load_words()
-        current = random.choice(self.WORDS)
-        # self.WORDS.remove(current)
+        revise = math.floor(random.randint(0, 9) / (9 - len(self.REVISION_WORDS)))
+        current = self.REVISION_WORDS.pop() if revise else random.choice(self.WORDS)
+        if not revise:
+            self.REVISION_WORDS.insert(0, current)
         return current
 
     def kanji_answer(self, answer):
@@ -64,8 +68,8 @@ class KanjiType():
         html = f"<p>{"; ".join(entry["meanings"])}</p>"
         for word in words:
             html += f"<p>{word}</p>"
-        print(html)
-        return f"{current_kanji},{self.render_readings(entry["kun_readings"])},{self.render_readings(entry["on_readings"])},{html}"
+        print(f"{current_kanji},,{self.render_readings(entry["kun_readings"])},,{self.render_readings(entry["on_readings"])},,{html}")
+        return f"{current_kanji},,{self.render_readings(entry["kun_readings"])},,{self.render_readings(entry["on_readings"])},,{html}"
     
     def render_readings(self, readings):
         html = ""

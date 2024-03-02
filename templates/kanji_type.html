@@ -96,7 +96,7 @@
             function render(){
                 request = new XMLHttpRequest();
                     request.onload = function(){
-                        response = request.responseText.split(",")
+                        response = request.responseText.split(",,")
                         document.getElementById("on").innerHTML = response[2]
                         document.getElementById("kun").innerHTML = response[1]
                         document.getElementById("kanji").innerHTML = response[0]
