@@ -5,7 +5,7 @@ import re
 KANJI = re.compile(r"[\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A]", re.U)
 
 def extract():
-    data = pandas.read_csv("data/csv/all-words.csv")
+    data = pandas.read_csv("./data/csv/all-words.csv")
     entries = list({x.jp:x.en for (y,x) in data.iterrows()}.keys())
     
 
