@@ -3696,232 +3696,261 @@ constantly
 frequently
 often
 "
-361,距,"距
+361,かつじ,"かつじ
+かつじ
+
+printing type
+movable type
+printed text
+print
+"
+362,まもなく,"まもなく
+まもなく
+
+soon
+before long
+in a short time
+lacking time to ...
+without time to ...
+"
+363,さんかく,"さんかく
+さんかく
+
+triangle
+triangular
+"
+364,ついで,"ついで
+ついで
+
+opportunity
+occasion
+"
+365,距,"距
 
 
 distance  キョ  
 "
-362,素,"素
+366,素,"素
 
 
 element  ソ  ス  
 "
-363,修,"修
+367,修,"修
 
 
 to master  シュウ  シュ  おさ.める
 "
-364,打,"打
+368,打,"打
 
 
 strike  ダ  う.つ to strike
 "
-365,救,"救
+369,救,"救
 
 
 rescue  キュウ  すく.う to rescue, save
 "
-366,我,"我
+370,我,"我
 
 
 I
 myself  ガ  われ  わ.が-
 "
-367,浮,"浮
+371,浮,"浮
 
 
 float  フ  う.かぶ  う.く to float  う.かべる to launch, to refloat, to waft  う.かれる to frolic
 "
-368,替,"替
+372,替,"替
 
 
 replace  タイ  か.える to replace  か.わる to be replaced
 "
-369,評,"評
+373,評,"評
 
 
 criticism  ヒョウ  
 "
-370,届,"届
+374,届,"届
 
 
 arrive  とど.く to arrive  とど.ける to notify, to deliver
 "
-371,由,"由
+375,由,"由
 
 
 reason  ユ  ユウ  ユイ  よし
 "
-372,途,"途
+376,途,"途
 
 
 road  ト  
 "
-373,幼,"幼
+377,幼,"幼
 
 
 very young  ヨウ  おさな.い very young
 childish, immature, infantile
 "
-374,積,"積
+378,積,"積
 
 
 load  セキ  つ.む to load, to heap up  つ.もる to be piled up
 "
-375,績,"績
+379,績,"績
 
 
 achievement  セキ  
 "
-376,絡,"絡
+380,絡,"絡
 
 
 entangled  ラク  から.まる to be entangled, to be entwined  から.む to get in a tangle with  から.める to entwine
 "
-377,構,"構
+381,構,"構
 
 
 build  コウ  かま.える to build, set up, get ready  かま.う to mind, to care about
 "
-378,購,"購
+382,購,"購
 
 
 purchase  コウ  
 "
-379,施,"施
+383,施,"施
 
 
 carry out  シ  セ  ほどこ.す to carry out, to give, to bestow
 "
-380,練,"練
+384,練,"練
 
 
 polish up  レン  ね.る to polish up, knead, train
 "
-381,探,"探
+385,探,"探
 
 
 grope  タン  さぐ.る to grope for  さが.す to search for
 "
-382,麦,"麦
+386,麦,"麦
 
 
 wheat  バク  むぎ wheat, barley
 "
-383,結,"結
+387,結,"結
 
 
 bind  ケツ  むす.ぶ  ゆ.わえる to bind  ゆ.う to braid
 "
-384,値,"値
+388,値,"値
 
 
 price  チ  ね  あたい price, value
 "
-385,告,"告
+389,告,"告
 
 
 announce  コク  つ.げる to announce
 "
-386,造,"造
+390,造,"造
 
 
 build  ゾウ  つく.る to build, to produce
 "
-387,装,"装
+391,装,"装
 
 
 wear  ソウ  ショウ  よそお.う to wear
 to pretend
 "
-388,頼,"頼
+392,頼,"頼
 
 
 rely  ライ  たよ.る to rely (on)  たの.もしい reliable  たの.む to ask(for), entrust
 "
-389,複,"複
+393,複,"複
 
 
 double  フク  
 "
-390,復,"復
+394,復,"復
 
 
 return  フク  
 "
-391,態度,"態度
+395,態度,"態度
 たいど
 
 attitude
 manner
 behaviour
 "
-392,程,"程
+396,程,"程
 
 
 extent  テイ  ほど
 "
-393,役,"役
+397,役,"役
 
 
 office  ヤク  エキ  
 "
-394,設,"設
+398,設,"設
 
 
 prepare  セツ  もう.ける to prepare (for), provide
 "
-395,投,"投
+399,投,"投
 
 
 throw  トウ  な.げる to throw (something)
 "
-396,製,"製
+400,製,"製
 
 
 manufacture  セイ  
 "
-397,輸,"輸
+401,輸,"輸
 
 
 transport  ユ  
 "
-398,続,"続
+402,続,"続
 
 
 continue  ゾク  つづ.く to continue  つづ.ける to carry on with
 "
-399,論,"論
+403,論,"論
 
 
 thesis  ロン  
 "
-400,被,"被
+404,被,"被
 
 
 suffer  ヒ  こうむ.る to suffer, to incur, to receive
 "
-401,彼,"彼
+405,彼,"彼
 
 
 he  ヒ  かれ
 "
-402,破,"破
+406,破,"破
 
 
 tear  ハ  やぶ.る to tear, break  やぶ.れる to get torn, broken
 "
-403,波,"波
+407,波,"波
 
 
 wave  ハ  なみ
 "
-404,僚,"僚
+408,僚,"僚
 
 
 companion  リョウ  
 "
-405,忘れる,"忘れる
+409,忘れる,"忘れる
 わすれる
 
 to forget
@@ -3930,7 +3959,7 @@ to be forgetful of
 to forget about
 to forget (an article)
 "
-406,頭,"頭
+410,頭,"頭
 あたま
 かしら
 かぶり
@@ -3952,7 +3981,7 @@ head
 person
 top structural component of a kanji
 "
-407,投げる,"投げる
+411,投げる,"投げる
 なげる
 
 to throw
@@ -3960,7 +3989,7 @@ to cast away
 to face defeat
 to give up
 "
-408,君,"君
+412,君,"君
 きみ
 
 you
@@ -3971,7 +4000,7 @@ ruler
 sovereign
 (one's) master
 "
-409,次,"次
+413,次,"次
 つぎ
 
 next
@@ -3980,7 +4009,7 @@ subsequent
 stage
 station
 "
-410,体,"体
+414,体,"体
 からだ
 
 body
@@ -3993,7 +4022,7 @@ health
 corpse
 dead body
 "
-411,乙女,"乙女
+415,乙女,"乙女
 おとめ
 
 little girl
@@ -4002,7 +4031,7 @@ young lady
 female usually between 7 and 18 years old
 female between 17 and 20 years old (ritsuryo period)
 "
-412,豆,"豆
+416,豆,"豆
 まめ
 
 legume (esp. edible legumes or their seeds, such as beans, peas, pulses, etc.)
@@ -4017,7 +4046,7 @@ miniature
 tiny
 child
 "
-413,塊,"塊
+417,塊,"塊
 かたまり
 
 lump
@@ -4031,14 +4060,14 @@ crowd
 embodiment (of an idea, quality, feeling etc.)
 personification
 "
-414,諦める,"諦める
+418,諦める,"諦める
 あきらめる
 
 to give up
 to abandon (hope, plans)
 to resign oneself (to)
 "
-415,匂い,"匂い
+419,匂い,"匂い
 におい
 
 odour
@@ -4053,7 +4082,7 @@ sense
 flavour
 flavor
 "
-416,クネクネ,"クネクネ
+420,クネクネ,"クネクネ
 クネクネ
 
 winding
@@ -4064,18 +4093,18 @@ waving
 swaying
 twisting and turning
 "
-417,死んでもいいわ,"死んでもいいわ
+421,死んでもいいわ,"死んでもいいわ
 しんでもいいわ
 
 I love you too
 I would (now) not mind dying
 "
-418,羊,"羊
+422,羊,"羊
 ひつじ
 
 sheep (Ovis aries)
 "
-419,サラサラ,"サラサラ
+423,サラサラ,"サラサラ
 さらさら
 
 rustling
@@ -4085,27 +4114,27 @@ silky
 smooth and dry
 free-flowing
 "
-420,たまに,"たまに
+424,たまに,"たまに
 たまに
 
 occasionally
 once in a while
 "
-421,すっかり,"すっかり
+425,すっかり,"すっかり
 すっかり
 
 all
 completely
 thoroughly
 "
-422,いいから,"いいから
+426,いいから,"いいから
 いいから
 
 listen up (used at start of command sentences for emphasis)
 never mind that
 don't worry about that
 "
-423,すぐに,"すぐに
+427,すぐに,"すぐに
 すぐに
 
 instantly
@@ -4113,7 +4142,7 @@ immediately
 right away
 at once
 "
-424,はっきり,"はっきり
+428,はっきり,"はっきり
 はっきり
 
 clearly
@@ -4126,14 +4155,14 @@ to be exact
 to become clear
 to clear up
 "
-425,どれだけ,"どれだけ
+429,どれだけ,"どれだけ
 どれだけ
 
 how long
 how much
 to what extent
 "
-426,一応,"一応
+430,一応,"一応
 
 
 Meaning 1 is a no adjective 一応 いちおう more or less
@@ -4147,20 +4176,20 @@ for the time being
 just in case
 once
 "
-427,なんとなく,"なんとなく
+431,なんとなく,"なんとなく
 なんとなく
 
 somehow or other
 for some reason or another
 vaguely
 "
-428,おっさん,"おっさん
+432,おっさん,"おっさん
 おっさん
 
 middle-aged man
 Buddhist priest
 "
-429,もういい,"もういい
+433,もういい,"もういい
 もういい
 
 skip it
@@ -4168,7 +4197,7 @@ drop it
 I've had enough (e.g. when offered something)
 that's enough
 "
-430,とりあえず,"とりあえず
+434,とりあえず,"とりあえず
 とりあえず
 
 first of all
@@ -4177,7 +4206,7 @@ right away
 for now
 for the time being
 "
-431,だいたい,"だいたい
+435,だいたい,"だいたい
 だいたい
 
 outline
@@ -4191,55 +4220,55 @@ in the first place
 to begin with
 from the start
 "
-432,任せ,"任せ
+436,任せ,"任せ
 まかせ
 
 leaving everything up to someone else
 "
-433,おまわりさん,"おまわりさん
+437,おまわりさん,"おまわりさん
 おまわりさん
 
 police officer
 "
-434,なので,"なので
+438,なので,"なので
 なので
 
 because
 as
 since
 "
-435,何の,"何の
+439,何の,"何の
 
 
 Any kind of...
 No... (say, amount of) (w/ negative) ...のなんの, any kind of no, not at all 何の なんの what kind
 what sort
 "
-436,声優,"声優
+440,声優,"声優
 せいゆう
 
 voice actor or actress (radio, animation, etc.)
 "
-437,ガツガツ,"ガツガツ
+441,ガツガツ,"ガツガツ
 ガツガツ
 
 greedily
 burning with desire for something
 "
-438,ざわざわ,"ざわざわ
+442,ざわざわ,"ざわざわ
 ざわざわ
 
 noisy
 sound of people talking
 "
-439,ヒラヒラ,"ヒラヒラ
+443,ヒラヒラ,"ヒラヒラ
 ヒラヒラ
 
 flutter
 flickering (light, flame, etc.)
 frill
 "
-440,ビクビク,"ビクビク
+444,ビクビク,"ビクビク
 ビクビク
 
 being afraid of
@@ -4249,7 +4278,7 @@ being nervous
 trembling
 shivering
 "
-441,クネクネ,"クネクネ
+445,クネクネ,"クネクネ
 クネクネ
 
 winding
@@ -4260,7 +4289,7 @@ waving
 swaying
 twisting and turning
 "
-442,くるくる,"くるくる
+446,くるくる,"くるくる
 くるくる
 
 whirling
@@ -4274,7 +4303,7 @@ working tirelessly
 working hard
 constantly changing
 "
-443,くしゃくしゃ,"くしゃくしゃ
+447,くしゃくしゃ,"くしゃくしゃ
 くしゃくしゃ
 
 crumpled
@@ -4288,7 +4317,7 @@ depressed
 gloomy
 noisily (chewing)
 "
-444,そろそろ,"そろそろ
+448,そろそろ,"そろそろ
 そろそろ
 
 slowly
@@ -4301,7 +4330,7 @@ momentarily
 before long
 any time now
 "
-445,ワクワク,"ワクワク
+449,ワクワク,"ワクワク
 ワクワク
 
 tremble
@@ -4309,7 +4338,7 @@ get nervous
 excitedly
 thrilled
 "
-446,サラサラ,"サラサラ
+450,サラサラ,"サラサラ
 さらさら
 
 rustling
@@ -4319,7 +4348,7 @@ silky
 smooth and dry
 free-flowing
 "
-447,ゴタゴタ,"ゴタゴタ
+451,ゴタゴタ,"ゴタゴタ
 ゴタゴタ
 
 trouble
@@ -4331,7 +4360,7 @@ mix-up
 imbroglio
 mess
 "
-448,ズルズル,"ズルズル
+452,ズルズル,"ズルズル
 ズルズル
 
 sound or act of dragging
@@ -4345,7 +4374,7 @@ dragging on
 slurping
 sniffling
 "
-449,ぶらぶら,"ぶらぶら
+453,ぶらぶら,"ぶらぶら
 ぶらぶら
 
 dangling heavily
@@ -4361,7 +4390,7 @@ leisurely
 aimlessly
 persisting (of an illness)
 "
-450,ほいほい,"ほいほい
+454,ほいほい,"ほいほい
 ほいほい
 
 recklessly
@@ -4382,21 +4411,21 @@ Hui (people)
 novice
 beginner
 "
-451,こくり,"こくり
+455,こくり,"こくり
 こくり
 
 nodding
 dozing off
 suddenly
 "
-452,どんどん,"どんどん
+456,どんどん,"どんどん
 どんどん
 
 drumming (noise)
 rapidly
 steadily
 "
-453,チラチラ,"チラチラ
+457,チラチラ,"チラチラ
 チラチラ
 
 falling lightly (e.g. snow, petals, confetti)
@@ -4412,13 +4441,13 @@ glancing (repeatedly)
 (hear, see) from time to time
 intermittently
 "
-454,バキバキ,"バキバキ
+458,バキバキ,"バキバキ
 バキバキ
 
 sound of cracking branches
 sound made when cracking one's knuckles
 "
-455,ダラダラ,"ダラダラ
+459,ダラダラ,"ダラダラ
 ダラダラ
 
 in drops
@@ -4435,13 +4464,13 @@ idly
 slowly
 slovenly
 "
-456,とぼとぼ,"とぼとぼ
+460,とぼとぼ,"とぼとぼ
 とぼとぼ
 
 totteringly
 trudgingly
 "
-457,バチバチ,"バチバチ
+461,バチバチ,"バチバチ
 バチバチ
 
 crackling (of fire, fireworks, etc.)
@@ -4451,7 +4480,7 @@ spitting
 to fight
 to argue
 "
-458,ブツブツ,"ブツブツ
+462,ブツブツ,"ブツブツ
 ブツブツ
 
 grunt
@@ -4465,7 +4494,7 @@ rash
 cutting into small pieces
 simmering
 "
-459,ゾクゾク,"ゾクゾク
+463,ゾクゾク,"ゾクゾク
 ゾクゾク
 
 shiver
@@ -4473,20 +4502,20 @@ feel chilly
 shudder
 thrill
 "
-460,ぐるぐる,"ぐるぐる
+464,ぐるぐる,"ぐるぐる
 ぐるぐる
 
 turning round and round
 going around in circles
 wrapped around
 "
-461,どすんどすん,"どすんどすん
+465,どすんどすん,"どすんどすん
 どすんどすん
 
 thud thud (esp. footsteps)
 clump clump
 "
-462,モヤモヤ,"モヤモヤ
+466,モヤモヤ,"モヤモヤ
 モヤモヤ
 
 hazy
@@ -4498,7 +4527,7 @@ gloomy
 feeling depressed
 feeling sad
 "
-463,ポカン,"ポカン
+467,ポカン,"ポカン
 ポカン
 
 vacantly
@@ -4511,12 +4540,12 @@ flabbergasted
 with a whack
 with a thump
 "
-464,ポロポロ,"ポロポロ
+468,ポロポロ,"ポロポロ
 ポロポロ
 
 in large drops
 "
-465,ずんずん,"ずんずん
+469,ずんずん,"ずんずん
 ずんずん
 
 rapidly (e.g. progress, moving forward)
@@ -4525,13 +4554,13 @@ quickly
 steadily
 by leaps and bounds
 "
-466,がさっ,"がさっ
+470,がさっ,"がさっ
 がさっ
 
 with a swoosh
 at one fell swoop
 "
-467,ガラガラ,"ガラガラ
+471,ガラガラ,"ガラガラ
 ガラガラ
 
 clattering
@@ -4546,7 +4575,7 @@ raspy (voice)
 gravelly
 rattle (e.g. baby's toy)
 "
-468,キャッキャ,"キャッキャ
+472,キャッキャ,"キャッキャ
 キャッキャ
 
 chitter
@@ -4555,7 +4584,7 @@ giggle
 screeching
 squealing
 "
-469,ごろごろ,"ごろごろ
+473,ごろごろ,"ごろごろ
 ごろごろ
 
 thundering
@@ -4571,13 +4600,13 @@ idling about
 having a foreign substance in (e.g. one's eye or stomach)
 thunder
 "
-470,ちょこん,"ちょこん
+474,ちょこん,"ちょこん
 ちょこん
 
 slightly (of an action)
 (looking) small and quiet
 "
-471,しくしく,"しくしく
+475,しくしく,"しくしく
 しくしく
 
 weeping
@@ -4586,25 +4615,25 @@ crying
 with a dull pain
 prolonged dull pain
 "
-472,ニコニコ,"ニコニコ
+476,ニコニコ,"ニコニコ
 ニコニコ
 
 with a friendly grin
 smilingly
 "
-473,ドバドバ,"ドバドバ
+477,ドバドバ,"ドバドバ
 ドバドバ
 
 pouring out in large amounts
 flowing out gushingly
 "
-474,クスクス,"クスクス
+478,クスクス,"クスクス
 クスクス
 
 chuckle
 giggle
 "
-475,運ぶ,"運ぶ
+479,運ぶ,"運ぶ
 はこぶ
 
 to carry
@@ -4619,7 +4648,7 @@ to go (well, etc.)
 to proceed
 to progress
 "
-476,疲れる,"疲れる
+480,疲れる,"疲れる
 つかれる
 
 to get tired
@@ -4627,14 +4656,14 @@ to tire
 to be worn out (e.g. of well used objects)
 to starve
 "
-477,遭遇,"遭遇
+481,遭遇,"遭遇
 そうぐう
 
 encounter
 being confronted with (e.g. difficulty)
 meeting with (e.g. accident)
 "
-478,割合,"割合
+482,割合,"割合
 わりあい
 
 rate
@@ -4644,7 +4673,7 @@ proportion
 comparatively
 contrary to expectations
 "
-479,制度,"制度
+483,制度,"制度
 せいど
 
 system
@@ -4652,7 +4681,7 @@ institution
 organization
 organisation
 "
-480,途端,"途端
+484,途端,"途端
 とたん
 
 just (now, at the moment, etc.)
@@ -4661,13 +4690,13 @@ in the act of
 as soon as
 at the moment that
 "
-481,机,"机
+485,机,"机
 つくえ
 つき
 
 desk
 "
-482,背景,"背景
+486,背景,"背景
 はいけい
 
 background
@@ -4679,18 +4708,18 @@ context
 backing
 support (from behind the scenes)
 "
-483,九月,"九月
+487,九月,"九月
 くがつ
 
 September
 "
-484,八日,"八日
+488,八日,"八日
 ようか
 
 the eighth day of the month
 eight days
 "
-485,個人,"個人
+489,個人,"個人
 こじん
 
 individual
@@ -4698,14 +4727,14 @@ private person
 personal
 private
 "
-486,首相,"首相
+490,首相,"首相
 しゅしょう
 
 Prime Minister
 Chancellor (Germany, Austria, etc.)
 Premier
 "
-487,玄関,"玄関
+491,玄関,"玄関
 げんかん
 
 entranceway
@@ -4715,7 +4744,7 @@ foyer
 entryway
 mud room
 "
-488,遅れる,"遅れる
+492,遅れる,"遅れる
 おくれる
 
 to be late
@@ -4723,7 +4752,7 @@ to be delayed
 to fall behind schedule
 to be overdue
 "
-489,地震,"地震
+493,地震,"地震
 じしん
 ない
 なえ
@@ -4731,46 +4760,46 @@ to be overdue
 
 earthquake
 "
-490,四日,"四日
+494,四日,"四日
 よっか
 
 fourth day of the month
 four days
 "
-491,昨夜,"昨夜
+495,昨夜,"昨夜
 ゆうべ
 さくや
 
 last night
 evening
 "
-492,二十歳,"二十歳
+496,二十歳,"二十歳
 はたち
 にじゅっさい 20
 
 years old
 twenty
 "
-493,封筒,"封筒
+497,封筒,"封筒
 ふうとう
 
 envelope
 "
-494,廊下,"廊下
+498,廊下,"廊下
 ろうか
 
 corridor
 hallway
 passageway
 "
-495,賑やか,"賑やか
+499,賑やか,"賑やか
 にぎやか
 
 bustling
 busy
 lively
 "
-496,引っ張る,"引っ張る
+500,引っ張る,"引っ張る
 ひっぱる
 
 to pull
@@ -4797,32 +4826,32 @@ to pull the ball
 to wear
 to put on
 "
-497,近所,"近所
+501,近所,"近所
 きんじょ
 
 neighbourhood
 neighborhood
 "
-498,舞台,"舞台
+502,舞台,"舞台
 ぶたい
 
 stage (theatre, theater)
 scene or setting (e.g. of novel, play, etc.)
 "
-499,台所,"台所
+503,台所,"台所
 だいどころ
 だいどこ
 
 kitchen
 financial situation
 "
-500,存在,"存在
+504,存在,"存在
 そんざい
 
 existence
 being
 "
-501,処理,"処理
+505,処理,"処理
 しょり
 
 processing
@@ -4831,19 +4860,19 @@ treatment
 disposition
 disposal
 "
-502,宿題,"宿題
+506,宿題,"宿題
 しゅくだい
 
 homework
 "
-503,規則,"規則
+507,規則,"規則
 きそく
 
 rules
 regulations
 conventions
 "
-504,砂,"砂
+508,砂,"砂
 すな
 いさご
 
@@ -4852,7 +4881,7 @@ grit
 gold dust
 silver dust
 "
-505,感覚,"感覚
+509,感覚,"感覚
 かんかく
 
 sense
@@ -4860,7 +4889,7 @@ sensation
 feeling
 intuition
 "
-506,商品,"商品
+510,商品,"商品
 しょうひん
 
 commodity
@@ -4869,14 +4898,14 @@ goods
 stock
 merchandise
 "
-507,再び,"再び
+511,再び,"再び
 ふたたび
 
 again
 once more
 a second time
 "
-508,東西,"東西
+512,東西,"東西
 とうざい
 ひがしにし
 
@@ -4887,13 +4916,13 @@ Ladies and Gentlemen!
 Your attention, please!
 roll-up, roll-up
 "
-509,探検,"探検
+513,探検,"探検
 たんけん
 
 exploration
 expedition
 "
-510,撃つ,"撃つ
+514,撃つ,"撃つ
 うつ
 
 to shoot (at)
@@ -4902,7 +4931,7 @@ to defeat
 to destroy
 to avenge
 "
-511,至る,"至る
+515,至る,"至る
 いたる
 
 to arrive at (e.g. a decision)
@@ -4914,7 +4943,7 @@ to come
 to arrive
 to result in
 "
-512,難しい,"難しい
+516,難しい,"難しい
 むずかしい
 むつかしい
 
@@ -4941,7 +4970,7 @@ uncomfortable
 creepy
 spooky
 "
-513,現在,"現在
+517,現在,"現在
 げんざい
 
 now
@@ -4950,7 +4979,7 @@ present
 present time
 as of
 "
-514,蛇,"蛇
+518,蛇,"蛇
 へび
 じゃ
 くちなわ
@@ -4960,7 +4989,7 @@ snake
 serpent
 large snake
 "
-515,依頼,"依頼
+519,依頼,"依頼
 いらい
 
 request
@@ -4970,14 +4999,14 @@ despatch
 dependence
 trust
 "
-516,飾る,"飾る
+520,飾る,"飾る
 かざる
 
 to decorate
 to ornament
 to adorn
 "
-517,細い,"細い
+521,細い,"細い
 ほそい
 
 thin
@@ -4985,7 +5014,7 @@ slender
 fine
 unlucky (billiards slang)
 "
-518,椅子,"椅子
+522,椅子,"椅子
 いす
 
 chair
@@ -4994,7 +5023,7 @@ post
 office
 position
 "
-519,大勢,"大勢
+523,大勢,"大勢
 おおぜい
 たいぜい
 
@@ -5002,7 +5031,7 @@ many
 crowd
 great number of people
 "
-520,示す,"示す
+524,示す,"示す
 しめす
 
 to (take out and) show
@@ -5017,17 +5046,17 @@ to represent
 to signify
 to display
 "
-521,石鹸,"石鹸
+525,石鹸,"石鹸
 せっけん
 
 soap
 "
-522,選挙,"選挙
+526,選挙,"選挙
 せんきょ
 
 election
 "
-523,崩れる,"崩れる
+527,崩れる,"崩れる
 くずれる
 
 to collapse
@@ -5046,7 +5075,7 @@ to turn bad (e.g. weather)
 to change for the worse
 to deteriorate
 "
-524,首,"首
+528,首,"首
 くび
 
 neck
@@ -5055,12 +5084,12 @@ dismissal
 discharge
 firing (from a job)
 "
-525,季節,"季節
+529,季節,"季節
 きせつ
 
 season
 "
-526,枝,"枝
+530,枝,"枝
 えだ
 
 branch
@@ -5069,7 +5098,7 @@ bough
 twig
 limb
 "
-527,形,"形
+531,形,"形
 かたち
 
 form
@@ -5077,7 +5106,7 @@ shape
 figure
 visage
 "
-528,殴る,"殴る
+532,殴る,"殴る
 なぐる
 
 to strike
@@ -5085,7 +5114,7 @@ to hit
 to beat
 to punch
 "
-529,謎,"謎
+533,謎,"謎
 なぞ
 
 riddle
@@ -5095,13 +5124,13 @@ mystery
 enigmatic
 mysterious
 "
-530,廃墟,"廃墟
+534,廃墟,"廃墟
 はいきょ
 
 ruins
 abandoned building
 "
-531,登録,"登録
+535,登録,"登録
 とうろく
 
 registration
@@ -5110,13 +5139,13 @@ register
 entry
 record
 "
-532,傘,"傘
+536,傘,"傘
 かさ
 
 umbrella
 parasol
 "
-533,寄る,"寄る
+537,寄る,"寄る
 よる
 
 to approach
@@ -5139,7 +5168,7 @@ to decide on a price and come to a deal
 to be swayed by (a person)
 to yield to
 "
-534,分ける,"分ける
+538,分ける,"分ける
 わける
 
 to divide (into)
@@ -5164,7 +5193,7 @@ to tie
 to push one's way through (a crowd)
 to sell
 "
-535,通じる,"通じる
+539,通じる,"通じる
 つうじる
 
 to be open (to traffic)
@@ -5186,7 +5215,7 @@ to be intimate
 to spread widely
 to disseminate
 "
-536,相当,"相当
+540,相当,"相当
 そうとう
 
 befitting
@@ -5204,7 +5233,7 @@ to be equivalent
 extremely
 considerably
 "
-537,割合,"割合
+541,割合,"割合
 わりあい
 
 rate
@@ -5214,7 +5243,7 @@ proportion
 comparatively
 contrary to expectations
 "
-538,かかる,"かかる
+542,かかる,"かかる
 かかる
 
 to take (a resource, e.g. time or money)
@@ -5237,7 +5266,7 @@ to be caught in
 to get a call
 to depend on
 "
-539,流す,"流す
+543,流す,"流す
 ながす
 
 to drain
@@ -5254,7 +5283,7 @@ to float
 to set adrift
 to call off (a meeting, etc.)
 "
-540,落とす,"落とす
+544,落とす,"落とす
 おとす
 
 to drop
@@ -5297,7 +5326,7 @@ to make someone swoon (judo)
 to finish a story (e.g. with the punch line)
 to finish (a period, e.g. of fasting)
 "
-541,つける,"つける
+545,つける,"つける
 つける
 
 to attach
@@ -5332,7 +5361,7 @@ to turn on (light)
 to produce flowers
 to produce fruit
 "
-542,押す,"押す
+546,押す,"押す
 おす
 
 to push
@@ -5360,7 +5389,7 @@ to advance troops
 to attack
 (of light) to be diffused across an entire surface
 "
-543,受ける,"受ける
+547,受ける,"受ける
 うける
 
 to receive
@@ -5387,7 +5416,7 @@ to go down well
 to be funny
 to be humorous
 "
-544,落ちる,"落ちる
+548,落ちる,"落ちる
 おちる
 
 to fall down
@@ -5435,7 +5464,7 @@ to freeze
 to die
 to move to the depths
 "
-545,都合,"都合
+549,都合,"都合
 つごう
 
 circumstances
@@ -5449,7 +5478,7 @@ in all
 in total
 all told
 "
-546,やる,"やる
+550,やる,"やる
 やる
 
 to do
@@ -5496,7 +5525,7 @@ to do ... for (someone of equal or lower status)
 to do ... to (sometimes with negative nuance)
 to make active efforts to ...
 "
-547,太い,"太い
+551,太い,"太い
 ふとい
 
 fat
@@ -5507,7 +5536,7 @@ shameless
 brazen
 lucky (billiards)
 "
-548,無理,"無理
+552,無理,"無理
 むり
 
 unreasonable
@@ -5523,7 +5552,7 @@ to work too hard
 to try too hard
 irrational
 "
-549,締める,"締める
+553,締める,"締める
 しめる
 
 to tie
@@ -5541,7 +5570,7 @@ to make sushi adding a mixture of vinegar and salt
 to wear (necktie)
 to put on (necktie)
 "
-550,他,"他
+554,他,"他
 ほか
 
 other (place, thing, person)
@@ -5556,7 +5585,7 @@ no choice (but to)
 besides...
 in addition to...
 "
-551,起こす,"起こす
+555,起こす,"起こす
 おこす
 
 to raise
@@ -5590,7 +5619,7 @@ to transcribe
 to write down (what is spoken)
 to turn over (a card)
 "
-552,運ぶ,"運ぶ
+556,運ぶ,"運ぶ
 はこぶ
 
 to carry
@@ -5605,7 +5634,7 @@ to go (well, etc.)
 to proceed
 to progress
 "
-553,解く,"解く
+557,解く,"解く
 とく
 
 to untie
@@ -5635,7 +5664,7 @@ to comb (out)
 to card
 to untangle (hair)
 "
-554,登る,"登る
+558,登る,"登る
 のぼる
 
 to ascend
@@ -5651,7 +5680,7 @@ to swim up (a river)
 to sail up
 to come up (on the agenda)
 "
-555,正体,"正体
+559,正体,"正体
 しょうたい
 
 true character
@@ -5663,7 +5692,7 @@ origin
 consciousness
 one's senses
 "
-556,許す,"許す
+560,許す,"許す
 ゆるす
 
 to permit
@@ -5680,7 +5709,7 @@ to confide in
 to give up
 to yield
 "
-557,比べる,"比べる
+561,比べる,"比べる
 くらべる
 
 to compare
@@ -5688,7 +5717,7 @@ to make a comparison
 to compete
 to vie
 "
-558,かける,"かける
+562,かける,"かける
 かける
 
 to hang (e.g. picture)
@@ -5728,7 +5757,7 @@ to begin (but not complete) ...
 to be about to ...
 indicates (verb) is being directed to (someone)
 "
-559,降りる,"降りる
+563,降りる,"降りる
 おりる
 
 to descend (e.g. a mountain)
@@ -5749,7 +5778,7 @@ to form (of frost, dew, mist, etc.)
 to be passed (from the body
 e.g. of a roundworm)
 "
-560,踏む,"踏む
+564,踏む,"踏む
 ふむ
 
 to step on
@@ -5763,7 +5792,7 @@ to rhyme
 to inherit (the throne, etc.)
 to follow (rules, morals, principles, etc.)
 "
-561,引っ張る,"引っ張る
+565,引っ張る,"引っ張る
 ひっぱる
 
 to pull
@@ -5790,7 +5819,7 @@ to pull the ball
 to wear
 to put on
 "
-562,付く,"付く
+566,付く,"付く
 つく
 
 to be attached
@@ -5826,7 +5855,7 @@ to be perceived
 to be lucky
 to become (a state, condition, etc.)
 "
-563,込む,"込む
+567,込む,"込む
 こむ
 
 to be crowded
@@ -5840,7 +5869,7 @@ to do thoroughly
 to do intently
 to continue in the same state
 "
-564,離れる,"離れる
+568,離れる,"離れる
 はなれる
 
 to be separated
@@ -5854,7 +5883,7 @@ to give up
 to lose connection with
 to drift away from
 "
-565,箱,"箱
+569,箱,"箱
 はこ
 
 box
@@ -5872,7 +5901,7 @@ receptacle for human waste
 feces (faeces)
 counter for boxes (or boxed objects)
 "
-566,厳しい,"厳しい
+570,厳しい,"厳しい
 きびしい
 いかめしい
 
@@ -5889,7 +5918,7 @@ majestic
 intense (cold)
 harsh
 "
-567,席,"席
+571,席,"席
 せき
 
 seat
@@ -5898,7 +5927,7 @@ place
 position
 post
 "
-568,考える,"考える
+572,考える,"考える
 かんがえる
 
 to think about
@@ -5921,7 +5950,7 @@ to doubt
 to consider (somebody to be something)
 to look on
 "
-569,返す,"返す
+573,返す,"返す
 かえす
 
 to return (something)
@@ -5936,7 +5965,7 @@ to reciprocate
 to repeat ...
 to do ... back
 "
-570,渡す,"渡す
+574,渡す,"渡す
 わたす
 
 to ferry across (e.g. a river)
@@ -5950,7 +5979,7 @@ to pass
 to give
 to transfer
 "
-571,入る,"入る
+575,入る,"入る
 はいる
 
 to enter
@@ -5966,7 +5995,7 @@ to get
 to receive
 to score
 "
-572,だけ,"だけ
+576,だけ,"だけ
 だけ
 
 only
@@ -5979,7 +6008,7 @@ alone
 as (e.g. as soon as, as much as)
 worth
 "
-573,様子,"様子
+577,様子,"様子
 ようす
 
 state
@@ -5992,7 +6021,7 @@ aspect
 sign
 indication
 "
-574,開く,"開く
+578,開く,"開く
 あく
 
 to open (e.g. doors)
@@ -6009,7 +6038,7 @@ to have a hole
 to form a gap
 to have an interval (between events)
 "
-575,末,"末
+579,末,"末
 すえ
 
 tip
@@ -6024,7 +6053,7 @@ future
 finally
 trivialities
 "
-576,吹く,"吹く
+580,吹く,"吹く
 ふく
 
 to blow (of the wind)​
@@ -6051,7 +6080,7 @@ to talk big​
 to smelt
 to mint
 "
-577,下げる,"下げる
+581,下げる,"下げる
 さげる
 
 to hang
@@ -6066,7 +6095,7 @@ to pull back
 to clear (plates)
 to remove (food, etc. from table or altar)
 "
-578,多少,"多少
+582,多少,"多少
 たしょう
 
 more or less
@@ -6077,7 +6106,7 @@ some
 amount
 quantity
 "
-579,影,"影
+583,影,"影
 かげ
 
 shadow
@@ -6091,7 +6120,7 @@ light (stars, moon)
 trace
 shadow (of one's former self)
 "
-580,耐える,"耐える
+584,耐える,"耐える
 たえる
 
 to bear
@@ -6105,7 +6134,7 @@ to brave
 to be fit for
 to be equal to
 "
-581,不可,"不可
+585,不可,"不可
 ふか
 
 wrong
@@ -6117,7 +6146,7 @@ not allowed
 not possible
 failing grade
 "
-582,道,"道
+586,道,"道
 みち
 
 road
@@ -6140,7 +6169,7 @@ way
 method
 means
 "
-583,先,"先
+587,先,"先
 さき
 
 previous
@@ -6163,7 +6192,7 @@ hereafter
 destination
 the other party
 "
-584,あげる,"あげる
+588,あげる,"あげる
 あげる
 
 to raise
@@ -6201,7 +6230,7 @@ to do for (the sake of someone else)
 to complete ...
 to humbly do ...
 "
-585,以上,"以上
+589,以上,"以上
 いじょう
 
 not less than
@@ -6218,7 +6247,7 @@ this is all
 that is the end
 the end
 "
-586,通う,"通う
+590,通う,"通う
 かよう
 
 to go to and from (a place)
@@ -6233,7 +6262,7 @@ to circulate (e.g. blood, electricity)
 to be communicated (e.g. thought)
 to resemble
 "
-587,若い,"若い
+591,若い,"若い
 わかい
 
 young
@@ -6243,7 +6272,7 @@ green
 low (number)
 small
 "
-588,型,"型
+592,型,"型
 かた
 がた
 
@@ -6260,7 +6289,7 @@ form (i.e. customary procedure)
 size (i.e. clothing, shoes)
 (taxonomical) form
 "
-589,間,"間
+593,間,"間
 あいだ
 あわい
 
@@ -6279,7 +6308,7 @@ members (within, among)
 due to
 because of
 "
-590,風呂,"風呂
+594,風呂,"風呂
 ふろ
 
 bath
@@ -6289,7 +6318,7 @@ bathhouse
 room for drying lacquerware
 base (wooden joint connecting the blade of a hoe, spade, etc., to the handle)
 "
-591,名,"名
+595,名,"名
 な
 
 name
@@ -6303,7 +6332,7 @@ pretense
 justification
 appearance
 "
-592,置く,"置く
+596,置く,"置く
 おく
 
 to put
@@ -6324,7 +6353,7 @@ to do something in advance
 to leave something in a certain state
 to keep something in a certain state
 "
-593,浴びる,"浴びる
+597,浴びる,"浴びる
 あびる
 
 to dash over oneself (e.g. water)
@@ -6338,7 +6367,7 @@ to draw (e.g. criticism, attention, praise)
 to have heaped upon
 to be showered with
 "
-594,甘い,"甘い
+598,甘い,"甘い
 あまい
 
 sweet-tasting
@@ -6368,7 +6397,7 @@ tempting
 enticing
 luring
 "
-595,飲む,"飲む
+599,飲む,"飲む
 のむ
 
 to drink
@@ -6384,7 +6413,7 @@ to accept (e.g. demand, condition)
 to make light of
 to conceal
 "
-596,空,"空
+600,空,"空
 そら
 
 sky
@@ -6403,7 +6432,7 @@ somehow
 vaguely
 fake
 "
-597,差す,"差す
+601,差す,"差す
 さす
 
 to shine
@@ -6440,7 +6469,7 @@ to fasten
 to stop in the midst of
 to leave undone
 "
-598,貼る,"貼る
+602,貼る,"貼る
 はる
 
 to stick
@@ -6464,7 +6493,7 @@ to become one tile away from completion
 to span
 to generate
 "
-599,実際に,"実際に
+603,実際に,"実際に
 じっさいに
 
 virtually
@@ -6474,7 +6503,7 @@ actually
 currently
 presently
 "
-600,代わり,"代わり
+604,代わり,"代わり
 かわり
 
 substitute
@@ -6496,7 +6525,7 @@ seconds
 upcoming program
 upcoming programme
 "
-601,自然,"自然
+605,自然,"自然
 しぜん
 
 nature
@@ -6505,7 +6534,7 @@ spontaneous
 naturally
 spontaneously
 "
-602,決める,"決める
+606,決める,"決める
 きめる
 
 to decide
@@ -6536,7 +6565,7 @@ to immobilize with a double-arm lock (in sumo, judo, etc.)
 to eat or drink something
 to take illegal drugs
 "
-603,汚い,"汚い
+607,汚い,"汚い
 きたない
 
 dirty
@@ -6558,7 +6587,7 @@ underhanded
 stingy
 greedy
 "
-604,通る,"通る
+608,通る,"通る
 とおる
 
 to go by
@@ -6613,7 +6642,7 @@ to be wise
 to do ... completely
 to do ... thoroughly
 "
-605,立つ,"立つ
+609,立つ,"立つ
 たつ
 
 to stand
@@ -6622,7 +6651,7 @@ to stand up
 to find oneself (e.g. in a difficult position)
 to depart (on a plane, train, etc.)
 "
-606,切る,"切る
+610,切る,"切る
 きる
 
 to cut
@@ -6671,7 +6700,7 @@ to start a fire (with wood-wood friction or by striking a metal against stone)
 to draw (a shape) in the air (with a sword, etc.)
 to finish
 "
-607,元,"元
+611,元,"元
 もと
 
 origin
@@ -6695,7 +6724,7 @@ counter for blades of grass, tree trunks, etc., and for falcons (in falconry)
 handle (chopsticks, brush, etc.)
 grip
 "
-608,撃つ,"撃つ
+612,撃つ,"撃つ
 うつ
 
 to shoot (at)
@@ -6704,14 +6733,14 @@ to defeat
 to destroy
 to avenge
 "
-609,くれぐれも,"くれぐれも
+613,くれぐれも,"くれぐれも
 くれぐれも
 
 repeatedly
 sincerely
 earnestly
 "
-610,耐える,"耐える
+614,耐える,"耐える
 たえる
 
 to bear
@@ -6725,7 +6754,7 @@ to brave
 to be fit for
 to be equal to
 "
-611,まったく,"まったく
+615,まったく,"まったく
 まったく
 
 really
@@ -6737,7 +6766,7 @@ perfectly
 indeed
 good grief (expression of exasperation)
 "
-612,我慢,"我慢
+616,我慢,"我慢
 がまん
 
 patience
@@ -6747,7 +6776,7 @@ tolerance
 self-control
 self-denial
 "
-613,叫ぶ,"叫ぶ
+617,叫ぶ,"叫ぶ
 さけぶ
 
 to shout
@@ -6759,7 +6788,7 @@ to exclaim
 to clamor (for or against)
 to clamour (for or against)
 "
-614,違和感,"違和感
+618,違和感,"違和感
 いわかん
 
 uncomfortable feeling
@@ -6768,18 +6797,18 @@ sense of discomfort
 malaise
 physical unease
 "
-615,狂気,"狂気
+619,狂気,"狂気
 きょうき
 
 madness
 insanity
 "
-616,地理,"地理
+620,地理,"地理
 ちり
 
 geography
 "
-617,通じる,"通じる
+621,通じる,"通じる
 つうじる
 
 to be open (to traffic)
@@ -6801,7 +6830,7 @@ to be intimate
 to spread widely
 to disseminate
 "
-618,大体,"大体
+622,大体,"大体
 だいたい
 
 outline
@@ -6815,7 +6844,7 @@ in the first place
 to begin with
 from the start
 "
-619,寄る,"寄る
+623,寄る,"寄る
 よる
 
 to approach
@@ -6838,13 +6867,13 @@ to decide on a price and come to a deal
 to be swayed by (a person)
 to yield to
 "
-620,廃墟,"廃墟
+624,廃墟,"廃墟
 はいきょ
 
 ruins
 abandoned building
 "
-621,訊く,"訊く
+625,訊く,"訊く
 きく
 
 to hear
@@ -6859,7 +6888,7 @@ to comply with
 to smell (esp. incense)
 to sample fragrance
 "
-622,覚める,"覚める
+626,覚める,"覚める
 さめる
 
 to wake
@@ -6870,7 +6899,7 @@ to regain consciousness (e.g. after anaesthesia)
 to come to one's senses
 to be disillusioned
 "
-623,ともかく,"ともかく
+627,ともかく,"ともかく
 ともかく
 
 anyhow
@@ -6880,7 +6909,7 @@ generally speaking
 in any case
 be that as it may
 "
-624,余裕,"余裕
+628,余裕,"余裕
 よゆう
 
 surplus
@@ -6897,7 +6926,7 @@ placidity
 complacency
 calm
 "
-625,正体,"正体
+629,正体,"正体
 しょうたい
 
 true character
@@ -6909,20 +6938,20 @@ origin
 consciousness
 one's senses
 "
-626,知識,"知識
+630,知識,"知識
 ちしき
 
 knowledge
 information
 "
-627,意味不明,"意味不明
+631,意味不明,"意味不明
 いみふめい
 
 of uncertain meaning
 ambiguous
 cryptic
 "
-628,引っ張る,"引っ張る
+632,引っ張る,"引っ張る
 ひっぱる
 
 to pull
@@ -6949,7 +6978,7 @@ to pull the ball
 to wear
 to put on
 "
-629,逆,"逆
+633,逆,"逆
 ぎゃく
 
 reverse
@@ -6957,7 +6986,7 @@ opposite
 converse (of a hypothesis, etc.)
 inverse (function)
 "
-630,に対して,"に対して
+634,に対して,"に対して
 にたいして
 
 towards
@@ -6965,19 +6994,19 @@ against
 regarding
 in contrast with
 "
-631,正気,"正気
+635,正気,"正気
 しょうき
 
 sanity
 consciousness
 soberness
 "
-632,現象,"現象
+636,現象,"現象
 げんしょう
 
 phenomenon
 "
-633,認識,"認識
+637,認識,"認識
 にんしき
 
 recognition
@@ -6989,7 +7018,7 @@ realisation
 awareness
 perception
 "
-634,視点,"視点
+638,視点,"視点
 してん
 
 opinion
@@ -6997,21 +7026,21 @@ point of view
 viewpoint
 visual point
 "
-635,体験,"体験
+639,体験,"体験
 たいけん
 
 personal experience
 physical experience
 one's own experience
 "
-636,脳,"脳
+640,脳,"脳
 のう
 
 brain
 brains
 mind
 "
-637,普段,"普段
+641,普段,"普段
 ふだん
 
 usual
@@ -7020,19 +7049,19 @@ ordinary
 everyday
 always
 "
-638,向ける,"向ける
+642,向ける,"向ける
 むける
 
 to turn towards
 to point
 "
-639,言動,"言動
+643,言動,"言動
 げんどう
 
 speech and conduct
 words and deeds
 "
-640,襲う,"襲う
+644,襲う,"襲う
 おそう
 
 to attack
@@ -7043,7 +7072,7 @@ to hunt down
 to succeed (someone in a post, role, etc.)
 to make a sudden visit
 "
-641,予想,"予想
+645,予想,"予想
 よそう
 
 expectation
@@ -7052,7 +7081,7 @@ prediction
 forecast
 conjecture
 "
-642,領域,"領域
+646,領域,"領域
 りょういき
 
 area
@@ -7063,14 +7092,14 @@ range
 region
 regime
 "
-643,人見知り,"人見知り
+647,人見知り,"人見知り
 ひとみしり
 
 shyness
 fear of strangers
 stranger anxiety
 "
-644,段階,"段階
+648,段階,"段階
 だんかい
 
 grade
@@ -7082,13 +7111,13 @@ steps
 order
 gradation
 "
-645,探検,"探検
+649,探検,"探検
 たんけん
 
 exploration
 expedition
 "
-646,視線,"視線
+650,視線,"視線
 しせん
 
 one's line of sight
@@ -7098,19 +7127,19 @@ glance
 gaze
 look
 "
-647,冗談,"冗談
+651,冗談,"冗談
 じょうだん
 
 jest
 joke
 funny story
 "
-648,秒,"秒
+652,秒,"秒
 びょう
 
 second (60th min)
 "
-649,叩く,"叩く
+653,叩く,"叩く
 たたく
 
 to strike
@@ -7130,12 +7159,12 @@ to talk big
 to call
 to invoke (e.g. a function)
 "
-650,恐る恐る,"恐る恐る
+654,恐る恐る,"恐る恐る
 おそるおそる
 
 timidly
 "
-651,なお,"なお
+655,なお,"なお
 なお
 
 furthermore
@@ -7147,7 +7176,7 @@ in addition
 greater
 further
 "
-652,から,"から
+656,から,"から
 から
 
 from (e.g. time, place, numerical quantity)
@@ -7161,7 +7190,7 @@ through (e.g. window, vestibule)
 after
 since
 "
-653,きれい,"きれい
+657,きれい,"きれい
 きれい
 
 pretty
@@ -7176,7 +7205,7 @@ neat
 completely
 entirely
 "
-654,左右,"左右
+658,左右,"左右
 さゆう
 そう
 さう
@@ -7186,18 +7215,18 @@ influence
 control
 domination
 "
-655,おもちゃ,"おもちゃ
+659,おもちゃ,"おもちゃ
 おもちゃ
 
 toy
 plaything
 "
-656,歩く,"歩く
+660,歩く,"歩く
 あるく
 
 to walk
 "
-657,だけ,"だけ
+661,だけ,"だけ
 だけ
 
 only
@@ -7210,12 +7239,12 @@ alone
 as (e.g. as soon as, as much as)
 worth
 "
-658,西,"西
+662,西,"西
 にし
 
 west
 "
-659,文字,"文字
+663,文字,"文字
 もじ
 もんじ
 
@@ -7223,7 +7252,7 @@ letter (of alphabet)
 character
 literal
 "
-660,そう,"そう
+664,そう,"そう
 そう
 
 so
@@ -7234,7 +7263,7 @@ seeming that
 looking like
 having the appearance of
 "
-661,昼,"昼
+665,昼,"昼
 ひる
 
 noon
@@ -7242,7 +7271,7 @@ midday
 daytime
 lunch
 "
-662,天気,"天気
+666,天気,"天気
 てんき
 
 weather
@@ -7250,14 +7279,14 @@ the elements
 fair weather
 fine weather
 "
-663,会社,"会社
+667,会社,"会社
 かいしゃ
 
 company
 corporation
 workplace
 "
-664,仕事,"仕事
+668,仕事,"仕事
 しごと
 
 work
@@ -7269,7 +7298,7 @@ vocation
 task
 work
 "
-665,作る,"作る
+669,作る,"作る
 つくる
 
 to make
@@ -7302,26 +7331,26 @@ to form (a line, etc.)
 to set (a record)
 to commit (a sin, etc.)
 "
-666,いつ,"いつ
+670,いつ,"いつ
 いつ
 
 when
 how soon
 "
-667,見つかる,"見つかる
+671,見つかる,"見つかる
 みつかる
 
 to be found
 to be discovered
 "
-668,広い,"広い
+672,広い,"広い
 ひろい
 
 spacious
 vast
 wide
 "
-669,社会,"社会
+673,社会,"社会
 しゃかい
 
 society
@@ -7330,12 +7359,12 @@ community
 the world
 social studies
 "
-670,売る,"売る
+674,売る,"売る
 うる
 
 to sell
 "
-671,見せる,"見せる
+675,見せる,"見せる
 みせる
 
 to show
@@ -7351,14 +7380,14 @@ to resolve to do
 to do at any cost
 to show others that one will ...
 "
-672,研究,"研究
+676,研究,"研究
 けんきゅう
 
 study
 research
 investigation
 "
-673,呼ぶ,"呼ぶ
+677,呼ぶ,"呼ぶ
 よぶ
 
 to call out (to)
@@ -7373,7 +7402,7 @@ to garner (support, etc.)
 to gather
 to take as one's wife
 "
-674,送る,"送る
+678,送る,"送る
 おくる
 
 to send (a thing)
@@ -7390,7 +7419,7 @@ to pass (down the line)
 to affix okurigana
 to present (e.g. a movie)
 "
-675,少ない,"少ない
+679,少ない,"少ない
 すくない
 
 few
@@ -7399,7 +7428,7 @@ scarce
 insufficient
 seldom
 "
-676,考える,"考える
+680,考える,"考える
 かんがえる
 
 to think about
@@ -7422,21 +7451,21 @@ to doubt
 to consider (somebody to be something)
 to look on
 "
-677,社長,"社長
+681,社長,"社長
 しゃちょう
 
 company president
 manager
 director
 "
-678,東,"東
+682,東,"東
 ひがし
 ひむかし
 ひんがし
 
 east
 "
-679,工場,"工場
+683,工場,"工場
 こうじょう
 こうば
 
@@ -7445,7 +7474,7 @@ plant
 mill
 workshop
 "
-680,場所,"場所
+684,場所,"場所
 ばしょ
 
 place
@@ -7457,7 +7486,7 @@ space
 basho
 wrestling tournament
 "
-681,全部,"全部
+685,全部,"全部
 ぜんぶ
 
 all
@@ -7465,19 +7494,19 @@ entire
 whole
 altogether
 "
-682,両親,"両親
+686,両親,"両親
 りょうしん
 ふたおや
 
 parents
 both parents
 "
-683,雪,"雪
+687,雪,"雪
 ゆき
 
 snow
 "
-684,予定,"予定
+688,予定,"予定
 よてい
 
 plans
@@ -7488,13 +7517,13 @@ programme
 expectation
 estimate
 "
-685,選ぶ,"選ぶ
+689,選ぶ,"選ぶ
 えらぶ
 
 to choose
 to select
 "
-686,最近,"最近
+690,最近,"最近
 さいきん
 
 most recent
@@ -7503,21 +7532,21 @@ right now
 recently
 nowadays
 "
-687,自由,"自由
+691,自由,"自由
 じゆう
 
 freedom
 liberty
 as it pleases you
 "
-688,警察,"警察
+692,警察,"警察
 けいさつ
 
 police
 police officer
 police station
 "
-689,運ぶ,"運ぶ
+693,運ぶ,"運ぶ
 はこぶ
 
 to carry
@@ -7532,43 +7561,43 @@ to go (well, etc.)
 to proceed
 to progress
 "
-690,安全,"安全
+694,安全,"安全
 あんぜん
 
 safety
 security
 "
-691,番組,"番組
+695,番組,"番組
 ばんぐみ
 
 program (e.g. TV)
 programme
 "
-692,例えば,"例えば
+696,例えば,"例えば
 たとえば
 
 for example
 for instance
 e.g.
 "
-693,台風,"台風
+697,台風,"台風
 たいふう
 
 typhoon
 hurricane
 "
-694,小説,"小説
+698,小説,"小説
 しょうせつ
 
 novel
 (short) story
 "
-695,空港,"空港
+699,空港,"空港
 くうこう
 
 airport
 "
-696,庭,"庭
+700,庭,"庭
 にわ
 
 garden
@@ -7577,7 +7606,7 @@ courtyard
 field (of action)
 area
 "
-697,相手,"相手
+701,相手,"相手
 あいて
 
 companion
@@ -7587,7 +7616,7 @@ other party
 addressee
 opponent (sports, etc.)
 "
-698,押す,"押す
+702,押す,"押す
 おす
 
 to push
@@ -7615,14 +7644,14 @@ to advance troops
 to attack
 (of light) to be diffused across an entire surface
 "
-699,高い,"高い
+703,高い,"高い
 たかい
 
 high
 tall
 expensive
 "
-700,あげる,"あげる
+704,あげる,"あげる
 あげる
 
 to raise
@@ -7660,7 +7689,7 @@ to do for (the sake of someone else)
 to complete ...
 to humbly do ...
 "
-701,使う,"使う
+705,使う,"使う
 つかう
 
 to use (a thing, method, etc.)
@@ -7677,17 +7706,17 @@ to consume
 to use (language)
 to speak
 "
-702,経験,"経験
+706,経験,"経験
 けいけん
 
 experience
 "
-703,金曜日,"金曜日
+707,金曜日,"金曜日
 きんようび
 
 Friday
 "
-704,作家,"作家
+708,作家,"作家
 さっか
 
 author
@@ -7695,23 +7724,23 @@ writer
 novelist
 artist
 "
-705,病院,"病院
+709,病院,"病院
 びょういん
 
 hospital
 "
-706,昔,"昔
+710,昔,"昔
 むかし
 
 olden days
 former
 "
-707,南,"南
+711,南,"南
 みなみ
 
 south
 "
-708,頼む,"頼む
+712,頼む,"頼む
 たのむ
 
 to request
@@ -7723,12 +7752,12 @@ to reserve
 to entrust to
 to rely on
 "
-709,新聞,"新聞
+713,新聞,"新聞
 しんぶん
 
 newspaper
 "
-710,北,"北
+714,北,"北
 きた
 
 north
@@ -7737,12 +7766,12 @@ northern territories
 North Korea
 north wind
 "
-711,月曜日,"月曜日
+715,月曜日,"月曜日
 げつようび
 
 Monday
 "
-712,種類,"種類
+716,種類,"種類
 しゅるい
 
 variety
@@ -7751,7 +7780,7 @@ type
 category
 counter for different sorts of things
 "
-713,約束,"約束
+717,約束,"約束
 やくそく
 
 promise
@@ -7768,7 +7797,7 @@ rule
 destiny
 fate
 "
-714,どちら,"どちら
+718,どちら,"どちら
 どちら
 
 which way
@@ -7777,7 +7806,7 @@ where
 which one (esp. of two alternatives)
 who
 "
-715,落ちる,"落ちる
+719,落ちる,"落ちる
 おちる
 
 to fall down
@@ -7825,7 +7854,7 @@ to freeze
 to die
 to move to the depths
 "
-716,発表,"発表
+720,発表,"発表
 はっぴょう
 
 announcement
@@ -7839,31 +7868,31 @@ expressing (one's opinion)
 releasing
 unveiling
 "
-717,夕方,"夕方
+721,夕方,"夕方
 ゆうがた
 
 evening
 dusk
 "
-718,日記,"日記
+722,日記,"日記
 にっき
 
 diary
 journal
 "
-719,違い,"違い
+723,違い,"違い
 ちがい
 
 difference
 discrepancy
 "
-720,旅行,"旅行
+724,旅行,"旅行
 りょこう
 
 travel
 trip
 "
-721,受ける,"受ける
+725,受ける,"受ける
 うける
 
 to receive
@@ -7890,13 +7919,13 @@ to go down well
 to be funny
 to be humorous
 "
-722,自転車,"自転車
+726,自転車,"自転車
 じてんしゃ
 じでんしゃ
 
 bicycle
 "
-723,新しい,"新しい
+727,新しい,"新しい
 あたらしい
 
 new
@@ -7907,14 +7936,14 @@ latest
 up-to-date
 modern
 "
-724,病気,"病気
+728,病気,"病気
 びょうき
 
 illness
 disease
 sickness
 "
-725,趣味,"趣味
+729,趣味,"趣味
 しゅみ
 
 hobby
@@ -7923,7 +7952,7 @@ tastes
 preference
 liking
 "
-726,準備,"準備
+730,準備,"準備
 じゅんび
 
 preparation
@@ -7932,7 +7961,7 @@ arrangements
 provision
 reserve
 "
-727,違う,"違う
+731,違う,"違う
 ちがう
 
 to differ (from)
@@ -7943,13 +7972,13 @@ to be different from promised
 isn't it?
 wasn't it?
 "
-728,政府,"政府
+732,政府,"政府
 せいふ
 
 government
 administration
 "
-729,夫婦,"夫婦
+733,夫婦,"夫婦
 ふうふ
 めおと
 みょうと
@@ -7962,7 +7991,7 @@ pair
 his and hers
 pair of objects, one larger (for man), one smaller (for woman)
 "
-730,性格,"性格
+734,性格,"性格
 せいかく
 
 character
@@ -7970,7 +7999,7 @@ personality
 disposition
 nature
 "
-731,大切,"大切
+735,大切,"大切
 たいせつ
 たいせち
 
@@ -7984,13 +8013,13 @@ cherished
 valuable
 careful
 "
-732,生まれる,"生まれる
+736,生まれる,"生まれる
 うまれる
 
 to be born
 to be produced
 "
-733,心配,"心配
+737,心配,"心配
 しんぱい
 
 worry
@@ -8001,13 +8030,13 @@ help
 aid
 assistance
 "
-734,図書館,"図書館
+738,図書館,"図書館
 としょかん
 ずしょかん
 
 library
 "
-735,弟,"弟
+739,弟,"弟
 おとうと
 おと
 おとと
@@ -8019,7 +8048,7 @@ kid brother
 pupil
 apprentice
 "
-736,実は,"実は
+740,実は,"実は
 じつは
 
 as a matter of fact
@@ -8028,20 +8057,20 @@ to tell you the truth
 to be honest
 frankly
 "
-737,部長,"部長
+741,部長,"部長
 ぶちょう
 
 head (chief, director) of a section or department
 head of a (school) club
 head of a (school) team
 "
-738,環境,"環境
+742,環境,"環境
 かんきょう
 
 environment
 circumstance
 "
-739,変,"変
+743,変,"変
 へん
 
 strange
@@ -8062,14 +8091,14 @@ disaster
 accident
 flat
 "
-740,習慣,"習慣
+744,習慣,"習慣
 しゅうかん
 
 habit
 custom
 cultural practice
 "
-741,先輩,"先輩
+745,先輩,"先輩
 せんぱい
 
 senior (at work or school)
@@ -8079,7 +8108,7 @@ older graduate
 progenitor
 old-timer
 "
-742,部屋,"部屋
+746,部屋,"部屋
 へや
 
 room
@@ -8089,32 +8118,32 @@ flat
 pad
 stable
 "
-743,広告,"広告
+747,広告,"広告
 こうこく
 
 advertisement
 "
-744,木曜日,"木曜日
+748,木曜日,"木曜日
 もくようび
 
 Thursday
 "
-745,水曜日,"水曜日
+749,水曜日,"水曜日
 すいようび
 
 Wednesday
 "
-746,砂糖,"砂糖
+750,砂糖,"砂糖
 さとう
 
 sugar
 "
-747,火曜日,"火曜日
+751,火曜日,"火曜日
 かようび
 
 Tuesday
 "
-748,起こす,"起こす
+752,起こす,"起こす
 おこす
 
 to raise
@@ -8148,18 +8177,18 @@ to transcribe
 to write down (what is spoken)
 to turn over (a card)
 "
-749,意味,"意味
+753,意味,"意味
 いみ
 
 meaning
 significance
 "
-750,学生,"学生
+754,学生,"学生
 がくせい
 
 student (esp. a university student)
 "
-751,信号,"信号
+755,信号,"信号
 しんごう
 
 signal
@@ -8168,7 +8197,7 @@ signaling
 traffic light
 traffic signal
 "
-752,町,"町
+756,町,"町
 まち
 ちょう
 
@@ -8183,12 +8212,12 @@ road
 downtown
 main street
 "
-753,公園,"公園
+757,公園,"公園
 こうえん
 
 (public) park
 "
-754,空気,"空気
+758,空気,"空気
 くうき
 
 air
@@ -8198,7 +8227,7 @@ situation
 someone with no presence
 someone who doesn't stand out at all
 "
-755,早い,"早い
+759,早い,"早い
 はやい
 
 fast
@@ -8214,7 +8243,7 @@ easy
 simple
 quick
 "
-756,秘密,"秘密
+760,秘密,"秘密
 ひみつ
 
 secret
@@ -8225,7 +8254,7 @@ secret
 mystery
 esoteric teachings
 "
-757,見つける,"見つける
+761,見つける,"見つける
 みつける
 
 to discover
@@ -8239,24 +8268,24 @@ to find fault
 to be used to seeing
 to be familiar with
 "
-758,首相,"首相
+762,首相,"首相
 しゅしょう
 
 Prime Minister
 Chancellor (Germany, Austria, etc.)
 Premier
 "
-759,人生,"人生
+763,人生,"人生
 じんせい
 
 (human) life (i.e. conception to death)
 "
-760,銀行,"銀行
+764,銀行,"銀行
 ぎんこう
 
 bank
 "
-761,厳しい,"厳しい
+765,厳しい,"厳しい
 きびしい
 いかめしい
 
@@ -8273,22 +8302,22 @@ majestic
 intense (cold)
 harsh
 "
-762,友人,"友人
+766,友人,"友人
 ゆうじん
 
 friend
 "
-763,食べ物,"食べ物
+767,食べ物,"食べ物
 たべもの
 
 food
 "
-764,動物,"動物
+768,動物,"動物
 どうぶつ
 
 animal
 "
-765,彼女,"彼女
+769,彼女,"彼女
 かのじょ
 
 she
@@ -8297,13 +8326,13 @@ her
 girlfriend
 sweetheart
 "
-766,遠い,"遠い
+770,遠い,"遠い
 とおい
 
 far
 distant
 "
-767,別れる,"別れる
+771,別れる,"別れる
 わかれる
 
 to be divided
@@ -8311,13 +8340,13 @@ to part from
 to separate (usu. for people)
 to bid farewell
 "
-768,友達,"友達
+772,友達,"友達
 ともだち
 
 friend
 companion
 "
-769,最後,"最後
+773,最後,"最後
 さいご
 
 last
@@ -8329,7 +8358,7 @@ no sooner than
 right after (often having negative consequences)
 one's final moments
 "
-770,包む,"包む
+774,包む,"包む
 くるむ
 つつむ
 
@@ -8344,7 +8373,7 @@ to hide
 to be engulfed in
 to be enveloped by
 "
-771,料理,"料理
+775,料理,"料理
 りょうり
 
 cooking
@@ -8355,7 +8384,7 @@ handling
 administration
 management
 "
-772,いくら,"いくら
+776,いくら,"いくら
 いくら
 
 how much?
@@ -8363,14 +8392,14 @@ how many?
 even
 even if
 "
-773,雑誌,"雑誌
+777,雑誌,"雑誌
 ざっし
 
 journal
 magazine
 periodical
 "
-774,間違い,"間違い
+778,間違い,"間違い
 まちがい
 
 mistake
@@ -8382,14 +8411,14 @@ trouble
 improper conduct (e.g. between man and woman)
 indiscretion
 "
-775,質問,"質問
+779,質問,"質問
 しつもん
 
 question
 inquiry
 enquiry
 "
-776,難しい,"難しい
+780,難しい,"難しい
 むずかしい
 むつかしい
 
@@ -8416,7 +8445,7 @@ uncomfortable
 creepy
 spooky
 "
-777,関係,"関係
+781,関係,"関係
 かんけい
 
 relation
@@ -8432,7 +8461,7 @@ sexual relationship
 related to ...
 connected to ...
 "
-778,怒る,"怒る
+782,怒る,"怒る
 おこる
 いかる
 
@@ -8443,7 +8472,7 @@ to scold
 to be angular
 to be square
 "
-779,探す,"探す
+783,探す,"探す
 さがす
 
 to search (for something desired, needed)
@@ -8451,18 +8480,18 @@ to look for
 to search (for something lost)
 to seek (a suspect in a crime)
 "
-780,犯人,"犯人
+784,犯人,"犯人
 はんにん
 
 offender
 criminal
 "
-781,建物,"建物
+785,建物,"建物
 たてもの
 
 building
 "
-782,助ける,"助ける
+786,助ける,"助ける
 たすける
 
 to save
@@ -8474,30 +8503,30 @@ to contribute (financially)
 to facilitate
 to stimulate
 "
-783,読書,"読書
+787,読書,"読書
 どくしょ
 とくしょ
 
 reading
 "
-784,書類,"書類
+788,書類,"書類
 しょるい
 
 documents
 official papers
 "
-785,理想,"理想
+789,理想,"理想
 りそう
 
 ideal
 ideals
 "
-786,盗む,"盗む
+790,盗む,"盗む
 ぬすむ
 
 to steal
 "
-787,最低,"最低
+791,最低,"最低
 さいてい
 
 least
@@ -8508,19 +8537,19 @@ disgusting
 horrible
 yuck!
 "
-788,勝つ,"勝つ
+792,勝つ,"勝つ
 かつ
 
 to win
 to gain victory
 "
-789,息子,"息子
+793,息子,"息子
 むすこ
 
 son
 penis
 "
-790,強い,"強い
+794,強い,"強い
 つよい
 
 strong
@@ -8531,20 +8560,20 @@ resistant
 resilient
 durable
 "
-791,飛行機,"飛行機
+795,飛行機,"飛行機
 ひこうき
 
 aeroplane
 airplane
 aircraft
 "
-792,番号,"番号
+796,番号,"番号
 ばんごう
 
 number
 series of digits
 "
-793,時代,"時代
+797,時代,"時代
 じだい
 
 period
@@ -8559,18 +8588,18 @@ antiquity
 antique
 period piece
 "
-794,窓,"窓
+798,窓,"窓
 まど
 
 window
 "
-795,いくつ,"いくつ
+799,いくつ,"いくつ
 いくつ
 
 how many?
 how old?
 "
-796,困る,"困る
+800,困る,"困る
 こまる
 
 to be troubled
@@ -8579,13 +8608,13 @@ to be bothered
 to be embarrassed
 to be stumped
 "
-797,教育,"教育
+801,教育,"教育
 きょういく
 
 training
 education
 "
-798,借りる,"借りる
+802,借りる,"借りる
 かりる
 
 to borrow
@@ -8593,12 +8622,12 @@ to have a loan
 to rent
 to hire
 "
-799,土曜日,"土曜日
+803,土曜日,"土曜日
 どようび
 
 Saturday
 "
-800,普通,"普通
+804,普通,"普通
 ふつう
 
 general
@@ -8609,13 +8638,13 @@ generally
 usually
 train that stops at every station
 "
-801,何か,"何か
+805,何か,"何か
 なにか
 なんか
 
 something
 "
-802,家事,"家事
+806,家事,"家事
 かじ
 
 housework
@@ -8623,13 +8652,13 @@ domestic chores
 family affairs
 household matters
 "
-803,子供,"子供
+807,子供,"子供
 こども
 
 child
 children
 "
-804,教室,"教室
+808,教室,"教室
 きょうしつ
 
 classroom
@@ -8638,7 +8667,7 @@ laboratory
 single-room school
 small school
 "
-805,授業,"授業
+809,授業,"授業
 じゅぎょう
 
 lesson
@@ -8646,13 +8675,13 @@ class work
 teaching
 instruction
 "
-806,長男,"長男
+810,長男,"長男
 ちょうなん
 
 eldest son (may be the only son)
 first-born son
 "
-807,兄弟,"兄弟
+811,兄弟,"兄弟
 きょうだい
 けいてい
 
@@ -8665,28 +8694,28 @@ sisters-in-law
 mate
 friend
 "
-808,漫画,"漫画
+812,漫画,"漫画
 まんが
 
 cartoon
 comic
 comic strip
 "
-809,消える,"消える
+813,消える,"消える
 きえる
 
 to go out
 to vanish
 to disappear
 "
-810,皆さん,"皆さん
+814,皆さん,"皆さん
 みなさん
 
 all
 everyone
 everybody
 "
-811,負ける,"負ける
+815,負ける,"負ける
 まける
 
 to lose
@@ -8701,14 +8730,14 @@ to reduce the price
 to lower the price
 to give a discount on
 "
-812,意見,"意見
+816,意見,"意見
 いけん
 
 opinion
 view
 comment
 "
-813,欲しい,"欲しい
+817,欲しい,"欲しい
 ほしい
 
 wanted
@@ -8717,7 +8746,7 @@ in need of
 desired
 I want (you) to
 "
-814,募集,"募集
+818,募集,"募集
 ぼしゅう
 
 recruiting
@@ -8729,25 +8758,25 @@ subscription
 soliciting (e.g. donations)
 flotation (shares, loans, etc.)
 "
-815,冷蔵庫,"冷蔵庫
+819,冷蔵庫,"冷蔵庫
 れいぞうこ
 
 refrigerator
 "
-816,政治,"政治
+820,政治,"政治
 せいじ
 
 politics
 government
 "
-817,映画館,"映画館
+821,映画館,"映画館
 えいがかん
 
 movie theatre
 movie theater
 cinema
 "
-818,気持ち,"気持ち
+822,気持ち,"気持ち
 きもち
 
 feeling
@@ -8763,7 +8792,7 @@ just a little
 somewhat
 slightly
 "
-819,経済,"経済
+823,経済,"経済
 けいざい
 
 economics
@@ -8771,7 +8800,7 @@ business
 finance
 economy
 "
-820,試合,"試合
+824,試合,"試合
 しあい
 
 match
@@ -8779,12 +8808,12 @@ game
 bout
 contest
 "
-821,紅茶,"紅茶
+825,紅茶,"紅茶
 こうちゃ
 
 black tea
 "
-822,上手,"上手
+826,上手,"上手
 じょうず
 じょうて
 じょうしゅ
@@ -8794,12 +8823,12 @@ skillful
 dexterity
 flattery
 "
-823,野菜,"野菜
+827,野菜,"野菜
 やさい
 
 vegetable
 "
-824,本来,"本来
+828,本来,"本来
 ほんらい
 
 originally
@@ -8811,7 +8840,7 @@ in (and of) itself
 proper
 legal
 "
-825,方法,"方法
+829,方法,"方法
 ほうほう
 
 method
@@ -8821,13 +8850,13 @@ way
 means
 technique
 "
-826,給料,"給料
+830,給料,"給料
 きゅうりょう
 
 salary
 wages
 "
-827,試験,"試験
+831,試験,"試験
 しけん
 
 examination
@@ -8836,7 +8865,7 @@ study
 trial
 experiment
 "
-828,戻る,"戻る
+832,戻る,"戻る
 もどる
 
 to turn back (e.g. half-way)
@@ -8847,19 +8876,19 @@ to be returned
 to rebound
 to spring back
 "
-829,家庭,"家庭
+833,家庭,"家庭
 かてい
 
 home
 family
 household
 "
-830,法律,"法律
+834,法律,"法律
 ほうりつ
 
 law
 "
-831,注意,"注意
+835,注意,"注意
 ちゅうい
 
 caution
@@ -8868,7 +8897,7 @@ attention (heed)
 warning
 advice
 "
-832,情報,"情報
+836,情報,"情報
 じょうほう
 
 information
@@ -8878,7 +8907,7 @@ advices
 information
 data contained in characters, signals, code, etc.
 "
-833,切る,"切る
+837,切る,"切る
 きる
 
 to cut
@@ -8927,19 +8956,19 @@ to start a fire (with wood-wood friction or by striking a metal against stone)
 to draw (a shape) in the air (with a sword, etc.)
 to finish
 "
-834,道路,"道路
+838,道路,"道路
 どうろ
 
 road
 highway
 "
-835,支店,"支店
+839,支店,"支店
 してん
 
 branch office
 branch store
 "
-836,以下,"以下
+840,以下,"以下
 いか
 いげ
 
@@ -8952,19 +8981,19 @@ the below-mentioned
 the following
 the rest
 "
-837,地下鉄,"地下鉄
+841,地下鉄,"地下鉄
 ちかてつ
 
 underground train
 subway
 "
-838,人口,"人口
+842,人口,"人口
 じんこう
 
 population
 common talk
 "
-839,取る,"取る
+843,取る,"取る
 とる
 
 to take
@@ -8980,7 +9009,7 @@ to remove (one's glasses, etc.)
 to compete (in sumo, cards, etc.)
 to play
 "
-840,静か,"静か
+844,静か,"静か
 しずか
 
 quiet
@@ -8990,19 +9019,19 @@ unhurried
 calm
 peaceful
 "
-841,生徒,"生徒
+845,生徒,"生徒
 せいと
 
 pupil
 "
-842,ゆっくり,"ゆっくり
+846,ゆっくり,"ゆっくり
 ゆっくり
 
 slowly
 at ease
 restful
 "
-843,なんとか,"なんとか
+847,なんとか,"なんとか
 なんとか
 
 something
@@ -9012,7 +9041,7 @@ somehow
 anyhow
 one way or another
 "
-844,見る,"見る
+848,見る,"見る
 みる
 
 to see
@@ -9035,7 +9064,7 @@ to test
 to see that...
 to find that...
 "
-845,以上,"以上
+849,以上,"以上
 いじょう
 
 not less than
@@ -9052,14 +9081,14 @@ this is all
 that is the end
 the end
 "
-846,着る,"着る
+850,着る,"着る
 きる
 
 to wear (in modern Japanese, from the shoulders down)
 to put on
 to bear (guilt, etc.)
 "
-847,運動,"運動
+851,運動,"運動
 うんどう
 
 exercise
@@ -9074,7 +9103,7 @@ lobbying
 motion
 movement
 "
-848,作品,"作品
+852,作品,"作品
 さくひん
 
 work (e.g. book, film, composition, etc.)
@@ -9082,7 +9111,7 @@ opus
 performance
 production
 "
-849,必要,"必要
+853,必要,"必要
 ひつよう
 
 necessary
@@ -9093,12 +9122,12 @@ necessity
 need
 requirement
 "
-850,神社,"神社
+854,神社,"神社
 じんじゃ
 
 Shinto shrine
 "
-851,用意,"用意
+855,用意,"用意
 ようい
 
 preparation
@@ -9107,7 +9136,7 @@ provision
 getting ready
 laying out (e.g. a meal)
 "
-852,古い,"古い
+856,古い,"古い
 ふるい
 
 old (not person)
@@ -9119,37 +9148,37 @@ threadbare
 outmoded
 obsolete article
 "
-853,生活,"生活
+857,生活,"生活
 せいかつ
 
 living
 life (one's daily existence)
 livelihood
 "
-854,医者,"医者
+858,医者,"医者
 いしゃ
 
 (medical) doctor
 physician
 "
-855,楽器,"楽器
+859,楽器,"楽器
 がっき
 
 musical instrument
 "
-856,赤い,"赤い
+860,赤い,"赤い
 あかい
 
 red
 Red (i.e. communist)
 "
-857,校長,"校長
+861,校長,"校長
 こうちょう
 
 principal
 headmaster
 "
-858,直接,"直接
+862,直接,"直接
 ちょくせつ
 
 direct
@@ -9157,7 +9186,7 @@ immediate
 personal
 firsthand
 "
-859,最初,"最初
+863,最初,"最初
 さいしょ
 
 beginning
@@ -9165,13 +9194,13 @@ outset
 first
 onset
 "
-860,報告,"報告
+864,報告,"報告
 ほうこく
 
 report
 information
 "
-861,絶対,"絶対
+865,絶対,"絶対
 ぜったい
 
 absolutely
@@ -9181,20 +9210,20 @@ unconditional
 unmistakable
 absoluteness
 "
-862,最も,"最も
+866,最も,"最も
 もっとも
 もとも
 
 most
 extremely
 "
-863,遊び,"遊び
+867,遊び,"遊び
 あそび
 
 playing
 play (margin between on and off, gap before pressing button or lever has an effect)
 "
-864,交通,"交通
+868,交通,"交通
 こうつう
 
 traffic
@@ -9203,7 +9232,7 @@ communication
 exchange (of ideas, etc.)
 intercourse
 "
-865,女性,"女性
+869,女性,"女性
 じょせい
 にょしょう
 
@@ -9211,12 +9240,12 @@ woman
 female
 feminine gender
 "
-866,結婚,"結婚
+870,結婚,"結婚
 けっこん
 
 marriage
 "
-867,計画,"計画
+871,計画,"計画
 けいかく
 
 plan
@@ -9226,7 +9255,7 @@ scheme
 program
 programme
 "
-868,踏む,"踏む
+872,踏む,"踏む
 ふむ
 
 to step on
@@ -9240,7 +9269,7 @@ to rhyme
 to inherit (the throne, etc.)
 to follow (rules, morals, principles, etc.)
 "
-869,努力,"努力
+873,努力,"努力
 どりょく
 
 great effort
@@ -9249,7 +9278,7 @@ endeavour
 endeavor
 effort
 "
-870,よう,"よう
+874,よう,"よう
 よう
 
 appearing ...
@@ -9263,12 +9292,12 @@ like
 similar to
 thing (thought or spoken)
 "
-871,家具,"家具
+875,家具,"家具
 かぐ
 
 furniture
 "
-872,不足,"不足
+876,不足,"不足
 ふそく
 ぶそく
 
@@ -9278,7 +9307,7 @@ deficiency
 lack
 dearth
 "
-873,目的,"目的
+877,目的,"目的
 もくてき
 
 purpose
@@ -9287,18 +9316,18 @@ aim
 objective
 intention
 "
-874,説明,"説明
+878,説明,"説明
 せつめい
 
 explanation
 exposition
 "
-875,教師,"教師
+879,教師,"教師
 きょうし
 
 teacher (classroom)
 "
-876,間に合う,"間に合う
+880,間に合う,"間に合う
 まにあう
 
 to be in time for
@@ -9306,7 +9335,7 @@ to serve (suit, meet) the purpose
 to be good enough
 to be enough
 "
-877,遅い,"遅い
+881,遅い,"遅い
 おそい
 
 slow
@@ -9315,7 +9344,7 @@ too late
 dull
 stupid
 "
-878,晴れる,"晴れる
+882,晴れる,"晴れる
 はれる
 
 to clear up
@@ -9327,7 +9356,7 @@ to be cleared (e.g. of a suspicion)
 to be dispelled
 to be banished
 "
-879,落とす,"落とす
+883,落とす,"落とす
 おとす
 
 to drop
@@ -9370,7 +9399,7 @@ to make someone swoon (judo)
 to finish a story (e.g. with the punch line)
 to finish (a period, e.g. of fasting)
 "
-880,壊す,"壊す
+884,壊す,"壊す
 こわす
 
 to break
@@ -9382,7 +9411,7 @@ to spoil
 to damage
 to break (a bill, etc.)
 "
-881,離れる,"離れる
+885,離れる,"離れる
 はなれる
 
 to be separated
@@ -9396,7 +9425,7 @@ to give up
 to lose connection with
 to drift away from
 "
-882,理由,"理由
+886,理由,"理由
 りゆう
 わけ
 
@@ -9404,7 +9433,7 @@ reason
 pretext
 motive
 "
-883,一般,"一般
+887,一般,"一般
 いっぱん
 
 general
@@ -9413,7 +9442,7 @@ ordinary
 average
 common
 "
-884,立つ,"立つ
+888,立つ,"立つ
 たつ
 
 to stand
@@ -9422,19 +9451,19 @@ to stand up
 to find oneself (e.g. in a difficult position)
 to depart (on a plane, train, etc.)
 "
-885,美術館,"美術館
+889,美術館,"美術館
 びじゅつかん
 
 art gallery
 art museum
 "
-886,練習,"練習
+890,練習,"練習
 れんしゅう
 
 practice
 practising
 "
-887,明らか,"明らか
+891,明らか,"明らか
 あきらか
 
 obvious
@@ -9442,13 +9471,13 @@ evident
 clear
 plain
 "
-888,散歩,"散歩
+892,散歩,"散歩
 さんぽ
 
 walk
 stroll
 "
-889,きっかけ,"きっかけ
+893,きっかけ,"きっかけ
 きっかけ
 
 chance
@@ -9459,7 +9488,7 @@ motive
 impetus
 occasion
 "
-890,利用,"利用
+894,利用,"利用
 りよう
 
 use
@@ -9467,7 +9496,7 @@ utilization
 utilisation
 application
 "
-891,変わる,"変わる
+895,変わる,"変わる
 かわる
 
 to change
@@ -9479,7 +9508,7 @@ to be different
 to be uncommon
 to be unusual
 "
-892,経営,"経営
+896,経営,"経営
 けいえい
 
 management
@@ -9488,7 +9517,7 @@ operation
 running (business)
 conducting
 "
-893,別に,"別に
+897,別に,"別に
 べつに
 
 (not) particularly
@@ -9496,13 +9525,13 @@ nothing
 separately
 apart
 "
-894,神様,"神様
+898,神様,"神様
 かみさま
 かみさん
 
 God
 "
-895,使用,"使用
+899,使用,"使用
 しよう
 
 use
@@ -9511,13 +9540,13 @@ employment
 utilization
 utilisation
 "
-896,悲しい,"悲しい
+900,悲しい,"悲しい
 かなしい
 
 sad
 sorrowful
 "
-897,土地,"土地
+901,土地,"土地
 とち
 どおじ
 どじ
@@ -9530,7 +9559,7 @@ locality
 region
 place
 "
-898,船,"船
+902,船,"船
 ふね
 
 ship
@@ -9544,7 +9573,7 @@ vat
 trough
 counter for boat-shaped containers (e.g. of sashimi)
 "
-899,教える,"教える
+903,教える,"教える
 おしえる
 
 to teach
@@ -9553,13 +9582,13 @@ to tell
 to inform
 to preach
 "
-900,完全,"完全
+904,完全,"完全
 かんぜん
 
 perfection
 completeness
 "
-901,荷物,"荷物
+905,荷物,"荷物
 にもつ
 
 luggage
@@ -9568,7 +9597,7 @@ package
 burden
 payload (of a packet, cell, etc.)
 "
-902,予約,"予約
+906,予約,"予約
 よやく
 
 reservation
@@ -9581,7 +9610,7 @@ pledge
 programming (e.g. a device)
 setting (e.g. a timer)
 "
-903,十分,"十分
+907,十分,"十分
 じゅうぶん
 
 plenty
@@ -9595,7 +9624,7 @@ thoroughly
 fully
 in full
 "
-904,猫,"猫
+908,猫,"猫
 ねこ
 
 cat
@@ -9606,7 +9635,7 @@ clay bed-warmer
 bottom
 submissive partner of a homosexual relationship
 "
-905,ずっと,"ずっと
+909,ずっと,"ずっと
 ずっと
 
 continuously in some state (for a long time, distance)
@@ -9622,14 +9651,14 @@ long ago
 direct
 straight
 "
-906,おばさん,"おばさん
+910,おばさん,"おばさん
 おばさん
 
 aunt
 old lady
 ma'am (vocative)
 "
-907,直す,"直す
+911,直す,"直す
 なおす
 
 to cure
@@ -9643,7 +9672,7 @@ to put back as it was
 to convert (into a different state)
 to transform
 "
-908,黄色,"黄色
+912,黄色,"黄色
 きいろ
 こうしょく
 おうしょく
@@ -9651,7 +9680,7 @@ to transform
 yellow
 amber
 "
-909,恥ずかしい,"恥ずかしい
+913,恥ずかしい,"恥ずかしい
 はずかしい
 
 shy
@@ -9660,17 +9689,17 @@ embarrassed
 disgraceful
 shameful
 "
-910,背中,"背中
+914,背中,"背中
 せなか
 
 back (of body)
 "
-911,来月,"来月
+915,来月,"来月
 らいげつ
 
 next month
 "
-912,戦い,"戦い
+916,戦い,"戦い
 たたかい
 
 battle
@@ -9678,13 +9707,13 @@ fight
 struggle
 conflict
 "
-913,増える,"増える
+917,増える,"増える
 ふえる
 
 to increase
 to multiply
 "
-914,通る,"通る
+918,通る,"通る
 とおる
 
 to go by
@@ -9739,7 +9768,7 @@ to be wise
 to do ... completely
 to do ... thoroughly
 "
-915,決める,"決める
+919,決める,"決める
 きめる
 
 to decide
@@ -9770,7 +9799,7 @@ to immobilize with a double-arm lock (in sumo, judo, etc.)
 to eat or drink something
 to take illegal drugs
 "
-916,ことができる,"ことができる
+920,ことができる,"ことができる
 ことができる
 
 can (do)
@@ -9778,13 +9807,13 @@ to be able to (do)
 can be done
 is able to be done
 "
-917,緑,"緑
+921,緑,"緑
 みどり
 
 green
 greenery (esp. fresh verdure)
 "
-918,わけ,"わけ
+922,わけ,"わけ
 わけ
 
 conclusion from reasoning, judgement or calculation based on something read or heard
@@ -9794,7 +9823,7 @@ meaning
 circumstances
 situation
 "
-919,少女,"少女
+923,少女,"少女
 しょうじょ
 おとめ
 
@@ -9804,7 +9833,7 @@ young lady
 female usually between 7 and 18 years old
 female between 17 and 20 years old (ritsuryo period)
 "
-920,来る,"来る
+924,来る,"来る
 くる
 
 to come (spatially or temporally)
@@ -9822,7 +9851,7 @@ to be caused by
 to derive from
 to come to (i.e. ""when it comes to spinach ..."")
 "
-921,桜,"桜
+925,桜,"桜
 さくら
 
 cherry tree
@@ -9833,7 +9862,7 @@ shill
 hired applauder
 horse meat
 "
-922,下さる,"下さる
+926,下さる,"下さる
 くださる
 
 to give
@@ -9844,7 +9873,7 @@ to oblige
 to favour
 to favor
 "
-923,会う,"会う
+927,会う,"会う
 あう
 
 to meet
@@ -9853,7 +9882,7 @@ to see
 to have an accident
 to have a bad experience
 "
-924,返す,"返す
+928,返す,"返す
 かえす
 
 to return (something)
@@ -9868,7 +9897,7 @@ to reciprocate
 to repeat ...
 to do ... back
 "
-925,上がる,"上がる
+929,上がる,"上がる
 あがる
 
 to rise
@@ -9916,13 +9945,13 @@ to serve (in one's master's home)
 to go north
 indicates completion
 "
-926,坂,"坂
+930,坂,"坂
 さか
 
 slope
 hill
 "
-927,始め,"始め
+931,始め,"始め
 はじめ
 
 beginning
@@ -9934,7 +9963,7 @@ origin
 such as ...
 not to mention ...
 "
-928,良い,"良い
+932,良い,"良い
 よい
 
 good
@@ -9950,14 +9979,14 @@ profitable (e.g. deal, business offer, etc.)
 beneficial
 OK
 "
-929,飾る,"飾る
+933,飾る,"飾る
 かざる
 
 to decorate
 to ornament
 to adorn
 "
-930,あちら,"あちら
+934,あちら,"あちら
 あちら
 
 that way (direction distant from both speaker and listener)
@@ -9970,7 +9999,7 @@ there (place distant from both speaker and listener)
 over there
 foreign country (esp. a Western nation)
 "
-931,砂,"砂
+935,砂,"砂
 すな
 いさご
 
@@ -9979,7 +10008,7 @@ grit
 gold dust
 silver dust
 "
-932,一度,"一度
+936,一度,"一度
 いちど
 ひとたび
 
@@ -9992,7 +10021,7 @@ one degree
 one tone
 one musical interval
 "
-933,ふるさと,"ふるさと
+937,ふるさと,"ふるさと
 ふるさと
 
 home town
@@ -10002,7 +10031,7 @@ one's old home
 ruins
 historic remains
 "
-934,香り,"香り
+938,香り,"香り
 かおり
 
 aroma
@@ -10010,14 +10039,14 @@ fragrance
 scent
 smell
 "
-935,いつも通り,"いつも通り
+939,いつも通り,"いつも通り
 いつもどおり
 いつもとおり
 
 as always
 as usual
 "
-936,それにしても,"それにしても
+940,それにしても,"それにしても
 それにしても
 
 nevertheless
@@ -10026,7 +10055,7 @@ even so
 all things considered
 be that as it may
 "
-937,上下,"上下
+941,上下,"上下
 じょうげ
 
 top and bottom
@@ -10043,13 +10072,13 @@ ruler and ruled
 the government and the people
 first and second volumes
 "
-938,気分,"気分
+942,気分,"気分
 きぶん
 
 feeling
 mood
 "
-939,速い,"速い
+943,速い,"速い
 はやい
 
 fast
@@ -10065,7 +10094,7 @@ easy
 simple
 quick
 "
-940,地震,"地震
+944,地震,"地震
 じしん
 ない
 なえ
@@ -10073,7 +10102,7 @@ quick
 
 earthquake
 "
-941,起す,"起す
+945,起す,"起す
 おこす
 
 to raise
@@ -10107,7 +10136,7 @@ to transcribe
 to write down (what is spoken)
 to turn over (a card)
 "
-942,訳,"訳
+946,訳,"訳
 わけ
 
 conclusion from reasoning, judgement or calculation based on something read or heard
@@ -10117,7 +10146,7 @@ meaning
 circumstances
 situation
 "
-943,明るい,"明るい
+947,明るい,"明るい
 あかるい
 
 bright
@@ -10128,7 +10157,7 @@ knowledgeable (about)
 fair (e.g. politics)
 clean
 "
-944,逢う,"逢う
+948,逢う,"逢う
 あう
 
 to meet
@@ -10137,12 +10166,12 @@ to see
 to have an accident
 to have a bad experience
 "
-945,出身,"出身
+949,出身,"出身
 しゅっしん
 
 person's origin (e.g. city, country, parentage, school)
 "
-946,観る,"観る
+950,観る,"観る
 みる
 
 to see
@@ -10165,7 +10194,7 @@ to test
 to see that...
 to find that...
 "
-947,外,"外
+951,外,"外
 そと
 と
 
@@ -10174,7 +10203,7 @@ exterior
 open air
 other place
 "
-948,未だ,"未だ
+952,未だ,"未だ
 まだ
 いまだ
 
@@ -10189,7 +10218,7 @@ unfinished
 incomplete
 not yet finished with
 "
-949,貰う,"貰う
+953,貰う,"貰う
 もらう
 
 to receive
@@ -10197,13 +10226,13 @@ to take
 to accept
 to get somebody to do something
 "
-950,音楽,"音楽
+954,音楽,"音楽
 おんがく
 
 music
 musical movement
 "
-951,地下,"地下
+955,地下,"地下
 ちか
 
 basement
@@ -10217,7 +10246,7 @@ underground (railway)
 subway
 metro
 "
-952,運転,"運転
+956,運転,"運転
 うんてん
 
 operation (of a machine, etc.)
@@ -10227,7 +10256,7 @@ run
 driving
 working (capital, etc.)
 "
-953,会場,"会場
+957,会場,"会場
 かいじょう
 
 assembly hall
@@ -10235,13 +10264,13 @@ meeting place
 venue
 grounds
 "
-954,入院,"入院
+958,入院,"入院
 にゅういん
 
 hospitalization
 hospitalisation
 "
-955,調べる,"調べる
+959,調べる,"調べる
 しらべる
 
 to examine
@@ -10252,7 +10281,7 @@ to study
 to inquire
 to search
 "
-956,大会,"大会
+960,大会,"大会
 たいかい
 
 convention
@@ -10260,7 +10289,7 @@ tournament
 mass meeting
 rally
 "
-957,友,"友
+961,友,"友
 とも
 
 friend
@@ -10268,7 +10297,7 @@ companion
 comrade
 pal
 "
-958,壊れる,"壊れる
+962,壊れる,"壊れる
 こわれる
 
 to be broken
@@ -10276,17 +10305,17 @@ to break
 to fall through
 to come to nothing
 "
-959,父親,"父親
+963,父親,"父親
 ちちおや
 
 father
 "
-960,教会,"教会
+964,教会,"教会
 きょうかい
 
 church
 "
-961,作業,"作業
+965,作業,"作業
 さぎょう
 
 work
@@ -10294,7 +10323,7 @@ operation
 manufacturing
 fatigue duty
 "
-962,行動,"行動
+966,行動,"行動
 こうどう
 
 action
@@ -10304,13 +10333,13 @@ behavior
 mobilization
 mobilisation
 "
-963,保険,"保険
+967,保険,"保険
 ほけん
 
 insurance
 guarantee
 "
-964,開始,"開始
+968,開始,"開始
 かいし
 
 start
@@ -10318,7 +10347,7 @@ commencement
 beginning
 initiation
 "
-965,急,"急
+969,急,"急
 きゅう
 
 urgent
@@ -10336,17 +10365,17 @@ hurrying
 haste
 (in gagaku or noh) end of a song
 "
-966,季節,"季節
+970,季節,"季節
 きせつ
 
 season
 "
-967,日曜日,"日曜日
+971,日曜日,"日曜日
 にちようび
 
 Sunday
 "
-968,反対,"反対
+972,反対,"反対
 はんたい
 
 opposition
@@ -10360,14 +10389,14 @@ opposite
 vice versa
 contrast
 "
-969,推薦,"推薦
+973,推薦,"推薦
 すいせん
 
 recommendation
 referral
 endorsement
 "
-970,乗る,"乗る
+974,乗る,"乗る
 のる
 
 to get on (train, plane, bus, ship, etc.)
@@ -10400,26 +10429,26 @@ to attach
 to take
 to go on
 "
-971,階段,"階段
+975,階段,"階段
 かいだん
 
 stairs
 stairway
 staircase
 "
-972,戦争,"戦争
+976,戦争,"戦争
 せんそう
 
 war
 "
-973,発見,"発見
+977,発見,"発見
 はっけん
 
 discovery
 detection
 finding
 "
-974,途中,"途中
+978,途中,"途中
 とちゅう
 
 on the way
@@ -10427,7 +10456,7 @@ en route
 in the middle of
 midway
 "
-975,耳,"耳
+979,耳,"耳
 みみ
 
 ear
@@ -10437,12 +10466,12 @@ crust
 selvedge (non-fray machined edge of fabrics)
 selvage
 "
-976,これから,"これから
+980,これから,"これから
 これから
 
 after this
 "
-977,間違える,"間違える
+981,間違える,"間違える
 まちがえる
 
 to make a mistake (in)
@@ -10450,21 +10479,21 @@ to commit an error (e.g. in calculation)
 to confuse
 to mistake something for something else
 "
-978,立場,"立場
+982,立場,"立場
 たちば
 
 standpoint
 position
 situation
 "
-979,注目,"注目
+983,注目,"注目
 ちゅうもく
 
 notice
 attention
 observation
 "
-980,横,"横
+984,横,"横
 よこ
 
 horizontal (as opposed to vertical)
@@ -10478,14 +10507,14 @@ aside
 next to
 unconnected
 "
-981,原因,"原因
+985,原因,"原因
 げんいん
 
 cause
 origin
 source
 "
-982,以前,"以前
+986,以前,"以前
 いぜん
 
 ago
@@ -10493,14 +10522,14 @@ since
 before
 previous
 "
-983,新た,"新た
+987,新た,"新た
 あらた
 
 new
 fresh
 novel
 "
-984,危険,"危険
+988,危険,"危険
 きけん
 
 danger
@@ -10508,14 +10537,14 @@ peril
 hazard
 risk
 "
-985,電子,"電子
+989,電子,"電子
 でんし
 
 electron
 (esp. as a prefix) electronic
 electronics
 "
-986,分野,"分野
+990,分野,"分野
 ぶんや
 
 field
@@ -10524,20 +10553,20 @@ realm
 division
 branch
 "
-987,食事,"食事
+991,食事,"食事
 しょくじ
 
 meal
 to eat
 "
-988,物語,"物語
+992,物語,"物語
 ものがたり
 
 tale
 story
 legend
 "
-989,祖父,"祖父
+993,祖父,"祖父
 そふ
 じじ
 じい
@@ -10549,24 +10578,24 @@ grandfather
 old man
 kyogen mask used for the role of an old man
 "
-990,場合,"場合
+994,場合,"場合
 ばあい
 
 case
 situation
 "
-991,気に入る,"気に入る
+995,気に入る,"気に入る
 きにいる
 
 to be pleased with
 to suit
 "
-992,患者,"患者
+996,患者,"患者
 かんじゃ
 
 (a) patient
 "
-993,貸す,"貸す
+997,貸す,"貸す
 かす
 
 to lend
@@ -10574,14 +10603,14 @@ to loan
 to rent out
 to hire out
 "
-994,学ぶ,"学ぶ
+998,学ぶ,"学ぶ
 まなぶ
 
 to study (in depth)
 to learn
 to take lessons in
 "
-995,ところで,"ところで
+999,ところで,"ところで
 ところで
 
 by the way
@@ -10589,7 +10618,7 @@ incidentally
 even if
 no matter (who, what, when, where, why, how)
 "
-996,無理,"無理
+1000,無理,"無理
 むり
 
 unreasonable
@@ -10605,14 +10634,14 @@ to work too hard
 to try too hard
 irrational
 "
-997,教授,"教授
+1001,教授,"教授
 きょうじゅ
 
 professor
 teaching
 instruction
 "
-998,人物,"人物
+1002,人物,"人物
 じんぶつ
 
 person
@@ -10626,7 +10655,7 @@ one's personality
 able person
 talented person
 "
-999,免許,"免許
+1003,免許,"免許
 めんきょ
 
 license
@@ -10634,19 +10663,19 @@ permit
 licence
 certificate
 "
-1000,税金,"税金
+1004,税金,"税金
 ぜいきん
 
 tax
 duty
 "
-1001,権利,"権利
+1005,権利,"権利
 けんり
 
 right
 privilege
 "
-1002,向こう,"向こう
+1006,向こう,"向こう
 むこう
 
 opposite side
@@ -10660,7 +10689,7 @@ the other party
 the other person
 future (starting now)
 "
-1003,悩み,"悩み
+1007,悩み,"悩み
 なやみ
 
 trouble
@@ -10672,7 +10701,7 @@ anguish
 agony
 problem
 "
-1004,必ず,"必ず
+1008,必ず,"必ず
 かならず
 
 always
@@ -10683,19 +10712,19 @@ without fail
 positively
 invariably
 "
-1005,日時,"日時
+1009,日時,"日時
 にちじ
 
 date and time
 "
-1006,国家,"国家
+1010,国家,"国家
 こっか
 
 state
 country
 nation
 "
-1007,足りる,"足りる
+1011,足りる,"足りる
 たりる
 
 to be sufficient
@@ -10706,7 +10735,7 @@ to be sufficient
 to answer
 to do
 "
-1008,よ,"よ
+1012,よ,"よ
 よ
 
 indicates certainty, emphasis, contempt, request, etc.
@@ -10714,14 +10743,14 @@ used when calling out to someone
 used to catch one's breath or get someone's attention
 yo!
 "
-1009,男性,"男性
+1013,男性,"男性
 だんせい
 
 man
 male
 masculine gender
 "
-1010,会議,"会議
+1014,会議,"会議
 かいぎ
 
 meeting
@@ -10732,7 +10761,7 @@ council
 convention
 congress
 "
-1011,覚える,"覚える
+1015,覚える,"覚える
 おぼえる
 
 to memorize
@@ -10748,14 +10777,14 @@ to feel
 to think
 to regard
 "
-1012,犯罪,"犯罪
+1016,犯罪,"犯罪
 はんざい
 
 crime
 offence
 offense
 "
-1013,留守,"留守
+1017,留守,"留守
 るす
 
 absence
@@ -10765,12 +10794,12 @@ house-sitter
 being left unattended to (of one's studies, etc.)
 neglecting
 "
-1014,歴史,"歴史
+1018,歴史,"歴史
 れきし
 
 history
 "
-1015,卒業,"卒業
+1019,卒業,"卒業
 そつぎょう
 
 graduation
@@ -10778,7 +10807,7 @@ completion (e.g. of a course)
 outgrowing something
 moving on
 "
-1016,前,"前
+1020,前,"前
 まえ
 
 ago
@@ -10796,12 +10825,12 @@ portion
 privates
 private parts
 "
-1017,短い,"短い
+1021,短い,"短い
 みじかい
 
 short
 "
-1018,自然,"自然
+1022,自然,"自然
 しぜん
 
 nature
@@ -10810,12 +10839,12 @@ spontaneous
 naturally
 spontaneously
 "
-1019,指輪,"指輪
+1023,指輪,"指輪
 ゆびわ
 
 (finger) ring
 "
-1020,現在,"現在
+1024,現在,"現在
 げんざい
 
 now
@@ -10824,7 +10853,7 @@ present
 present time
 as of
 "
-1021,同時,"同時
+1025,同時,"同時
 どうじ
 
 simultaneous
@@ -10833,12 +10862,12 @@ same time
 synchronous
 together
 "
-1022,観光,"観光
+1026,観光,"観光
 かんこう
 
 sightseeing
 "
-1023,紹介,"紹介
+1027,紹介,"紹介
 しょうかい
 
 introduction
@@ -10846,7 +10875,7 @@ presentation
 referral
 listing
 "
-1024,比べる,"比べる
+1028,比べる,"比べる
 くらべる
 
 to compare
@@ -10854,7 +10883,7 @@ to make a comparison
 to compete
 to vie
 "
-1025,大事,"大事
+1029,大事,"大事
 だいじ
 おおごと
 
@@ -10864,7 +10893,7 @@ serious matter
 safe (Tochigi dialect)
 OK
 "
-1026,実際,"実際
+1030,実際,"実際
 じっさい
 
 practicality
@@ -10874,21 +10903,21 @@ actuality
 actual conditions
 bhutakoti (limit of reality)
 "
-1027,収入,"収入
+1031,収入,"収入
 しゅうにゅう
 
 income
 receipts
 revenue
 "
-1028,部分,"部分
+1032,部分,"部分
 ぶぶん
 
 portion
 section
 part
 "
-1029,茶,"茶
+1033,茶,"茶
 ちゃ
 
 tea
@@ -10898,12 +10927,12 @@ making tea
 brown
 mockery
 "
-1030,田,"田
+1034,田,"田
 た
 
 rice field
 "
-1031,記憶,"記憶
+1035,記憶,"記憶
 きおく
 
 memory
@@ -10911,7 +10940,7 @@ recollection
 remembrance
 storage
 "
-1032,消す,"消す
+1036,消す,"消す
 けす
 
 to erase
@@ -10922,27 +10951,27 @@ to extinguish
 to put out
 to bump off
 "
-1033,祭り,"祭り
+1037,祭り,"祭り
 まつり
 
 festival
 feast
 "
-1034,時半,"時半
+1038,時半,"時半
 じはん
 
 about an hour
 short time
 half past (the hour)
 "
-1035,夜,"夜
+1039,夜,"夜
 よる
 よ
 
 evening
 night
 "
-1036,遊ぶ,"遊ぶ
+1040,遊ぶ,"遊ぶ
 あそぶ
 あすぶ
 
@@ -10956,18 +10985,18 @@ to be unused
 to go to (for pleasure or for study)
 to intentionally throw a ball to lower the batter's concentration
 "
-1037,夢,"夢
+1041,夢,"夢
 ゆめ
 
 dream
 "
-1038,空手,"空手
+1042,空手,"空手
 からて
 
 karate
 empty handed
 "
-1039,目,"目
+1043,目,"目
 め
 
 eye
@@ -10987,12 +11016,12 @@ ordinal number suffix
 somewhat
 -ish
 "
-1040,七月,"七月
+1044,七月,"七月
 しちがつ
 
 July
 "
-1041,元,"元
+1045,元,"元
 もと
 
 origin
@@ -11016,12 +11045,12 @@ counter for blades of grass, tree trunks, etc., and for falcons (in falconry)
 handle (chopsticks, brush, etc.)
 grip
 "
-1042,九月,"九月
+1046,九月,"九月
 くがつ
 
 September
 "
-1043,開ける,"開ける
+1047,開ける,"開ける
 あける
 
 to open (a door, etc.)
@@ -11045,7 +11074,7 @@ to make time (for)
 to make (a hole)
 to open up (a hole)
 "
-1044,広がる,"広がる
+1048,広がる,"広がる
 ひろがる
 
 to spread (out)
@@ -11055,40 +11084,40 @@ to reach to
 to get around
 to fill (e.g. a space)
 "
-1045,恋,"恋
+1049,恋,"恋
 こい
 
 (romantic) love
 "
-1046,花火,"花火
+1050,花火,"花火
 はなび
 
 fireworks
 "
-1047,無料,"無料
+1051,無料,"無料
 むりょう
 
 free
 no charge
 "
-1048,科学,"科学
+1052,科学,"科学
 かがく
 
 science
 "
-1049,逃げる,"逃げる
+1053,逃げる,"逃げる
 にげる
 
 to escape
 to run away
 "
-1050,選手,"選手
+1054,選手,"選手
 せんしゅ
 
 player (in game)
 team member
 "
-1051,全員,"全員
+1055,全員,"全員
 ぜんいん
 
 all members (unanimity)
@@ -11097,12 +11126,12 @@ the whole crew
 everyone
 everybody
 "
-1052,四月,"四月
+1056,四月,"四月
 しがつ
 
 April
 "
-1053,近く,"近く
+1057,近く,"近く
 ちかく
 
 near
@@ -11114,19 +11143,19 @@ close to
 shortly
 soon
 "
-1054,行き,"行き
+1058,行き,"行き
 ゆき
 いき
 
 bound for ...
 going (to)
 "
-1055,光,"光
+1059,光,"光
 ひかり
 
 light
 "
-1056,休み中,"休み中
+1060,休み中,"休み中
 やすみちゅう
 
 during vacation
@@ -11135,19 +11164,19 @@ during one's break
 (temporarily) closed
 on break
 "
-1057,火山,"火山
+1061,火山,"火山
 かざん
 
 volcano
 "
-1058,有名人,"有名人
+1062,有名人,"有名人
 ゆうめいじん
 
 celebrity
 public figure
 big name
 "
-1059,死亡,"死亡
+1063,死亡,"死亡
 しぼう
 
 death
@@ -11155,7 +11184,7 @@ mortality
 to die
 to pass away
 "
-1060,店員,"店員
+1064,店員,"店員
 てんいん
 
 shop assistant
@@ -11163,7 +11192,7 @@ employee
 clerk
 salesperson
 "
-1061,全国,"全国
+1065,全国,"全国
 ぜんこく
 
 countrywide
@@ -11171,14 +11200,14 @@ nationwide
 whole country
 national
 "
-1062,死体,"死体
+1066,死体,"死体
 したい
 
 dead body
 corpse
 cadaver
 "
-1063,手伝う,"手伝う
+1067,手伝う,"手伝う
 てつだう
 
 to help
@@ -11187,12 +11216,12 @@ to aid
 to contribute to
 to be a factor in
 "
-1064,持ってくる,"持ってくる
+1068,持ってくる,"持ってくる
 もってくる
 
 to bring
 "
-1065,文書,"文書
+1069,文書,"文書
 ぶんしょ
 もんじょ
 
@@ -11205,26 +11234,26 @@ records
 archives
 document addressed to someone in particular (jargon used in paleography)
 "
-1066,集まる,"集まる
+1070,集まる,"集まる
 あつまる
 
 to gather
 to collect
 to assemble
 "
-1067,隣,"隣
+1071,隣,"隣
 となり
 
 neighbor (neighbour)
 next to (esp. living next door to)
 "
-1068,自分自身,"自分自身
+1072,自分自身,"自分自身
 じぶんじしん
 
 oneself
 myself
 "
-1069,嫌い,"嫌い
+1073,嫌い,"嫌い
 きらい
 
 dislike
@@ -11235,19 +11264,19 @@ smack (of)
 distinction
 discrimination
 "
-1070,電池,"電池
+1074,電池,"電池
 でんち
 
 battery
 cell
 "
-1071,姉妹,"姉妹
+1075,姉妹,"姉妹
 しまい
 きょうだい
 
 sisters
 "
-1072,分ける,"分ける
+1076,分ける,"分ける
 わける
 
 to divide (into)
@@ -11272,7 +11301,7 @@ to tie
 to push one's way through (a crowd)
 to sell
 "
-1073,痛み,"痛み
+1077,痛み,"痛み
 いたみ
 
 pain
@@ -11286,7 +11315,7 @@ wear
 bruise
 break
 "
-1074,電話口,"電話口
+1078,電話口,"電話口
 でんわぐち
 
 telephone receiver
@@ -11294,13 +11323,13 @@ telephone mouthpiece
 making a telephone call
 receiving a telephone call
 "
-1075,意外,"意外
+1079,意外,"意外
 いがい
 
 unexpected
 surprising
 "
-1076,嫌,"嫌
+1080,嫌,"嫌
 いや
 や
 
@@ -11309,7 +11338,7 @@ detestable
 unpleasant
 reluctant
 "
-1077,俺,"俺
+1081,俺,"俺
 おれ
 おらあ
 おり
@@ -11317,7 +11346,7 @@ reluctant
 I
 me
 "
-1078,多少,"多少
+1082,多少,"多少
 たしょう
 
 more or less
@@ -11328,20 +11357,20 @@ some
 amount
 quantity
 "
-1079,宇宙,"宇宙
+1083,宇宙,"宇宙
 うちゅう
 
 universe
 cosmos
 space
 "
-1080,医学,"医学
+1084,医学,"医学
 いがく
 
 medical science
 medicine
 "
-1081,慣れる,"慣れる
+1085,慣れる,"慣れる
 なれる
 
 to get used to
@@ -11352,7 +11381,7 @@ to become experienced at
 to become tame
 to become domesticated
 "
-1082,下ろす,"下ろす
+1086,下ろす,"下ろす
 おろす
 
 to take down (e.g. flag)
@@ -11368,33 +11397,33 @@ to withdraw money from an account
 to wear (clothing) for the first time
 to fillet (e.g. a fish)
 "
-1083,訪問,"訪問
+1087,訪問,"訪問
 ほうもん
 
 call
 visit
 "
-1084,安心,"安心
+1088,安心,"安心
 あんしん
 
 relief
 peace of mind
 "
-1085,誕生,"誕生
+1089,誕生,"誕生
 たんじょう
 
 birth
 creation
 formation
 "
-1086,味方,"味方
+1090,味方,"味方
 みかた
 
 friend
 ally
 supporter
 "
-1087,過去,"過去
+1091,過去,"過去
 かこ
 
 the past
@@ -11407,7 +11436,7 @@ preterit
 preterite
 previous life
 "
-1088,中国,"中国
+1092,中国,"中国
 ちゅうごく
 
 China
@@ -11415,21 +11444,21 @@ Chugoku region of western Honshu (incl. Okayama, Hiroshima, Shimane, Tottori and
 central part of a country
 main region
 "
-1089,鏡,"鏡
+1093,鏡,"鏡
 かがみ
 
 mirror
 looking-glass
 barrel head
 "
-1090,好き,"好き
+1094,好き,"好き
 すき
 
 liking
 fondness
 love
 "
-1091,生きる,"生きる
+1095,生きる,"生きる
 いきる
 
 to live
@@ -11443,7 +11472,7 @@ to come to life
 to be enlivened
 to be safe (in baseball, go, etc.)
 "
-1092,感情,"感情
+1096,感情,"感情
 かんじょう
 
 emotion
@@ -11451,13 +11480,13 @@ feeling
 feelings
 sentiment
 "
-1093,家庭内,"家庭内
+1097,家庭内,"家庭内
 かていない
 
 domestic
 in the family
 "
-1094,代わり,"代わり
+1098,代わり,"代わり
 かわり
 
 substitute
@@ -11479,36 +11508,36 @@ seconds
 upcoming program
 upcoming programme
 "
-1095,下車,"下車
+1099,下車,"下車
 げしゃ
 
 alighting (from train, bus, etc.)
 getting off
 "
-1096,笑顔,"笑顔
+1100,笑顔,"笑顔
 えがお
 
 smiling face
 smile
 "
-1097,自身,"自身
+1101,自身,"自身
 じしん
 
 by oneself
 personally
 "
-1098,記者,"記者
+1102,記者,"記者
 きしゃ
 
 reporter
 "
-1099,帰り,"帰り
+1103,帰り,"帰り
 かえり
 
 return
 coming back
 "
-1100,優しい,"優しい
+1104,優しい,"優しい
 やさしい
 
 tender
@@ -11518,19 +11547,19 @@ graceful
 affectionate
 amiable
 "
-1101,殺す,"殺す
+1105,殺す,"殺す
 ころす
 
 to kill
 "
-1102,心理,"心理
+1106,心理,"心理
 しんり
 
 state of mind
 mentality
 psychology
 "
-1103,水分,"水分
+1107,水分,"水分
 すいぶん
 
 water
@@ -11541,7 +11570,7 @@ humidity
 sap
 juice
 "
-1104,住む,"住む
+1108,住む,"住む
 すむ
 
 to live (of humans)
@@ -11550,7 +11579,7 @@ to inhabit
 to dwell
 to abide
 "
-1105,文句,"文句
+1109,文句,"文句
 もんく
 
 complaint
@@ -11560,7 +11589,7 @@ phrase
 words
 expression
 "
-1106,倒れる,"倒れる
+1110,倒れる,"倒れる
 たおれる
 
 to fall
@@ -11575,12 +11604,12 @@ to have a bad debt
 to be defeated (in a game)
 to fall (of governments, dictators, etc.)
 "
-1107,農業,"農業
+1111,農業,"農業
 のうぎょう
 
 agriculture
 "
-1108,文章,"文章
+1112,文章,"文章
 ぶんしょう
 
 sentence
@@ -11588,7 +11617,7 @@ article
 composition
 (writing) style
 "
-1109,連絡,"連絡
+1113,連絡,"連絡
 れんらく
 
 to contact
@@ -11605,7 +11634,7 @@ intercalary
 intercalaris
 internuncial
 "
-1110,半,"半
+1114,半,"半
 はん
 
 half
@@ -11614,7 +11643,7 @@ half-past
 odd number
 unit of land area (595.8 m^2)
 "
-1111,大半,"大半
+1115,大半,"大半
 たいはん
 
 majority
@@ -11626,12 +11655,12 @@ mainly
 predominately
 nearly
 "
-1112,牛乳,"牛乳
+1116,牛乳,"牛乳
 ぎゅうにゅう
 
 (cow's) milk
 "
-1113,女子,"女子
+1117,女子,"女子
 じょし
 おなご
 おみなご
@@ -11639,13 +11668,13 @@ nearly
 woman
 girl
 "
-1114,長女,"長女
+1118,長女,"長女
 ちょうじょ
 
 eldest daughter
 first-born daughter
 "
-1115,簡単,"簡単
+1119,簡単,"簡単
 かんたん
 
 simple
@@ -11655,7 +11684,7 @@ brief
 quick
 light
 "
-1116,市民,"市民
+1120,市民,"市民
 しみん
 
 citizen
@@ -11666,7 +11695,7 @@ townspeople
 bourgeoisie
 middle class
 "
-1117,技術,"技術
+1121,技術,"技術
 ぎじゅつ
 
 technology
@@ -11676,33 +11705,33 @@ skill
 art
 craft
 "
-1118,美しい,"美しい
+1122,美しい,"美しい
 うつくしい
 
 beautiful
 lovely
 "
-1119,失う,"失う
+1123,失う,"失う
 うしなう
 
 to lose
 to part with
 "
-1120,規則,"規則
+1124,規則,"規則
 きそく
 
 rules
 regulations
 conventions
 "
-1121,期間,"期間
+1125,期間,"期間
 きかん
 
 period
 term
 interval
 "
-1122,軽い,"軽い
+1126,軽い,"軽い
 かるい
 かろい
 
@@ -11723,21 +11752,21 @@ easy
 simple
 indiscriminate
 "
-1123,発行,"発行
+1127,発行,"発行
 はっこう
 
 issue (publications)
 publishing
 raising an event (software)
 "
-1124,無事,"無事
+1128,無事,"無事
 ぶじ
 
 safety
 peace
 quietness
 "
-1125,事故,"事故
+1129,事故,"事故
 じこ
 ことゆえ
 
@@ -11747,13 +11776,13 @@ trouble
 circumstances
 reasons
 "
-1126,当時,"当時
+1130,当時,"当時
 とうじ
 
 at that time
 in those days
 "
-1127,仕方,"仕方
+1131,仕方,"仕方
 しかた
 
 way
@@ -11762,7 +11791,7 @@ means
 resource
 course
 "
-1128,低い,"低い
+1132,低い,"低い
 ひくい
 
 low (rank, degree, value, content, quality, etc.)
@@ -11773,7 +11802,7 @@ deep (voice)
 in a low key
 low (volume)
 "
-1129,信頼,"信頼
+1133,信頼,"信頼
 しんらい
 
 reliance
@@ -11781,7 +11810,7 @@ trust
 faith
 confidence
 "
-1130,外出,"外出
+1134,外出,"外出
 がいしゅつ
 そとで
 
@@ -11789,26 +11818,26 @@ outing
 trip
 going out
 "
-1131,失敗,"失敗
+1135,失敗,"失敗
 しっぱい
 
 failure
 mistake
 blunder
 "
-1132,国語,"国語
+1136,国語,"国語
 こくご
 
 national language
 Japanese language (often as a school subject in Japan)
 native Japanese words (as opposed to loanwords)
 "
-1133,週,"週
+1137,週,"週
 しゅう
 
 week
 "
-1134,死ぬ,"死ぬ
+1138,死ぬ,"死ぬ
 しぬ
 
 to die
@@ -11819,32 +11848,32 @@ to look dead
 to cease
 to stop
 "
-1135,以来,"以来
+1139,以来,"以来
 いらい
 
 since
 henceforth
 "
-1136,人形,"人形
+1140,人形,"人形
 にんぎょう
 
 doll
 puppet
 figure
 "
-1137,下り,"下り
+1141,下り,"下り
 くだり
 
 down-train (going away from Tokyo)
 down-slope
 downward going
 "
-1138,出発,"出発
+1142,出発,"出発
 しゅっぱつ
 
 departure
 "
-1139,内容,"内容
+1143,内容,"内容
 ないよう
 
 subject
@@ -11854,7 +11883,7 @@ substance
 detail
 import
 "
-1140,確認,"確認
+1144,確認,"確認
 かくにん
 
 confirmation
@@ -11865,7 +11894,7 @@ check
 affirmation
 identification
 "
-1141,誘う,"誘う
+1145,誘う,"誘う
 さそう
 いざなう
 
@@ -11876,7 +11905,7 @@ to tempt
 to lure
 to induce
 "
-1142,通信,"通信
+1146,通信,"通信
 つうしん
 
 correspondence
@@ -11886,7 +11915,7 @@ news
 signal
 telecommunications
 "
-1143,眼鏡,"眼鏡
+1147,眼鏡,"眼鏡
 めがね
 がんきょう
 
@@ -11897,7 +11926,7 @@ discrimination
 discernment
 insight
 "
-1144,重要,"重要
+1148,重要,"重要
 じゅうよう
 
 important
@@ -11906,19 +11935,19 @@ essential
 principal
 major
 "
-1145,朝,"朝
+1149,朝,"朝
 あさ
 あした
 
 morning
 "
-1146,りんご,"りんご
+1150,りんご,"りんご
 りんご
 
 apple (fruit)
 apple tree (Malus pumila)
 "
-1147,子,"子
+1151,子,"子
 こ
 
 child
@@ -11932,25 +11961,25 @@ player who is not a dealer (in cards, mahjong, etc.)
 bird egg
 -er (often of young women)
 "
-1148,今日中に,"今日中に
+1152,今日中に,"今日中に
 きょうじゅうに
 
 by today
 before the day is over
 "
-1149,ではありません,"ではありません
+1153,ではありません,"ではありません
 ではありません
 
 is not
 am not
 are not
 "
-1150,海外旅行,"海外旅行
+1154,海外旅行,"海外旅行
 かいがいりょこう
 
 vacation abroad
 "
-1151,実際に,"実際に
+1155,実際に,"実際に
 じっさいに
 
 virtually
@@ -11960,7 +11989,7 @@ actually
 currently
 presently
 "
-1152,越える,"越える
+1156,越える,"越える
 こえる
 
 to cross over
@@ -11969,7 +11998,7 @@ to pass through
 to pass over (out of)
 to exceed
 "
-1153,事件,"事件
+1157,事件,"事件
 じけん
 
 event
@@ -11980,18 +12009,18 @@ plot
 trouble
 scandal
 "
-1154,起こる,"起こる
+1158,起こる,"起こる
 おこる
 
 to occur
 to happen
 "
-1155,参加,"参加
+1159,参加,"参加
 さんか
 
 participation
 "
-1156,暗い,"暗い
+1160,暗い,"暗い
 くらい
 
 dark
@@ -12006,7 +12035,7 @@ unclear
 unfamiliar
 unknown
 "
-1157,可能,"可能
+1161,可能,"可能
 かのう
 
 potential
@@ -12014,7 +12043,7 @@ possible
 practicable
 feasible
 "
-1158,昼間,"昼間
+1162,昼間,"昼間
 ひるま
 ちゅうかん
 
@@ -12023,14 +12052,14 @@ during the day
 time from sunrise until sunset
 diurnal period
 "
-1159,決まる,"決まる
+1163,決まる,"決まる
 きまる
 
 to be decided
 to be settled
 to look good in (clothes)
 "
-1160,商品,"商品
+1164,商品,"商品
 しょうひん
 
 commodity
@@ -12039,7 +12068,7 @@ goods
 stock
 merchandise
 "
-1161,方向,"方向
+1165,方向,"方向
 ほうこう
 
 direction
@@ -12048,25 +12077,25 @@ bearing
 way
 course (e.g. of action)
 "
-1162,料金,"料金
+1166,料金,"料金
 りょうきん
 
 fee
 charge
 fare
 "
-1163,妹,"妹
+1167,妹,"妹
 いもうと
 
 younger sister
 "
-1164,ものの,"ものの
+1168,ものの,"ものの
 ものの
 
 but
 although
 "
-1165,父母,"父母
+1169,父母,"父母
 ふぼ
 ちちはは
 ててはは
@@ -12077,19 +12106,19 @@ although
 father and mother
 parents
 "
-1166,部下,"部下
+1170,部下,"部下
 ぶか
 
 subordinate person
 "
-1167,人気,"人気
+1171,人気,"人気
 にんき
 
 popularity
 popular feeling
 business conditions
 "
-1168,時期,"時期
+1172,時期,"時期
 じき
 
 time
@@ -12100,7 +12129,7 @@ stage
 soon
 shortly
 "
-1169,位置,"位置
+1173,位置,"位置
 いち
 
 place
@@ -12108,7 +12137,7 @@ situation
 position
 location
 "
-1170,泥棒,"泥棒
+1174,泥棒,"泥棒
 どろぼう
 
 thief
@@ -12116,36 +12145,36 @@ burglar
 robber
 theft
 "
-1171,後輩,"後輩
+1175,後輩,"後輩
 こうはい
 
 junior (at work, school, etc.)
 younger people
 younger student
 "
-1172,村,"村
+1176,村,"村
 むら
 
 village
 "
-1173,機会,"機会
+1177,機会,"機会
 きかい
 
 chance
 opportunity
 "
-1174,選挙,"選挙
+1178,選挙,"選挙
 せんきょ
 
 election
 "
-1175,青年,"青年
+1179,青年,"青年
 せいねん
 
 youth
 young man
 "
-1176,議会,"議会
+1180,議会,"議会
 ぎかい
 
 congress
@@ -12153,7 +12182,7 @@ parliament
 diet
 legislative assembly
 "
-1177,結構,"結構
+1181,結構,"結構
 けっこう
 
 splendid
@@ -12174,7 +12203,7 @@ tolerably
 construction
 architecture
 "
-1178,おもしろい,"おもしろい
+1182,おもしろい,"おもしろい
 おもしろい
 
 interesting
@@ -12189,7 +12218,7 @@ enjoyable
 agreeable
 fun
 "
-1179,面白い,"面白い
+1183,面白い,"面白い
 おもしろい
 
 interesting
@@ -12204,7 +12233,7 @@ enjoyable
 agreeable
 fun
 "
-1180,他人,"他人
+1184,他人,"他人
 たにん
 ひと
 あだびと
@@ -12216,7 +12245,7 @@ unrelated person (i.e. not related by blood)
 outsider
 stranger
 "
-1181,風景,"風景
+1185,風景,"風景
 ふうけい
 
 scenery
@@ -12226,12 +12255,12 @@ view
 sight
 scene (e.g. of a crime)
 "
-1182,終わり,"終わり
+1186,終わり,"終わり
 おわり
 
 the end
 "
-1183,型,"型
+1187,型,"型
 かた
 がた
 
@@ -12248,20 +12277,20 @@ form (i.e. customary procedure)
 size (i.e. clothing, shoes)
 (taxonomical) form
 "
-1184,爆発,"爆発
+1188,爆発,"爆発
 ばくはつ
 
 explosion
 detonation
 eruption
 "
-1185,物理,"物理
+1189,物理,"物理
 ぶつり
 
 physics
 law of nature
 "
-1186,熱,"熱
+1190,熱,"熱
 ねつ
 
 heat
@@ -12274,19 +12303,19 @@ mania
 craze
 rage
 "
-1187,残る,"残る
+1191,残る,"残る
 のこる
 
 to remain
 to be left
 "
-1188,教科書,"教科書
+1192,教科書,"教科書
 きょうかしょ
 
 textbook
 text book
 "
-1189,祖母,"祖母
+1193,祖母,"祖母
 そぼ
 ばば
 おおば
@@ -12295,18 +12324,18 @@ text book
 
 grandmother
 "
-1190,一月,"一月
+1194,一月,"一月
 いちがつ
 
 January
 "
-1191,森,"森
+1195,森,"森
 もり
 
 forest
 shrine grove
 "
-1192,不明,"不明
+1196,不明,"不明
 ふめい
 
 unknown
@@ -12319,14 +12348,14 @@ unidentified
 ignorant
 lack of wisdom
 "
-1193,現実,"現実
+1197,現実,"現実
 げんじつ
 
 reality
 actuality
 hard fact
 "
-1194,年中,"年中
+1198,年中,"年中
 ねんじゅう
 ねんちゅう
 ねんぢゅう
@@ -12338,7 +12367,7 @@ always
 all the time
 middle class (of a nursery school, etc.)
 "
-1195,後ろ手,"後ろ手
+1199,後ろ手,"後ろ手
 うしろで
 
 hands behind one's back
@@ -12348,13 +12377,13 @@ rear
 back
 appearance from behind
 "
-1196,秋,"秋
+1200,秋,"秋
 あき
 
 autumn
 fall
 "
-1197,味,"味
+1201,味,"味
 あじ
 
 flavor
@@ -12368,24 +12397,24 @@ clever
 witty
 strange
 "
-1198,育つ,"育つ
+1202,育つ,"育つ
 そだつ
 
 to be raised (e.g. child)
 to be brought up
 to grow (up)
 "
-1199,女の人,"女の人
+1203,女の人,"女の人
 おんなのひと
 
 woman
 "
-1200,文学的,"文学的
+1204,文学的,"文学的
 ぶんがくてき
 
 literary
 "
-1201,流す,"流す
+1205,流す,"流す
 ながす
 
 to drain
@@ -12402,7 +12431,7 @@ to float
 to set adrift
 to call off (a meeting, etc.)
 "
-1202,業者,"業者
+1206,業者,"業者
 ぎょうしゃ
 
 trader
@@ -12412,7 +12441,7 @@ supplier
 manufacturer
 contractor
 "
-1203,浴びる,"浴びる
+1207,浴びる,"浴びる
 あびる
 
 to dash over oneself (e.g. water)
@@ -12426,7 +12455,7 @@ to draw (e.g. criticism, attention, praise)
 to have heaped upon
 to be showered with
 "
-1204,姿,"姿
+1208,姿,"姿
 すがた
 
 figure
@@ -12443,7 +12472,7 @@ form (of a waka)
 dressed in ...
 wearing ...
 "
-1205,案内,"案内
+1209,案内,"案内
 あんない
 
 information
@@ -12453,20 +12482,20 @@ to guide
 to show (around)
 to conduct
 "
-1206,生命,"生命
+1210,生命,"生命
 せいめい
 
 life
 existence
 "
-1207,しゃべる,"しゃべる
+1211,しゃべる,"しゃべる
 しゃべる
 
 to talk
 to chat
 to chatter
 "
-1208,回復,"回復
+1212,回復,"回復
 かいふく
 
 restoration
@@ -12479,26 +12508,26 @@ recovery (from an illness)
 recuperation
 convalescence
 "
-1209,放送,"放送
+1213,放送,"放送
 ほうそう
 
 broadcast
 broadcasting
 "
-1210,速度,"速度
+1214,速度,"速度
 そくど
 
 speed
 velocity
 rate
 "
-1211,久しぶり,"久しぶり
+1215,久しぶり,"久しぶり
 ひさしぶり
 
 a long time (since the last time)
 it's been a while (since I last saw, mailed, etc., you)
 "
-1212,本気,"本気
+1216,本気,"本気
 ほんき
 
 seriousness
@@ -12506,14 +12535,14 @@ earnestness
 truth
 sanctity
 "
-1213,興味,"興味
+1217,興味,"興味
 きょうみ
 
 interest (in something)
 curiosity (about something)
 zest (for)
 "
-1214,理解,"理解
+1218,理解,"理解
 りかい
 
 understanding
@@ -12521,7 +12550,7 @@ comprehension
 appreciation
 sympathy
 "
-1215,舟,"舟
+1219,舟,"舟
 ふね
 
 ship
@@ -12535,7 +12564,7 @@ vat
 trough
 counter for boat-shaped containers (e.g. of sashimi)
 "
-1216,素晴らしい,"素晴らしい
+1220,素晴らしい,"素晴らしい
 すばらしい
 すんばらしい
 
@@ -12543,7 +12572,7 @@ wonderful
 splendid
 magnificent
 "
-1217,熱い,"熱い
+1221,熱い,"熱い
 あつい
 
 hot (thing)
@@ -12560,13 +12589,13 @@ extreme
 hot (topic)
 of interest
 "
-1218,愛情,"愛情
+1222,愛情,"愛情
 あいじょう
 
 love
 affection
 "
-1219,書く,"書く
+1223,書く,"書く
 かく
 
 to write
@@ -12575,19 +12604,19 @@ to pen
 to draw
 to paint
 "
-1220,終える,"終える
+1224,終える,"終える
 おえる
 
 to finish
 to graduate
 "
-1221,年月,"年月
+1225,年月,"年月
 としつき
 ねんげつ
 
 months and years
 "
-1222,宗教,"宗教
+1226,宗教,"宗教
 しゅうきょう
 
 religion
@@ -12597,7 +12626,7 @@ faith
 creed
 religious activity
 "
-1223,大いに,"大いに
+1227,大いに,"大いに
 おおいに
 
 very
@@ -12605,7 +12634,7 @@ much
 greatly
 a lot of
 "
-1224,機能,"機能
+1228,機能,"機能
 きのう
 
 function
@@ -12613,7 +12642,7 @@ facility
 faculty
 feature
 "
-1225,集中,"集中
+1229,集中,"集中
 しゅうちゅう
 
 concentration
@@ -12622,12 +12651,12 @@ centralization
 integration
 gathering together
 "
-1226,後者,"後者
+1230,後者,"後者
 こうしゃ
 
 the latter
 "
-1227,主張,"主張
+1231,主張,"主張
 しゅちょう
 
 claim
@@ -12640,7 +12669,7 @@ contention
 opinion
 tenet
 "
-1228,守る,"守る
+1232,守る,"守る
 まもる
 
 to protect
@@ -12652,14 +12681,14 @@ to observe
 to obey
 to follow
 "
-1229,非常,"非常
+1233,非常,"非常
 ひじょう
 
 emergency
 extraordinary
 unusual
 "
-1230,得意,"得意
+1234,得意,"得意
 とくい
 
 triumph
@@ -12670,13 +12699,13 @@ one's forte
 one's specialty
 frequent customer (client, etc.)
 "
-1231,就職,"就職
+1235,就職,"就職
 しゅうしょく
 
 finding employment
 getting a job
 "
-1232,支配,"支配
+1236,支配,"支配
 しはい
 
 domination
@@ -12685,7 +12714,7 @@ control
 direction
 guidance
 "
-1233,似合う,"似合う
+1237,似合う,"似合う
 にあう
 
 to suit
@@ -12693,19 +12722,19 @@ to match
 to become
 to be like
 "
-1234,鉄道,"鉄道
+1238,鉄道,"鉄道
 てつどう
 
 railroad
 railway
 rail transport
 "
-1235,寺,"寺
+1239,寺,"寺
 てら
 
 temple (Buddhist)
 "
-1236,活用,"活用
+1240,活用,"活用
 かつよう
 
 practical use
@@ -12714,28 +12743,28 @@ conjugation
 declension
 inflection
 "
-1237,注,"注
+1241,注,"注
 ちゅう
 
 annotation
 explanatory note
 comment
 "
-1238,向かう,"向かう
+1242,向かう,"向かう
 むかう
 
 to face
 to go towards
 to head towards
 "
-1239,温泉,"温泉
+1243,温泉,"温泉
 おんせん
 
 spa
 hot spring
 onsen
 "
-1240,年度,"年度
+1244,年度,"年度
 ねんど
 
 fiscal year (usu. April 1 to March 31 in Japan)
@@ -12744,7 +12773,7 @@ academic year
 school year
 product year
 "
-1241,武器,"武器
+1245,武器,"武器
 ぶき
 
 weapon
@@ -12753,7 +12782,7 @@ ordnance
 weapon (something used to gain an advantage)
 asset
 "
-1242,苦手,"苦手
+1246,苦手,"苦手
 にがて
 
 poor (at)
@@ -12762,27 +12791,27 @@ not very good (at)
 dislike (of)
 difficult to deal with
 "
-1243,確実,"確実
+1247,確実,"確実
 かくじつ
 
 certainty
 reliability
 soundness
 "
-1244,もちろん,"もちろん
+1248,もちろん,"もちろん
 もちろん
 
 of course
 certainly
 naturally
 "
-1245,人類,"人類
+1249,人類,"人類
 じんるい
 
 mankind
 humanity
 "
-1246,日常,"日常
+1250,日常,"日常
 にちじょう
 
 ordinary
@@ -12790,20 +12819,20 @@ regular
 everyday
 usual
 "
-1247,未来,"未来
+1251,未来,"未来
 みらい
 
 the future (usually distant)
 future tense
 the world to come
 "
-1248,血,"血
+1252,血,"血
 ち
 
 blood
 consanguinity
 "
-1249,傷,"傷
+1253,傷,"傷
 きず
 
 wound
@@ -12829,7 +12858,7 @@ dishonour
 (emotional) hurt
 hurt feelings
 "
-1250,喜ぶ,"喜ぶ
+1254,喜ぶ,"喜ぶ
 よろこぶ
 
 to be delighted
@@ -12838,18 +12867,18 @@ to be pleased
 to congratulate
 to gratefully accept
 "
-1251,約束通り,"約束通り
+1255,約束通り,"約束通り
 やくそくどおり
 
 as one promised
 "
-1252,二十日,"二十日
+1256,二十日,"二十日
 はつか
 
 twentieth day of the month
 twenty days
 "
-1253,深い,"深い
+1257,深い,"深い
 ふかい
 
 deep
@@ -12861,14 +12890,14 @@ intense
 strong
 late
 "
-1254,ではない,"ではない
+1258,ではない,"ではない
 ではない
 
 is not
 am not
 are not
 "
-1255,下,"下
+1259,下,"下
 した
 
 below
@@ -12886,14 +12915,14 @@ trade-in
 preliminary
 preparatory
 "
-1256,島,"島
+1260,島,"島
 しま
 
 island
 territory (of a prostitute, organized crime gang, etc.)
 turf
 "
-1257,突然,"突然
+1261,突然,"突然
 とつぜん
 
 abrupt
@@ -12901,7 +12930,7 @@ sudden
 unexpected
 all at once
 "
-1258,太い,"太い
+1262,太い,"太い
 ふとい
 
 fat
@@ -12912,13 +12941,13 @@ shameless
 brazen
 lucky (billiards)
 "
-1259,太陽,"太陽
+1263,太陽,"太陽
 たいよう
 
 sun
 solar
 "
-1260,ほど,"ほど
+1264,ほど,"ほど
 ほど
 
 degree
@@ -12928,12 +12957,12 @@ limit
 indicates approx. amount or maximum
 upper limit
 "
-1261,屋根,"屋根
+1265,屋根,"屋根
 やね
 
 roof
 "
-1262,寝る,"寝る
+1266,寝る,"寝る
 ねる
 
 to lie down
@@ -12943,12 +12972,12 @@ to sleep (lying down)
 to sleep (with someone, i.e. have intercourse)
 to lie idle
 "
-1263,東京,"東京
+1267,東京,"東京
 とうきょう
 
 Tokyo
 "
-1264,歳,"歳
+1268,歳,"歳
 さい -
 
 years-old
@@ -12958,7 +12987,7 @@ talent
 aptitude
 genius
 "
-1265,胸,"胸
+1269,胸,"胸
 むね
 むな
 
@@ -12974,14 +13003,14 @@ heart
 mind
 feelings
 "
-1266,訪ねる,"訪ねる
+1270,訪ねる,"訪ねる
 たずねる
 
 to visit
 to call on
 to pay a visit to
 "
-1267,指定,"指定
+1271,指定,"指定
 してい
 
 designation
@@ -12990,7 +13019,7 @@ assignment
 appointment
 pointing at
 "
-1268,側,"側
+1272,側,"側
 がわ
 かわ
 
@@ -12998,7 +13027,7 @@ side (of something, or taking someone's side)
 part
 (watch) case
 "
-1269,感覚,"感覚
+1273,感覚,"感覚
 かんかく
 
 sense
@@ -13006,7 +13035,7 @@ sensation
 feeling
 intuition
 "
-1270,調査,"調査
+1274,調査,"調査
 ちょうさ
 
 investigation
@@ -13015,14 +13044,14 @@ inquiry
 enquiry
 survey
 "
-1271,増加,"増加
+1275,増加,"増加
 ぞうか
 
 increase
 increment
 addition
 "
-1272,落ち込む,"落ち込む
+1276,落ち込む,"落ち込む
 おちこむ
 
 to feel down (sad)
@@ -13030,7 +13059,7 @@ to be in a slump (e.g. business, economy)
 to be in an unfavourable condition
 to fall into (e.g. a hole)
 "
-1273,込む,"込む
+1277,込む,"込む
 こむ
 
 to be crowded
@@ -13044,7 +13073,7 @@ to do thoroughly
 to do intently
 to continue in the same state
 "
-1274,下げる,"下げる
+1278,下げる,"下げる
 さげる
 
 to hang
@@ -13059,7 +13088,7 @@ to pull back
 to clear (plates)
 to remove (food, etc. from table or altar)
 "
-1275,怖い,"怖い
+1279,怖い,"怖い
 こわい
 
 scary
@@ -13068,7 +13097,7 @@ eerie
 dreadful
 (I'm) afraid
 "
-1276,開く,"開く
+1280,開く,"開く
 あく
 
 to open (e.g. doors)
@@ -13085,7 +13114,7 @@ to have a hole
 to form a gap
 to have an interval (between events)
 "
-1277,忙しい,"忙しい
+1281,忙しい,"忙しい
 いそがしい
 せわしい
 
@@ -13094,7 +13123,7 @@ hectic
 occupied
 engaged
 "
-1278,降りる,"降りる
+1282,降りる,"降りる
 おりる
 
 to descend (e.g. a mountain)
@@ -13115,7 +13144,7 @@ to form (of frost, dew, mist, etc.)
 to be passed (from the body
 e.g. of a roundworm)
 "
-1279,恐い,"恐い
+1283,恐い,"恐い
 こわい
 
 scary
@@ -13124,7 +13153,7 @@ eerie
 dreadful
 (I'm) afraid
 "
-1280,おそらく,"おそらく
+1284,おそらく,"おそらく
 おそらく
 
 perhaps
@@ -13132,20 +13161,20 @@ likely
 probably
 I dare say
 "
-1281,期待,"期待
+1285,期待,"期待
 きたい
 
 expectation
 anticipation
 hope
 "
-1282,触る,"触る
+1286,触る,"触る
 さわる
 
 to touch
 to feel
 "
-1283,不安,"不安
+1287,不安,"不安
 ふあん
 
 anxiety
@@ -13153,13 +13182,13 @@ uneasiness
 insecurity
 suspense
 "
-1284,去年,"去年
+1288,去年,"去年
 きょねん
 こぞ
 
 last year
 "
-1285,起きる,"起きる
+1289,起きる,"起きる
 おきる
 
 to get up
@@ -13172,7 +13201,7 @@ to occur (usu. of unfavourable incidents)
 to happen
 to take place
 "
-1286,利益,"利益
+1290,利益,"利益
 りえき
 りやく
 
@@ -13185,13 +13214,13 @@ grace (of God, Buddha, etc.) (esp. as attained through rightful actions, prayer,
 blessing
 miracle
 "
-1287,将来,"将来
+1291,将来,"将来
 しょうらい
 
 future (usually near)
 prospects
 "
-1288,残す,"残す
+1292,残す,"残す
 のこす
 
 to leave (behind, over)
@@ -13199,7 +13228,7 @@ to bequeath
 to save
 to reserve
 "
-1289,末,"末
+1293,末,"末
 すえ
 
 tip
@@ -13214,7 +13243,7 @@ future
 finally
 trivialities
 "
-1290,程度,"程度
+1294,程度,"程度
 ていど
 
 degree
@@ -13225,18 +13254,18 @@ of the order of (following a number)
 about
 approximately
 "
-1291,発音,"発音
+1295,発音,"発音
 はつおん
 
 pronunciation
 "
-1292,机,"机
+1296,机,"机
 つくえ
 つき
 
 desk
 "
-1293,楽しみ,"楽しみ
+1297,楽しみ,"楽しみ
 たのしみ
 
 enjoyment
@@ -13247,7 +13276,7 @@ hobby
 anticipation
 looking forward to
 "
-1294,マンション,"マンション
+1298,マンション,"マンション
 マンション
 
 condominium (often mid-rise or high-rise concrete)
@@ -13256,21 +13285,21 @@ apartment house
 apartment
 flat
 "
-1295,住所,"住所
+1299,住所,"住所
 じゅうしょ
 
 address (e.g. of house)
 residence
 domicile
 "
-1296,見学,"見学
+1300,見学,"見学
 けんがく
 
 inspection
 study by observation
 field trip
 "
-1297,座る,"座る
+1301,座る,"座る
 すわる
 
 to sit
@@ -13279,21 +13308,21 @@ to assume (a position)
 to hold steady
 to hold still
 "
-1298,今回,"今回
+1302,今回,"今回
 こんかい
 
 now
 this time
 lately
 "
-1299,便利,"便利
+1303,便利,"便利
 べんり
 
 convenient
 handy
 useful
 "
-1300,箱,"箱
+1304,箱,"箱
 はこ
 
 box
@@ -13311,7 +13340,7 @@ receptacle for human waste
 feces (faeces)
 counter for boxes (or boxed objects)
 "
-1301,攻撃,"攻撃
+1305,攻撃,"攻撃
 こうげき
 
 attack
@@ -13322,7 +13351,7 @@ censure
 denunciation
 condemnation
 "
-1302,通う,"通う
+1306,通う,"通う
 かよう
 
 to go to and from (a place)
@@ -13337,7 +13366,7 @@ to circulate (e.g. blood, electricity)
 to be communicated (e.g. thought)
 to resemble
 "
-1303,名,"名
+1307,名,"名
 な
 
 name
@@ -13351,14 +13380,14 @@ pretense
 justification
 appearance
 "
-1304,食品,"食品
+1308,食品,"食品
 しょくひん
 
 food
 food products
 foodstuffs
 "
-1305,出かける,"出かける
+1309,出かける,"出かける
 でかける
 
 to go out (e.g. on an excursion or outing)
@@ -13369,18 +13398,18 @@ to set out
 to be about to leave
 to be just going out
 "
-1306,委員,"委員
+1310,委員,"委員
 いいん
 
 committee member
 "
-1307,地球,"地球
+1311,地球,"地球
 ちきゅう
 
 the earth
 the globe
 "
-1308,裏,"裏
+1312,裏,"裏
 うら
 
 bottom (or another side that is hidden from view)
@@ -13400,31 +13429,31 @@ inverse (of a hypothesis, etc.)
 bottom (of an inning)
 last half (of an inning)
 "
-1309,水泳,"水泳
+1313,水泳,"水泳
 すいえい
 
 swimming
 "
-1310,地域,"地域
+1314,地域,"地域
 ちいき
 
 area
 region
 "
-1311,決定,"決定
+1315,決定,"決定
 けってい
 
 decision
 determination
 "
-1312,全体,"全体
+1316,全体,"全体
 ぜんたい
 
 whole
 entirety
 whatever (is the matter)
 "
-1313,代表,"代表
+1317,代表,"代表
 だいひょう
 
 representative
@@ -13434,7 +13463,7 @@ type
 example
 model
 "
-1314,判断,"判断
+1318,判断,"判断
 はんだん
 
 judgment
@@ -13445,14 +13474,14 @@ adjudication
 divination
 judgement
 "
-1315,巨大,"巨大
+1319,巨大,"巨大
 きょだい
 
 huge
 gigantic
 enormous
 "
-1316,ひどい,"ひどい
+1320,ひどい,"ひどい
 ひどい
 
 cruel
@@ -13475,13 +13504,13 @@ outrageous
 unfair
 unjust
 "
-1317,二日,"二日
+1321,二日,"二日
 ふつか
 
 second day of the month
 two days
 "
-1318,確か,"確か
+1322,確か,"確か
 たしか
 
 sure
@@ -13500,33 +13529,33 @@ If I'm not mistaken
 If I remember correctly
 If I remember rightly
 "
-1319,輸出,"輸出
+1323,輸出,"輸出
 ゆしゅつ
 しゅしゅつ
 
 export
 efferent
 "
-1320,身長,"身長
+1324,身長,"身長
 しんちょう
 
 height (of body)
 stature
 "
-1321,三日,"三日
+1325,三日,"三日
 みっか
 
 the third day of the month
 three days
 "
-1322,拾う,"拾う
+1326,拾う,"拾う
 ひろう
 
 to pick up
 to find
 to gather
 "
-1323,天,"天
+1327,天,"天
 てん
 あめ
 あま
@@ -13536,13 +13565,13 @@ heaven
 svarga (heaven-like realm visited as a stage of death and rebirth)
 deva (divine being of Buddhism)
 "
-1324,相談,"相談
+1328,相談,"相談
 そうだん
 
 consultation
 discussion
 "
-1325,中止,"中止
+1329,中止,"中止
 ちゅうし
 
 suspension
@@ -13550,20 +13579,20 @@ stoppage
 discontinuance
 interruption
 "
-1326,学習,"学習
+1330,学習,"学習
 がくしゅう
 
 study
 learning
 tutorial
 "
-1327,引っ越す,"引っ越す
+1331,引っ越す,"引っ越す
 ひっこす
 
 to move (house)
 to change residence
 "
-1328,ので,"ので
+1332,ので,"ので
 ので
 
 that being the case
@@ -13571,7 +13600,7 @@ because of ...
 the reason is ....
 given that...
 "
-1329,くらい,"くらい
+1333,くらい,"くらい
 くらい
 
 approximately
@@ -13585,14 +13614,14 @@ at least
 as ... as ...
 like
 "
-1330,続ける,"続ける
+1334,続ける,"続ける
 つづける
 
 to continue
 to keep up
 to keep on
 "
-1331,間,"間
+1335,間,"間
 あいだ
 あわい
 
@@ -13611,7 +13640,7 @@ members (within, among)
 due to
 because of
 "
-1332,近代,"近代
+1336,近代,"近代
 きんだい
 
 present day
@@ -13619,7 +13648,7 @@ modern times
 recent times
 early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)
 "
-1333,背景,"背景
+1337,背景,"背景
 はいけい
 
 background
@@ -13631,14 +13660,14 @@ context
 backing
 support (from behind the scenes)
 "
-1334,事実,"事実
+1338,事実,"事実
 じじつ
 
 fact
 truth
 reality
 "
-1335,責任,"責任
+1339,責任,"責任
 せきにん
 
 duty
@@ -13646,7 +13675,7 @@ responsibility (incl. supervision of staff)
 liability
 onus
 "
-1336,渡す,"渡す
+1340,渡す,"渡す
 わたす
 
 to ferry across (e.g. a river)
@@ -13660,7 +13689,7 @@ to pass
 to give
 to transfer
 "
-1337,表現,"表現
+1341,表現,"表現
 ひょうげん
 
 expression
@@ -13668,14 +13697,14 @@ presentation
 representation
 notation
 "
-1338,物質,"物質
+1342,物質,"物質
 ぶっしつ
 
 material
 substance
 matter
 "
-1339,都市,"都市
+1343,都市,"都市
 とし
 
 town
@@ -13683,7 +13712,7 @@ city
 municipal
 urban
 "
-1340,一生,"一生
+1344,一生,"一生
 いっしょう
 
 whole life
@@ -13696,13 +13725,13 @@ the whole world
 the era
 (the only, the greatest, etc.) of one's life
 "
-1341,大統領,"大統領
+1345,大統領,"大統領
 だいとうりょう
 
 president
 chief executive
 "
-1342,同様,"同様
+1346,同様,"同様
 どうよう
 
 identical
@@ -13711,13 +13740,13 @@ same (kind)
 like
 similarity
 "
-1343,水道,"水道
+1347,水道,"水道
 すいどう
 
 water service
 water supply
 "
-1344,年代,"年代
+1348,年代,"年代
 ねんだい
 
 age
@@ -13725,7 +13754,7 @@ era
 period
 date
 "
-1345,制度,"制度
+1349,制度,"制度
 せいど
 
 system
@@ -13733,33 +13762,33 @@ institution
 organization
 organisation
 "
-1346,状況,"状況
+1350,状況,"状況
 じょうきょう
 
 state of affairs (around you)
 situation
 circumstances
 "
-1347,会員,"会員
+1351,会員,"会員
 かいいん
 
 member
 the membership
 "
-1348,以外,"以外
+1352,以外,"以外
 いがい
 
 with the exception of
 excepting
 "
-1349,結婚式,"結婚式
+1353,結婚式,"結婚式
 けっこんしき
 
 marriage ceremony
 wedding
 nuptials
 "
-1350,効果,"効果
+1354,効果,"効果
 こうか
 
 effect
@@ -13768,7 +13797,7 @@ efficacy
 result
 effects (e.g. sound effects, visual effects, special effects)
 "
-1351,線,"線
+1355,線,"線
 せん
 
 line
@@ -13795,7 +13824,7 @@ principle
 impression one leaves
 air one gives off
 "
-1352,大変,"大変
+1356,大変,"大変
 たいへん
 
 very
@@ -13812,7 +13841,7 @@ hard
 major incident
 disaster
 "
-1353,表,"表
+1357,表,"表
 おもて
 
 surface
@@ -13828,12 +13857,12 @@ top (of an inning)
 cover (for tatami mats, etc.)
 foreground
 "
-1354,二時,"二時
+1358,二時,"二時
 にじ
 
 two o'clock
 "
-1355,汚い,"汚い
+1359,汚い,"汚い
 きたない
 
 dirty
@@ -13855,7 +13884,7 @@ underhanded
 stingy
 greedy
 "
-1356,入る,"入る
+1360,入る,"入る
 はいる
 
 to enter
@@ -13871,7 +13900,7 @@ to get
 to receive
 to score
 "
-1357,喫茶店,"喫茶店
+1361,喫茶店,"喫茶店
 きっさてん
 きっちゃてん
 
@@ -13881,12 +13910,12 @@ coffee lounge
 coffeehouse
 cafe
 "
-1358,九つ,"九つ
+1362,九つ,"九つ
 ここのつ
 
 nine
 "
-1359,飲む,"飲む
+1363,飲む,"飲む
 のむ
 
 to drink
@@ -13902,13 +13931,13 @@ to accept (e.g. demand, condition)
 to make light of
 to conceal
 "
-1360,五日,"五日
+1364,五日,"五日
 いつか
 
 the fifth day of the month
 five days
 "
-1361,背,"背
+1365,背,"背
 せ
 せい
 
@@ -13920,13 +13949,13 @@ reverse
 rear side
 ridge (of a mountain)
 "
-1362,四日,"四日
+1366,四日,"四日
 よっか
 
 fourth day of the month
 four days
 "
-1363,出口,"出口
+1367,出口,"出口
 でぐち
 
 exit
@@ -13936,7 +13965,7 @@ outlet
 leak
 vent
 "
-1364,後,"後
+1368,後,"後
 あと
 
 behind
@@ -13956,13 +13985,13 @@ in addition
 past
 previous
 "
-1365,多い,"多い
+1369,多い,"多い
 おおい
 
 many
 numerous
 "
-1366,塩,"塩
+1370,塩,"塩
 しお
 えん
 
@@ -13975,7 +14004,7 @@ toil
 trouble
 saltiness
 "
-1367,六日,"六日
+1371,六日,"六日
 むいか
 むゆか
 むよか
@@ -13983,30 +14012,30 @@ saltiness
 sixth day of the month
 six days
 "
-1368,今週,"今週
+1372,今週,"今週
 こんしゅう
 
 this week
 "
-1369,池,"池
+1373,池,"池
 いけ
 
 pond
 "
-1370,八日,"八日
+1374,八日,"八日
 ようか
 
 the eighth day of the month
 eight days
 "
-1371,九日,"九日
+1375,九日,"九日
 ここのか
 ここぬか
 
 the ninth day of the month
 nine days
 "
-1372,どうぞ,"どうぞ
+1376,どうぞ,"どうぞ
 どうぞ
 
 please
@@ -14017,7 +14046,7 @@ feel free
 you are welcome
 here you are
 "
-1373,色,"色
+1377,色,"色
 いろ
 
 colour
@@ -14034,7 +14063,7 @@ kind
 type
 variety
 "
-1374,冷たい,"冷たい
+1378,冷たい,"冷たい
 つめたい
 つべたい
 
@@ -14045,7 +14074,7 @@ freezing
 coldhearted
 unfeeling
 "
-1375,置く,"置く
+1379,置く,"置く
 おく
 
 to put
@@ -14066,7 +14095,7 @@ to do something in advance
 to leave something in a certain state
 to keep something in a certain state
 "
-1376,道,"道
+1380,道,"道
 みち
 
 road
@@ -14089,18 +14118,18 @@ way
 method
 means
 "
-1377,鼻,"鼻
+1381,鼻,"鼻
 はな
 
 nose
 "
-1378,帽子,"帽子
+1382,帽子,"帽子
 ぼうし
 
 hat
 cap
 "
-1379,玄関,"玄関
+1383,玄関,"玄関
 げんかん
 
 entranceway
@@ -14110,7 +14139,7 @@ foyer
 entryway
 mud room
 "
-1380,下手,"下手
+1384,下手,"下手
 へた
 
 unskillful
@@ -14119,7 +14148,7 @@ awkward
 imprudent
 untactful
 "
-1381,薬,"薬
+1385,薬,"薬
 くすり
 
 medicine
@@ -14129,12 +14158,12 @@ efficacious chemical (i.e. gunpowder, pesticide, etc.)
 (pottery) glaze
 small bribe
 "
-1382,泳ぐ,"泳ぐ
+1386,泳ぐ,"泳ぐ
 およぐ
 
 to swim
 "
-1383,交番,"交番
+1387,交番,"交番
 こうばん
 
 police box
@@ -14142,7 +14171,7 @@ small neighborhood police station
 alternation
 alternating (e.g. current)
 "
-1384,靴下,"靴下
+1388,靴下,"靴下
 くつした
 
 socks
@@ -14150,7 +14179,7 @@ sock
 stockings
 stocking
 "
-1385,記録,"記録
+1389,記録,"記録
 きろく
 
 record
@@ -14165,14 +14194,14 @@ to set a record (e.g. in sports)
 to show a result
 to reach a value
 "
-1386,開発,"開発
+1390,開発,"開発
 かいはつ
 かいほつ
 
 development
 exploitation
 "
-1387,記事,"記事
+1391,記事,"記事
 きじ
 
 article
@@ -14180,14 +14209,14 @@ news story
 report
 account
 "
-1388,物価,"物価
+1392,物価,"物価
 ぶっか
 
 prices of commodities
 prices (in general)
 cost-of-living
 "
-1389,一日,"一日
+1393,一日,"一日
 いちにち
 いちじつ
 ひとひ
@@ -14196,12 +14225,12 @@ cost-of-living
 one day
 first day of the month
 "
-1390,工業,"工業
+1394,工業,"工業
 こうぎょう
 
 (manufacturing) industry
 "
-1391,国民,"国民
+1395,国民,"国民
 こくみん
 
 nation
@@ -14209,7 +14238,7 @@ nationality
 people
 citizen
 "
-1392,生じる,"生じる
+1396,生じる,"生じる
 しょうじる
 
 to produce
@@ -14219,26 +14248,26 @@ to result from
 to arise
 to be generated
 "
-1393,両方,"両方
+1397,両方,"両方
 りょうほう
 
 both
 both sides
 both parties
 "
-1394,複雑,"複雑
+1398,複雑,"複雑
 ふくざつ
 
 complex
 complicated
 mixed (feelings)
 "
-1395,一年間,"一年間
+1399,一年間,"一年間
 いちねんかん
 
 (period of) one year
 "
-1396,数字,"数字
+1400,数字,"数字
 すうじ
 
 numeral
@@ -14246,20 +14275,20 @@ figure
 digit
 numeric character
 "
-1397,伝統,"伝統
+1401,伝統,"伝統
 でんとう
 
 tradition
 convention
 "
-1398,工事,"工事
+1402,工事,"工事
 こうじ
 
 construction work
 construction
 work (related to construction, e.g. painting, concrete-pouring, etc.)
 "
-1399,決して,"決して
+1403,決して,"決して
 けっして
 けして
 
@@ -14268,14 +14297,14 @@ by no means
 not in the least
 in no way
 "
-1400,警察官,"警察官
+1404,警察官,"警察官
 けいさつかん
 
 policeman
 policewoman
 police officer
 "
-1401,活動,"活動
+1405,活動,"活動
 かつどう
 
 action
@@ -14283,21 +14312,21 @@ activity
 (military etc.) operation
 movie (esp. during the silent movie period)
 "
-1402,最高,"最高
+1406,最高,"最高
 さいこう
 
 highest
 supreme
 the most
 "
-1403,神経,"神経
+1407,神経,"神経
 しんけい
 
 nerve
 nerves
 sensitivity
 "
-1404,要求,"要求
+1408,要求,"要求
 ようきゅう
 
 demand
@@ -14306,26 +14335,26 @@ requisition
 requirement
 desire
 "
-1405,国会,"国会
+1409,国会,"国会
 こっかい
 
 National Diet
 parliament
 congress
 "
-1406,本人,"本人
+1410,本人,"本人
 ほんにん
 
 the person himself
 "
-1407,解決,"解決
+1411,解決,"解決
 かいけつ
 
 settlement
 solution
 resolution
 "
-1408,個人,"個人
+1412,個人,"個人
 こじん
 
 individual
@@ -14333,13 +14362,13 @@ private person
 personal
 private
 "
-1409,名人,"名人
+1413,名人,"名人
 めいじん
 
 master
 expert
 "
-1410,風呂,"風呂
+1414,風呂,"風呂
 ふろ
 
 bath
@@ -14349,14 +14378,14 @@ bathhouse
 room for drying lacquerware
 base (wooden joint connecting the blade of a hoe, spade, etc., to the handle)
 "
-1411,価値,"価値
+1415,価値,"価値
 かち
 
 value
 worth
 merit
 "
-1412,弱い,"弱い
+1416,弱い,"弱い
 よわい
 
 weak
@@ -14366,7 +14395,7 @@ tender
 unskilled
 weak (wine)
 "
-1413,薄い,"薄い
+1417,薄い,"薄い
 うすい
 
 thin
@@ -14379,13 +14408,13 @@ weak (taste, etc.)
 slim (probability, etc.)
 small
 "
-1414,洗う,"洗う
+1418,洗う,"洗う
 あらう
 
 to wash
 to investigate
 "
-1415,掃除,"掃除
+1419,掃除,"掃除
 そうじ
 
 cleaning
@@ -14393,7 +14422,7 @@ sweeping
 dusting
 scrubbing
 "
-1416,やる,"やる
+1420,やる,"やる
 やる
 
 to do
@@ -14440,40 +14469,40 @@ to do ... for (someone of equal or lower status)
 to do ... to (sometimes with negative nuance)
 to make active efforts to ...
 "
-1417,牛肉,"牛肉
+1421,牛肉,"牛肉
 ぎゅうにく
 
 beef
 "
-1418,洋服,"洋服
+1422,洋服,"洋服
 ようふく
 
 Western-style clothes (cf traditional Japanese clothes)
 "
-1419,咲く,"咲く
+1423,咲く,"咲く
 さく
 
 to bloom
 "
-1420,辞書,"辞書
+1424,辞書,"辞書
 じしょ
 
 dictionary
 lexicon
 letter of resignation
 "
-1421,六つ,"六つ
+1425,六つ,"六つ
 むっつ
 むつ
 
 six
 "
-1422,切符,"切符
+1426,切符,"切符
 きっぷ
 
 ticket
 "
-1423,つまらない,"つまらない
+1427,つまらない,"つまらない
 つまらない
 
 dull
@@ -14493,7 +14522,7 @@ useless
 pointless
 disappointing
 "
-1424,若い,"若い
+1428,若い,"若い
 わかい
 
 young
@@ -14503,7 +14532,7 @@ green
 low (number)
 small
 "
-1425,より,"より
+1429,より,"より
 より
 
 than
@@ -14517,13 +14546,13 @@ but
 other than
 more
 "
-1426,服,"服
+1430,服,"服
 ふく
 
 clothes (esp. Western clothes)
 counter for doses of medicine, gulps of tea, drags of a cigarette, etc.
 "
-1427,並ぶ,"並ぶ
+1431,並ぶ,"並ぶ
 ならぶ
 
 to line up
@@ -14532,19 +14561,19 @@ to rival
 to match
 to equal
 "
-1428,昨日,"昨日
+1432,昨日,"昨日
 きのう
 さくじつ
 
 yesterday
 "
-1429,果物,"果物
+1433,果物,"果物
 くだもの
 かぶつ
 
 fruit
 "
-1430,影,"影
+1434,影,"影
 かげ
 
 shadow
@@ -14558,19 +14587,19 @@ light (stars, moon)
 trace
 shadow (of one's former self)
 "
-1431,文化的,"文化的
+1435,文化的,"文化的
 ぶんかてき
 
 cultural
 "
-1432,感じ,"感じ
+1436,感じ,"感じ
 かんじ
 
 feeling
 sense
 impression
 "
-1433,不可,"不可
+1437,不可,"不可
 ふか
 
 wrong
@@ -14582,7 +14611,7 @@ not allowed
 not possible
 failing grade
 "
-1434,新聞紙,"新聞紙
+1438,新聞紙,"新聞紙
 しんぶんし
 しんぶんがみ
 
@@ -14590,14 +14619,14 @@ newspaper
 newsprint
 newspaper used for wrapping, packing, etc.
 "
-1435,被害,"被害
+1439,被害,"被害
 ひがい
 
 (suffering) damage
 injury
 harm
 "
-1436,様子,"様子
+1440,様子,"様子
 ようす
 
 state
@@ -14610,19 +14639,19 @@ aspect
 sign
 indication
 "
-1437,もう少し,"もう少し
+1441,もう少し,"もう少し
 もうすこし
 
 a bit more
 a bit longer
 "
-1438,隠す,"隠す
+1442,隠す,"隠す
 かくす
 
 to hide
 to conceal
 "
-1439,店,"店
+1443,店,"店
 みせ
 
 store
@@ -14630,7 +14659,7 @@ shop
 establishment
 restaurant
 "
-1440,疲れる,"疲れる
+1444,疲れる,"疲れる
 つかれる
 
 to get tired
@@ -14638,7 +14667,7 @@ to tire
 to be worn out (e.g. of well used objects)
 to starve
 "
-1441,提供,"提供
+1445,提供,"提供
 ていきょう
 
 offer
@@ -14650,7 +14679,7 @@ provisioning
 supply
 donating
 "
-1442,影響,"影響
+1446,影響,"影響
 えいきょう
 
 influence
@@ -14661,7 +14690,7 @@ to have an influence on
 to impact
 to have an effect on
 "
-1443,遅れる,"遅れる
+1447,遅れる,"遅れる
 おくれる
 
 to be late
@@ -14669,7 +14698,7 @@ to be delayed
 to fall behind schedule
 to be overdue
 "
-1444,結果,"結果
+1448,結果,"結果
 けっか
 
 result
@@ -14679,19 +14708,19 @@ effect
 coming to fruition
 bearing fruit
 "
-1445,通過,"通過
+1449,通過,"通過
 つうか
 
 passage through (e.g. train skipping a station)
 transit
 passing (e.g. exam, bill through parliament)
 "
-1446,髪,"髪
+1450,髪,"髪
 かみ
 
 hair (on the head)
 "
-1447,寒い,"寒い
+1451,寒い,"寒い
 さむい
 さぶい
 
@@ -14702,19 +14731,19 @@ dull
 weak
 corny
 "
-1448,脱ぐ,"脱ぐ
+1452,脱ぐ,"脱ぐ
 ぬぐ
 
 to take off (clothes, shoes, etc.)
 to undress
 "
-1449,しょうゆ,"しょうゆ
+1453,しょうゆ,"しょうゆ
 しょうゆ
 
 soy sauce
 shoyu
 "
-1450,登る,"登る
+1454,登る,"登る
 のぼる
 
 to ascend
@@ -14730,26 +14759,26 @@ to swim up (a river)
 to sail up
 to come up (on the agenda)
 "
-1451,一日,"一日
+1455,一日,"一日
 ついたち
 いっぴ
 
 first day of the month
 first ten days of the lunar month
 "
-1452,洗濯,"洗濯
+1456,洗濯,"洗濯
 せんたく
 
 washing
 laundry
 "
-1453,晩,"晩
+1457,晩,"晩
 ばん
 
 evening
 counter for nights
 "
-1454,辛い,"辛い
+1458,辛い,"辛い
 からい
 
 spicy
@@ -14763,7 +14792,7 @@ bitter
 difficult
 tough
 "
-1455,焼く,"焼く
+1459,焼く,"焼く
 やく
 
 to burn
@@ -14787,46 +14816,46 @@ to be jealous of
 to be envious of
 to envy
 "
-1456,奥,"奥
+1460,奥,"奥
 おく
 
 interior
 inner part
 inside
 "
-1457,運,"運
+1461,運,"運
 うん
 
 fortune
 luck
 "
-1458,留学生,"留学生
+1462,留学生,"留学生
 りゅうがくせい
 
 overseas student
 exchange student
 "
-1459,台所,"台所
+1463,台所,"台所
 だいどころ
 だいどこ
 
 kitchen
 financial situation
 "
-1460,七日,"七日
+1464,七日,"七日
 なのか
 なぬか
 
 the seventh day of the month
 seven days
 "
-1461,切手,"切手
+1465,切手,"切手
 きって
 
 stamp (postage)
 merchandise certificate
 "
-1462,安い,"安い
+1466,安い,"安い
 やすい
 
 cheap
@@ -14835,25 +14864,25 @@ calm
 peaceful
 quiet
 "
-1463,郵便局,"郵便局
+1467,郵便局,"郵便局
 ゆうびんきょく
 
 post office
 "
-1464,つける,"つける
+1468,つける,"つける
 つける
 
 to turn on
 to switch on
 to light up
 "
-1465,八つ,"八つ
+1469,八つ,"八つ
 やっつ
 やつ
 
 eight
 "
-1466,食堂,"食堂
+1470,食堂,"食堂
 しょくどう
 
 dining room
@@ -14865,7 +14894,7 @@ eatery
 snack bar
 diner
 "
-1467,締める,"締める
+1471,締める,"締める
 しめる
 
 to tie
@@ -14883,7 +14912,7 @@ to make sushi adding a mixture of vinegar and salt
 to wear (necktie)
 to put on (necktie)
 "
-1468,丸い,"丸い
+1472,丸い,"丸い
 まるい
 まろい
 
@@ -14893,20 +14922,20 @@ spherical
 harmonious
 calm
 "
-1469,財布,"財布
+1473,財布,"財布
 さいふ
 
 purse
 handbag
 wallet
 "
-1470,姉,"姉
+1474,姉,"姉
 あね
 
 older sister
 elder sister
 "
-1471,かかる,"かかる
+1475,かかる,"かかる
 かかる
 
 to take (a resource, e.g. time or money)
@@ -14929,7 +14958,7 @@ to be caught in
 to get a call
 to depend on
 "
-1472,上,"上
+1476,上,"上
 うえ
 
 above
@@ -14960,12 +14989,12 @@ shogun
 daimyo
 noblewoman (esp. the wife of a nobleman)
 "
-1473,鉛筆,"鉛筆
+1477,鉛筆,"鉛筆
 えんぴつ
 
 pencil
 "
-1474,渡る,"渡る
+1478,渡る,"渡る
 わたる
 
 to cross over
@@ -14975,7 +15004,7 @@ to cover
 to range
 to span
 "
-1475,かける,"かける
+1479,かける,"かける
 かける
 
 to hang (e.g. picture)
@@ -15015,14 +15044,14 @@ to begin (but not complete) ...
 to be about to ...
 indicates (verb) is being directed to (someone)
 "
-1476,零,"零
+1480,零,"零
 れい
 ぜろ
 
 zero
 nought
 "
-1477,かばん,"かばん
+1481,かばん,"かばん
 かばん
 
 bag
@@ -15030,32 +15059,32 @@ satchel
 briefcase
 basket
 "
-1478,晩御飯,"晩御飯
+1482,晩御飯,"晩御飯
 ばんごはん
 
 dinner
 evening meal
 "
-1479,降る,"降る
+1483,降る,"降る
 ふる
 
 to precipitate
 to fall (e.g. rain)
 "
-1480,十日,"十日
+1484,十日,"十日
 とおか
 
 the tenth day of the month
 ten days
 "
-1481,いかが,"いかが
+1485,いかが,"いかが
 いかが
 
 how
 in what way
 how about
 "
-1482,勤める,"勤める
+1486,勤める,"勤める
 つとめる
 
 to work (for)
@@ -15067,7 +15096,7 @@ to fill (the position of)
 to play the role (of)
 to conduct a religious service
 "
-1483,居る,"居る
+1487,居る,"居る
 いる
 
 to be (of animate objects)
@@ -15075,13 +15104,13 @@ to exist
 to stay
 (after the -te form of a verb) verb indicating continuing action or state (i.e. to be ..ing, to have been ..ing)
 "
-1484,弁当,"弁当
+1488,弁当,"弁当
 べんとう
 
 bento
 Japanese box lunch
 "
-1485,円い,"円い
+1489,円い,"円い
 まるい
 まろい
 
@@ -15091,7 +15120,7 @@ spherical
 harmonious
 calm
 "
-1486,煩い,"煩い
+1490,煩い,"煩い
 うるさい
 
 noisy
@@ -15111,7 +15140,7 @@ bossy
 shut up!
 be quiet!
 "
-1487,曲る,"曲る
+1491,曲る,"曲る
 まがる
 
 to bend
@@ -15124,12 +15153,12 @@ to be awry
 to be askew
 to be crooked
 "
-1488,お金持ち,"お金持ち
+1492,お金持ち,"お金持ち
 おかねもち
 
 rich person
 "
-1489,伝える,"伝える
+1493,伝える,"伝える
 つたえる
 
 to convey
@@ -15142,13 +15171,13 @@ to propagate
 to teach
 to bequeath
 "
-1490,文法,"文法
+1494,文法,"文法
 ぶんぽう
 
 grammar
 syntax
 "
-1491,正しい,"正しい
+1495,正しい,"正しい
 ただしい
 
 right
@@ -15160,7 +15189,7 @@ honest
 truthful
 lawful
 "
-1492,壁,"壁
+1496,壁,"壁
 かべ
 へき
 
@@ -15170,7 +15199,7 @@ barrier
 obstacle
 Chinese ""Wall"" constellation (one of the 28 mansions)
 "
-1493,都合,"都合
+1497,都合,"都合
 つごう
 
 circumstances
@@ -15184,25 +15213,25 @@ in all
 in total
 all told
 "
-1494,数学,"数学
+1498,数学,"数学
 すうがく
 
 mathematics
 arithmetic
 "
-1495,海岸,"海岸
+1499,海岸,"海岸
 かいがん
 
 coast
 beach
 "
-1496,西洋,"西洋
+1500,西洋,"西洋
 せいよう
 
 the west
 Western countries
 "
-1497,道具,"道具
+1501,道具,"道具
 どうぐ
 
 tool
@@ -15213,7 +15242,7 @@ apparatus
 device
 means
 "
-1498,割合,"割合
+1502,割合,"割合
 わりあい
 
 rate
@@ -15223,30 +15252,30 @@ proportion
 comparatively
 contrary to expectations
 "
-1499,動物園,"動物園
+1503,動物園,"動物園
 どうぶつえん
 
 zoo
 zoological gardens
 "
-1500,国際,"国際
+1504,国際,"国際
 こくさい
 
 international
 "
-1501,近所,"近所
+1505,近所,"近所
 きんじょ
 
 neighbourhood
 neighborhood
 "
-1502,または,"または
+1506,または,"または
 または
 
 or
 otherwise
 "
-1503,急ぐ,"急ぐ
+1507,急ぐ,"急ぐ
 いそぐ
 
 to hurry
@@ -15254,7 +15283,7 @@ to rush
 to hasten
 to make something happen sooner
 "
-1504,林,"林
+1508,林,"林
 はやし
 
 woods
@@ -15265,7 +15294,7 @@ bunch
 line (of something)
 collection
 "
-1505,育てる,"育てる
+1509,育てる,"育てる
 そだてる
 
 to raise
@@ -15279,21 +15308,21 @@ to nurture
 to foster
 to develop
 "
-1506,競争,"競争
+1510,競争,"競争
 きょうそう
 
 competition
 contest
 to compete
 "
-1507,返事,"返事
+1511,返事,"返事
 へんじ
 
 reply
 answer
 response
 "
-1508,いつか,"いつか
+1512,いつか,"いつか
 いつか
 
 sometime
@@ -15304,7 +15333,7 @@ the other day
 in due course
 in time
 "
-1509,さらに,"さらに
+1513,さらに,"さらに
 さらに
 
 furthermore
@@ -15314,7 +15343,7 @@ more and more
 moreover
 even more
 "
-1510,信用,"信用
+1514,信用,"信用
 しんよう
 
 confidence
@@ -15326,7 +15355,7 @@ belief
 credence
 trust
 "
-1511,依頼,"依頼
+1515,依頼,"依頼
 いらい
 
 request
@@ -15336,7 +15365,7 @@ despatch
 dependence
 trust
 "
-1512,酒,"酒
+1516,酒,"酒
 さけ
 ささ
 き
@@ -15346,7 +15375,7 @@ trust
 alcohol
 sake
 "
-1513,示す,"示す
+1517,示す,"示す
 しめす
 
 to (take out and) show
@@ -15361,14 +15390,14 @@ to represent
 to signify
 to display
 "
-1514,南北,"南北
+1518,南北,"南北
 なんぼく
 
 north and south
 north to south
 South Korea and North Korea
 "
-1515,発売,"発売
+1519,発売,"発売
 はつばい
 
 sale
@@ -15376,7 +15405,7 @@ offering for sale
 release (for sale)
 launch (product)
 "
-1516,変更,"変更
+1520,変更,"変更
 へんこう
 
 change
@@ -15385,26 +15414,26 @@ alteration
 revision
 amendment
 "
-1517,成長,"成長
+1521,成長,"成長
 せいちょう
 
 growth
 grow to adulthood
 "
-1518,手術,"手術
+1522,手術,"手術
 しゅじゅつ
 
 (surgical) operation
 procedure
 "
-1519,関連,"関連
+1523,関連,"関連
 かんれん
 
 relation
 connection
 relevance
 "
-1520,完成,"完成
+1524,完成,"完成
 かんせい
 
 complete
@@ -15412,7 +15441,7 @@ completion
 perfection
 accomplishment
 "
-1521,事情,"事情
+1525,事情,"事情
 じじょう
 
 circumstances
@@ -15422,7 +15451,7 @@ situation
 reasons
 state of affairs
 "
-1522,処理,"処理
+1526,処理,"処理
 しょり
 
 processing
@@ -15431,26 +15460,26 @@ treatment
 disposition
 disposal
 "
-1523,協力,"協力
+1527,協力,"協力
 きょうりょく
 
 cooperation
 collaboration
 "
-1524,基本,"基本
+1528,基本,"基本
 きほん
 
 foundation
 basis
 standard
 "
-1525,招待,"招待
+1529,招待,"招待
 しょうたい
 しょうだい
 
 invitation
 "
-1526,馬,"馬
+1530,馬,"馬
 うま
 いま
 おま
@@ -15459,14 +15488,14 @@ horse
 horse racing
 promoted bishop
 "
-1527,住宅,"住宅
+1531,住宅,"住宅
 じゅうたく
 
 residence
 housing
 residential building
 "
-1528,機械,"機械
+1532,機械,"機械
 きかい
 
 machine
@@ -15475,25 +15504,25 @@ instrument
 appliance
 apparatus
 "
-1529,舞台,"舞台
+1533,舞台,"舞台
 ぶたい
 
 stage (theatre, theater)
 scene or setting (e.g. of novel, play, etc.)
 "
-1530,バス停,"バス停
+1534,バス停,"バス停
 バスてい
 
 bus stop
 "
-1531,販売,"販売
+1535,販売,"販売
 はんばい
 
 sales
 selling
 marketing
 "
-1532,牛,"牛
+1536,牛,"牛
 うし
 ぎゅう
 
@@ -15505,7 +15534,7 @@ calf
 beef
 Chinese ""Ox"" constellation (one of the 28 mansions)
 "
-1533,意識,"意識
+1537,意識,"意識
 いしき
 
 consciousness
@@ -15513,7 +15542,7 @@ awareness
 sense
 mano-vijnana (mental consciousness, cognizer of sensory information)
 "
-1534,東西,"東西
+1538,東西,"東西
 とうざい
 ひがしにし
 
@@ -15524,7 +15553,7 @@ Ladies and Gentlemen!
 Your attention, please!
 roll-up, roll-up
 "
-1535,状態,"状態
+1539,状態,"状態
 じょうたい
 
 current status
@@ -15533,37 +15562,37 @@ situation
 circumstances
 state
 "
-1536,存在,"存在
+1540,存在,"存在
 そんざい
 
 existence
 being
 "
-1537,参考,"参考
+1541,参考,"参考
 さんこう
 
 reference
 consultation
 "
-1538,支払い,"支払い
+1542,支払い,"支払い
 しはらい
 
 payment
 "
-1539,管理,"管理
+1543,管理,"管理
 かんり
 
 control
 management (e.g. of a business)
 "
-1540,健康,"健康
+1544,健康,"健康
 けんこう
 
 health
 sound
 wholesome
 "
-1541,許す,"許す
+1545,許す,"許す
 ゆるす
 
 to permit
@@ -15580,20 +15609,20 @@ to confide in
 to give up
 to yield
 "
-1542,再び,"再び
+1546,再び,"再び
 ふたたび
 
 again
 once more
 a second time
 "
-1543,担当,"担当
+1547,担当,"担当
 たんとう
 
 being in charge (of an area of responsibility)
 being responsible (for a work role, etc.)
 "
-1544,動き,"動き
+1548,動き,"動き
 うごき
 
 movement
@@ -15604,18 +15633,18 @@ development
 change
 fluctuation
 "
-1545,一千,"一千
+1549,一千,"一千
 いっせん 1,000;
 
 one thousand
 "
-1546,後半,"後半
+1550,後半,"後半
 こうはん
 
 second half
 latter half
 "
-1547,企業,"企業
+1551,企業,"企業
 きぎょう
 
 enterprise
@@ -15623,7 +15652,7 @@ undertaking
 corporation
 business
 "
-1548,図,"図
+1552,図,"図
 ず
 
 drawing
@@ -15636,12 +15665,12 @@ graph
 sight
 scene
 "
-1549,学者,"学者
+1553,学者,"学者
 がくしゃ
 
 scholar
 "
-1550,住民,"住民
+1554,住民,"住民
 じゅうみん
 
 citizens
@@ -15649,7 +15678,7 @@ inhabitants
 residents
 population
 "
-1551,役割,"役割
+1555,役割,"役割
 やくわり
 
 part
@@ -15657,7 +15686,7 @@ assigning (allotment of) parts
 role
 duties
 "
-1552,相当,"相当
+1556,相当,"相当
 そうとう
 
 befitting
@@ -15675,13 +15704,13 @@ to be equivalent
 extremely
 considerably
 "
-1553,成功,"成功
+1557,成功,"成功
 せいこう
 
 success
 hit
 "
-1554,現代,"現代
+1558,現代,"現代
 げんだい
 
 nowadays
@@ -15689,12 +15718,12 @@ modern era
 modern times
 present-day
 "
-1555,実験,"実験
+1559,実験,"実験
 じっけん
 
 experiment
 "
-1556,会計,"会計
+1560,会計,"会計
 かいけい
 
 bill
@@ -15705,7 +15734,7 @@ treasurer
 paymaster
 reckoning
 "
-1557,精神,"精神
+1561,精神,"精神
 せいしん
 
 mind
@@ -15714,7 +15743,7 @@ heart
 spirit
 intention
 "
-1558,において,"において
+1562,において,"において
 において
 
 in
@@ -15723,7 +15752,7 @@ at (place)
 as for
 regarding
 "
-1559,務める,"務める
+1563,務める,"務める
 つとめる
 
 to work (for)
@@ -15735,13 +15764,13 @@ to fill (the position of)
 to play the role (of)
 to conduct a religious service
 "
-1560,ふる,"ふる
+1564,ふる,"ふる
 ふる
 
 to precipitate
 to fall (e.g. rain)
 "
-1561,抱える,"抱える
+1565,抱える,"抱える
 かかえる
 
 to hold or carry under or in the arms
@@ -15750,18 +15779,18 @@ to employ
 to engage
 to hire
 "
-1562,雲,"雲
+1566,雲,"雲
 くも
 
 cloud
 "
-1563,植物,"植物
+1567,植物,"植物
 しょくぶつ
 
 plant
 vegetation
 "
-1564,不思議,"不思議
+1568,不思議,"不思議
 ふしぎ
 
 wonder
@@ -15771,20 +15800,20 @@ mystery
 marvel
 curiosity
 "
-1565,関心,"関心
+1569,関心,"関心
 かんしん
 
 concern
 interest
 "
-1566,団体,"団体
+1570,団体,"団体
 だんたい
 
 organization
 organisation
 association
 "
-1567,表情,"表情
+1571,表情,"表情
 ひょうじょう
 
 facial expression
@@ -15793,7 +15822,7 @@ look
 appearance
 expression (vocal, etc.)
 "
-1568,流れ,"流れ
+1572,流れ,"流れ
 ながれ
 
 stream
@@ -15801,20 +15830,20 @@ current
 flow
 course of events
 "
-1569,対象,"対象
+1573,対象,"対象
 たいしょう
 
 target
 object (of worship, study, etc.)
 subject (of taxation, etc.)
 "
-1570,職業,"職業
+1574,職業,"職業
 しょくぎょう
 
 occupation
 business
 "
-1571,現場,"現場
+1575,現場,"現場
 げんば
 げんじょう
 
@@ -15828,20 +15857,20 @@ shop floor
 factory floor
 (on) site
 "
-1572,本物,"本物
+1576,本物,"本物
 ほんもの
 
 genuine article
 real thing
 real deal
 "
-1573,材料,"材料
+1577,材料,"材料
 ざいりょう
 
 ingredients
 material
 "
-1574,限る,"限る
+1578,限る,"限る
 
 
 to be the best plan
@@ -15852,13 +15881,13 @@ to be restricted to
 to be limited to
 to be confined to
 "
-1575,優勝,"優勝
+1579,優勝,"優勝
 ゆうしょう
 
 overall victory
 championship
 "
-1576,実現,"実現
+1580,実現,"実現
 じつげん
 
 implementation (e.g. of a system)
@@ -15867,20 +15896,20 @@ materialisation
 realization
 realisation
 "
-1577,合格,"合格
+1581,合格,"合格
 ごうかく
 
 success
 passing (e.g. exam)
 eligibility
 "
-1578,建設,"建設
+1582,建設,"建設
 けんせつ
 
 construction
 establishment
 "
-1579,成績,"成績
+1583,成績,"成績
 せいせき
 
 results
@@ -15888,7 +15917,7 @@ record
 grades
 marks
 "
-1580,共通,"共通
+1584,共通,"共通
 きょうつう
 
 commonness
@@ -15897,7 +15926,7 @@ to be common
 to be shared
 -wide
 "
-1581,実行,"実行
+1585,実行,"実行
 じっこう
 
 practice
@@ -15908,7 +15937,7 @@ realization
 realisation
 implementation
 "
-1582,重大,"重大
+1586,重大,"重大
 じゅうだい
 
 serious
@@ -15917,7 +15946,7 @@ significant
 grave
 weighty
 "
-1583,構成,"構成
+1587,構成,"構成
 こうせい
 
 organization
@@ -15925,7 +15954,7 @@ organisation
 configuration
 composition
 "
-1584,文明,"文明
+1588,文明,"文明
 ぶんめい
 
 civilization
@@ -15933,13 +15962,13 @@ civilisation
 culture
 Bummei era (1469.4.28-1487.7.20)
 "
-1585,安定,"安定
+1589,安定,"安定
 あんてい
 
 stability
 equilibrium
 "
-1586,指導,"指導
+1590,指導,"指導
 しどう
 
 leadership
@@ -15947,7 +15976,7 @@ guidance
 coaching
 shido (disciplinary action for a minor infringement of the rules of judo)
 "
-1587,装置,"装置
+1591,装置,"装置
 そうち
 
 equipment
@@ -15956,7 +15985,7 @@ apparatus
 device
 unit
 "
-1588,残り,"残り
+1592,残り,"残り
 のこり
 
 remnant
@@ -15964,7 +15993,7 @@ residue
 remaining
 left-over
 "
-1589,拡大,"拡大
+1593,拡大,"拡大
 かくだい
 
 magnification
@@ -15972,7 +16001,7 @@ enlargement
 expansion
 amplification
 "
-1590,特徴,"特徴
+1594,特徴,"特徴
 とくちょう
 
 feature
@@ -15981,19 +16010,19 @@ characteristic
 peculiarity
 distinction
 "
-1591,感謝,"感謝
+1595,感謝,"感謝
 かんしゃ
 
 thanks
 gratitude
 "
-1592,合計,"合計
+1596,合計,"合計
 ごうけい
 
 sum total
 total amount
 "
-1593,組織,"組織
+1597,組織,"組織
 そしき
 そしょく
 
@@ -16004,7 +16033,7 @@ construction
 tissue
 system
 "
-1594,議論,"議論
+1598,議論,"議論
 ぎろん
 
 argument
@@ -16012,19 +16041,19 @@ discussion
 dispute
 controversy
 "
-1595,傾向,"傾向
+1599,傾向,"傾向
 けいこう
 
 tendency
 trend
 inclination
 "
-1596,食料,"食料
+1600,食料,"食料
 しょくりょう
 
 food
 "
-1597,出会う,"出会う
+1601,出会う,"出会う
 であう
 
 to meet (by chance)
@@ -16035,13 +16064,13 @@ to happen upon
 to meet (e.g. of rivers, highways, etc.)
 to emerge and engage (an enemy)
 "
-1598,年齢,"年齢
+1602,年齢,"年齢
 ねんれい
 
 age
 years
 "
-1599,中央,"中央
+1603,中央,"中央
 ちゅうおう
 
 centre
@@ -16052,7 +16081,7 @@ metropolis
 capital city
 central government
 "
-1600,一言,"一言
+1604,一言,"一言
 ひとこと
 いちげん
 いちごん
@@ -16061,14 +16090,14 @@ single word
 a few words
 brief comment
 "
-1601,希望,"希望
+1605,希望,"希望
 きぼう
 
 hope
 wish
 aspiration
 "
-1602,移動,"移動
+1606,移動,"移動
 いどう
 
 movement
@@ -16082,7 +16111,7 @@ traveling
 travelling
 roving
 "
-1603,見事,"見事
+1607,見事,"見事
 みごと
 
 splendid
@@ -16096,14 +16125,14 @@ utter (esp. defeat)
 total
 complete
 "
-1604,契約,"契約
+1608,契約,"契約
 けいやく
 
 contract
 compact
 agreement
 "
-1605,猿,"猿
+1609,猿,"猿
 さる
 
 monkey (esp. the Japanese macaque, Macaca fuscata)
@@ -16116,7 +16145,7 @@ sliding wooden bolt (for holding a door or window shut)
 clasp used to control the height of a pot-hook
 bathhouse prostitute
 "
-1606,星,"星
+1610,星,"星
 ほし
 
 star
@@ -16135,7 +16164,7 @@ spot
 point
 score
 "
-1607,罪,"罪
+1611,罪,"罪
 つみ
 
 crime
@@ -16151,14 +16180,14 @@ culpability
 thoughtlessness
 lack of consideration
 "
-1608,嫁,"嫁
+1612,嫁,"嫁
 よめ
 
 wife
 bride
 (one's) daughter-in-law
 "
-1609,玉,"玉
+1613,玉,"玉
 たま
 だま
 
@@ -16190,21 +16219,21 @@ precious
 beautiful
 excellent
 "
-1610,分,"分
+1614,分,"分
 ふん
 ぷん
 
 minute
 fun (one tenth of a monme, 5.787 grains)
 "
-1611,孫,"孫
+1615,孫,"孫
 まご
 
 grandchild
 grandson
 granddaughter
 "
-1612,親,"親
+1616,親,"親
 おや
 
 parent
@@ -16213,7 +16242,7 @@ dealer (in cards, mahjong, etc.)
 founder
 (pet) owner
 "
-1613,息,"息
+1617,息,"息
 いき
 おき
 
@@ -16222,7 +16251,7 @@ breathing
 tone
 mood
 "
-1614,腹,"腹
+1618,腹,"腹
 はら
 
 abdomen
@@ -16248,12 +16277,12 @@ anti-node
 counter for hard roe
 counter for containers with bulging middles (pots, vases, etc.)
 "
-1615,油,"油
+1619,油,"油
 あぶら
 
 oil
 "
-1616,隅,"隅
+1620,隅,"隅
 すみ
 すま
 
@@ -16262,7 +16291,7 @@ nook
 recess
 downstage right (on a noh stage)
 "
-1617,涙,"涙
+1621,涙,"涙
 なみだ
 なだ
 なんだ
@@ -16272,7 +16301,7 @@ tears
 lachrymal secretion
 sympathy
 "
-1618,舌,"舌
+1622,舌,"舌
 した
 
 tongue
@@ -16280,13 +16309,13 @@ tongue-like object
 clapper (of a bell)
 talon (of a lock)
 "
-1619,来,"来
+1623,来,"来
 らい
 
 next (year, etc.)
 since (last month, etc.)
 "
-1620,鍋,"鍋
+1624,鍋,"鍋
 なべ
 
 saucepan
@@ -16294,12 +16323,12 @@ pot
 stew
 hot pot
 "
-1621,肩,"肩
+1625,肩,"肩
 かた
 
 shoulder
 "
-1622,彼,"彼
+1626,彼,"彼
 かれ
 
 he
@@ -16307,14 +16336,14 @@ him
 his
 boyfriend
 "
-1623,章,"章
+1627,章,"章
 しょう
 
 chapter
 section
 medal
 "
-1624,匹,"匹
+1628,匹,"匹
 ひき
 き
 
@@ -16323,7 +16352,7 @@ counter for rolls of cloth (two han in size)
 counter for horses
 roll of cloth
 "
-1625,湯,"湯
+1629,湯,"湯
 ゆ
 
 hot water
@@ -16331,20 +16360,20 @@ hot bath
 hot spring
 molten iron
 "
-1626,塾,"塾
+1630,塾,"塾
 じゅく
 
 coaching school
 cramming school
 juku
 "
-1627,特急,"特急
+1631,特急,"特急
 とっきゅう
 
 limited express (train, faster than an express)
 great hurry
 "
-1628,行う,"行う
+1632,行う,"行う
 おこなう
 
 to perform
@@ -16352,12 +16381,12 @@ to do
 to conduct oneself
 to carry out
 "
-1629,貿易,"貿易
+1633,貿易,"貿易
 ぼうえき
 
 trade (foreign)
 "
-1630,適当,"適当
+1634,適当,"適当
 てきとう
 
 suitable
@@ -16371,7 +16400,7 @@ equivocal
 unserious
 irresponsible
 "
-1631,残念,"残念
+1635,残念,"残念
 ざんねん
 
 deplorable
@@ -16379,7 +16408,7 @@ bad luck
 regret
 disappointment
 "
-1632,払う,"払う
+1636,払う,"払う
 はらう
 
 to pay (e.g. money, bill)
@@ -16403,7 +16432,7 @@ to knock aside
 to make a sweeping stroke (in Japanese calligraphy)
 to reset (an abacus)
 "
-1633,下りる,"下りる
+1637,下りる,"下りる
 おりる
 
 to descend (e.g. a mountain)
@@ -16424,7 +16453,7 @@ to form (of frost, dew, mist, etc.)
 to be passed (from the body
 e.g. of a roundworm)
 "
-1634,盛ん,"盛ん
+1638,盛ん,"盛ん
 さかん
 
 popular
@@ -16433,7 +16462,7 @@ enthusiastic
 energetic
 vigorous
 "
-1635,おっしゃる,"おっしゃる
+1639,おっしゃる,"おっしゃる
 おっしゃる
 
 to say
@@ -16441,7 +16470,7 @@ to speak
 to tell
 to talk
 "
-1636,飜訳,"飜訳
+1640,飜訳,"飜訳
 ほんやく
 
 translation
@@ -16449,7 +16478,7 @@ de-encryption
 deciphering
 rendering
 "
-1637,翻訳,"翻訳
+1641,翻訳,"翻訳
 ほんやく
 
 translation
@@ -16457,7 +16486,7 @@ de-encryption
 deciphering
 rendering
 "
-1638,具合,"具合
+1642,具合,"具合
 ぐあい
 
 condition
@@ -16465,19 +16494,19 @@ state
 manner
 health
 "
-1639,踊り,"踊り
+1643,踊り,"踊り
 おどり
 
 dance
 "
-1640,申す,"申す
+1644,申す,"申す
 もうす
 
 to say
 to be called
 to do
 "
-1641,この間,"この間
+1645,この間,"この間
 このあいだ
 このかん
 
@@ -16488,7 +16517,7 @@ during this period
 meanwhile
 in the meantime
 "
-1642,下る,"下る
+1646,下る,"下る
 さがる
 
 to come down
@@ -16509,7 +16538,7 @@ to be downgraded
 to get closer to the present day
 to go south
 "
-1643,空く,"空く
+1647,空く,"空く
 あく
 
 to open (e.g. doors)
@@ -16526,13 +16555,13 @@ to have a hole
 to form a gap
 to have an interval (between events)
 "
-1644,値段,"値段
+1648,値段,"値段
 ねだん
 
 price
 cost
 "
-1645,凄い,"凄い
+1649,凄い,"凄い
 すごい
 
 terrible
@@ -16544,14 +16573,14 @@ terrific
 to a great extent
 vast (in numbers)
 "
-1646,極る,"極る
+1650,極る,"極る
 きまる
 
 to be decided
 to be settled
 to look good in (clothes)
 "
-1647,崩れる,"崩れる
+1651,崩れる,"崩れる
 くずれる
 
 to collapse
@@ -16570,19 +16599,19 @@ to turn bad (e.g. weather)
 to change for the worse
 to deteriorate
 "
-1648,長年,"長年
+1652,長年,"長年
 ながねん
 
 long time
 many years
 "
-1649,出張,"出張
+1653,出張,"出張
 しゅっちょう
 
 official tour
 business trip
 "
-1650,面積,"面積
+1654,面積,"面積
 めんせき
 
 square measure
@@ -16590,20 +16619,20 @@ size (e.g. of land)
 area
 surface
 "
-1651,基礎,"基礎
+1655,基礎,"基礎
 きそ
 
 foundation
 basis
 "
-1652,学会,"学会
+1656,学会,"学会
 がっかい
 
 scientific society
 academic meeting
 academic conference
 "
-1653,登録,"登録
+1657,登録,"登録
 とうろく
 
 registration
@@ -16612,7 +16641,7 @@ register
 entry
 record
 "
-1654,上り,"上り
+1658,上り,"上り
 のぼり
 
 ascent
@@ -16622,19 +16651,19 @@ climb
 up-train (e.g. going to Tokyo)
 northward (towards Tokyo)
 "
-1655,面接,"面接
+1659,面接,"面接
 めんせつ
 
 interview (e.g. for a job)
 "
-1656,高まる,"高まる
+1660,高まる,"高まる
 たかまる
 
 to rise
 to swell
 to be promoted
 "
-1657,殴る,"殴る
+1661,殴る,"殴る
 なぐる
 
 to strike
@@ -16642,7 +16671,7 @@ to hit
 to beat
 to punch
 "
-1658,発生,"発生
+1662,発生,"発生
 はっせい
 
 outbreak
@@ -16655,7 +16684,7 @@ origin
 ontogeny
 development of complex multicellular structures from cell(s) in a simple state
 "
-1659,発言,"発言
+1663,発言,"発言
 はつげん
 
 statement
@@ -16665,7 +16694,7 @@ utterance
 speech
 proposal
 "
-1660,営業,"営業
+1664,営業,"営業
 えいぎょう
 
 business
@@ -16673,7 +16702,7 @@ trade
 sales
 operations
 "
-1661,一部,"一部
+1665,一部,"一部
 いちぶ
 
 one part
@@ -16682,7 +16711,7 @@ one section
 some
 one copy (e.g. of a document)
 "
-1662,計算,"計算
+1666,計算,"計算
 けいさん
 
 calculation
@@ -16690,7 +16719,7 @@ reckoning
 count
 forecast
 "
-1663,合わせる,"合わせる
+1667,合わせる,"合わせる
 あわせる
 
 to match (rhythm, speed, etc.)
@@ -16711,21 +16740,21 @@ to combine
 to put blade to blade
 to fight
 "
-1664,提案,"提案
+1668,提案,"提案
 ていあん
 
 proposal
 proposition
 suggestion
 "
-1665,手段,"手段
+1669,手段,"手段
 しゅだん
 
 means
 way
 measure
 "
-1666,定員,"定員
+1670,定員,"定員
 ていいん
 
 fixed number of regular personnel
@@ -16733,25 +16762,25 @@ staff quota
 complement
 capacity (of boat, hall, aeroplane, airplane, etc.)
 "
-1667,適用,"適用
+1671,適用,"適用
 てきよう
 
 applying (e.g. a technology)
 adoption
 "
-1668,困難,"困難
+1672,困難,"困難
 こんなん
 
 difficulty
 distress
 "
-1669,購入,"購入
+1673,購入,"購入
 こうにゅう
 
 purchase
 buy
 "
-1670,サークル,"サークル
+1674,サークル,"サークル
 サークル
 
 group with a common interest (e.g. students)
@@ -16759,7 +16788,7 @@ club (e.g. company sports club)
 circle
 circle (shape)
 "
-1671,満足,"満足
+1675,満足,"満足
 まんぞく
 
 satisfaction
@@ -16770,7 +16799,7 @@ enough
 adequate
 proper
 "
-1672,通常,"通常
+1676,通常,"通常
 つうじょう
 
 common
@@ -16778,7 +16807,7 @@ general
 normal
 usual
 "
-1673,検討,"検討
+1677,検討,"検討
 けんとう
 
 consideration
@@ -16790,14 +16819,14 @@ discussion
 analysis
 review
 "
-1674,検査,"検査
+1678,検査,"検査
 けんさ
 
 inspection (e.g. customs, factory)
 examination
 scan (e.g. MRI, PET, etc.)
 "
-1675,雰囲気,"雰囲気
+1679,雰囲気,"雰囲気
 ふんいき
 ふいんき
 
@@ -16813,7 +16842,7 @@ something (about someone)
 air
 atmosphere
 "
-1676,望む,"望む
+1680,望む,"望む
 のぞむ
 
 to desire
@@ -16822,7 +16851,7 @@ to expect
 to see
 to command (a view of)
 "
-1677,共同,"共同
+1681,共同,"共同
 きょうどう
 
 doing together (as equals)
@@ -16834,13 +16863,13 @@ co-operation
 collaboration
 association
 "
-1678,四つ角,"四つ角
+1682,四つ角,"四つ角
 よつかど
 
 four corners
 crossroads
 "
-1679,必死,"必死
+1683,必死,"必死
 ひっし
 
 frantic
@@ -16848,7 +16877,7 @@ desperate
 inevitable death
 brinkmate (inevitable checkmate)
 "
-1680,鞄,"鞄
+1684,鞄,"鞄
 かばん
 
 bag
@@ -16856,7 +16885,7 @@ satchel
 briefcase
 basket
 "
-1681,面倒,"面倒
+1685,面倒,"面倒
 めんどう
 
 trouble
@@ -16864,7 +16893,7 @@ difficulty
 care
 attention
 "
-1682,承認,"承認
+1686,承認,"承認
 しょうにん
 
 recognition
@@ -16874,7 +16903,7 @@ approval
 consent
 agreement
 "
-1683,頑張る,"頑張る
+1687,頑張る,"頑張る
 がんばる
 
 to persevere
@@ -16889,7 +16918,7 @@ to remain in a place
 to stick to one's post
 to refuse to budge
 "
-1684,登場,"登場
+1688,登場,"登場
 とうじょう
 
 entry (on stage)
@@ -16897,7 +16926,7 @@ appearance (on screen)
 entrance
 introduction (into a market)
 "
-1685,格好,"格好
+1689,格好,"格好
 かっこう
 かっこ
 
@@ -16914,7 +16943,7 @@ fit
 reasonable
 about
 "
-1686,評価,"評価
+1690,評価,"評価
 ひょうか
 
 valuation
@@ -16930,7 +16959,7 @@ to appreciate
 to value highly
 to acknowledge the value (of something)
 "
-1687,制限,"制限
+1691,制限,"制限
 せいげん
 
 restriction
@@ -16938,7 +16967,7 @@ restraint
 limitation
 limit
 "
-1688,展開,"展開
+1692,展開,"展開
 てんかい
 
 development
@@ -16952,30 +16981,30 @@ deployment
 building up
 expansion
 "
-1689,単純,"単純
+1693,単純,"単純
 たんじゅん
 
 simplicity
 simple
 uncomplicated
 "
-1690,始まり,"始まり
+1694,始まり,"始まり
 はじまり
 
 origin
 beginning
 "
-1691,留学,"留学
+1695,留学,"留学
 りゅうがく
 
 studying abroad (usu. at university level)
 "
-1692,急速,"急速
+1696,急速,"急速
 きゅうそく
 
 rapid (e.g. progress)
 "
-1693,回,"回
+1697,回,"回
 かい
 
 counter for occurrences
@@ -16990,7 +17019,7 @@ instalment
 Hui (people)
 Islam
 "
-1694,一番,"一番
+1698,一番,"一番
 いちばん
 
 number one
@@ -17009,18 +17038,18 @@ tentatively
 song (e.g. in noh)
 piece
 "
-1695,限界,"限界
+1699,限界,"限界
 げんかい
 
 limit
 bound
 "
-1696,気温,"気温
+1700,気温,"気温
 きおん
 
 atmospheric temperature
 "
-1697,日中,"日中
+1701,日中,"日中
 にっちゅう
 ひなか
 
@@ -17028,7 +17057,7 @@ daytime
 during the day
 Sino-Japanese
 "
-1698,伝わる,"伝わる
+1702,伝わる,"伝わる
 つたわる
 
 to be handed down
@@ -17038,14 +17067,14 @@ to be circulated
 to go along
 to walk along
 "
-1699,事態,"事態
+1703,事態,"事態
 じたい
 
 situation
 (present) state of affairs
 circumstances
 "
-1700,現金,"現金
+1704,現金,"現金
 げんきん
 
 cash
@@ -17056,19 +17085,19 @@ mercenary
 self-interested
 calculating
 "
-1701,社員,"社員
+1705,社員,"社員
 しゃいん
 
 company employee
 company stockholders (esp. in legal contexts)
 members of a corporation
 "
-1702,詩人,"詩人
+1706,詩人,"詩人
 しじん
 
 poet
 "
-1703,流行,"流行
+1707,流行,"流行
 はやり
 りゅうこう
 
@@ -17078,7 +17107,7 @@ vogue
 craze
 prevalence (e.g. of a disease)
 "
-1704,同僚,"同僚
+1708,同僚,"同僚
 どうりょう
 
 coworker
@@ -17086,7 +17115,7 @@ co-worker
 colleague
 associate
 "
-1705,間違いない,"間違いない
+1709,間違いない,"間違いない
 まちがいない
 
 certain
@@ -17096,7 +17125,7 @@ I have no doubt
 You can depend on it
 It's a safe bet
 "
-1706,化粧,"化粧
+1710,化粧,"化粧
 けしょう
 けわい
 けそう
@@ -17105,12 +17134,12 @@ make-up
 makeup
 cosmetics
 "
-1707,温度,"温度
+1711,温度,"温度
 おんど
 
 temperature
 "
-1708,後ろ向き,"後ろ向き
+1712,後ろ向き,"後ろ向き
 うしろむき
 
 back facing
@@ -17120,7 +17149,7 @@ backwards
 reactionary
 backward-looking
 "
-1709,一切,"一切
+1713,一切,"一切
 いっさい
 
 all
@@ -17131,7 +17160,7 @@ absolutely not (with negative)
 without exception
 entirely not
 "
-1710,労働,"労働
+1714,労働,"労働
 ろうどう
 
 manual labor
@@ -17140,7 +17169,7 @@ toil
 work
 Labour Party
 "
-1711,同一,"同一
+1715,同一,"同一
 どういつ
 
 identical
@@ -17151,7 +17180,7 @@ fair
 equal treatment
 without discrimination
 "
-1712,に対する,"に対する
+1716,に対する,"に対する
 にたいする
 
 regarding
@@ -17160,7 +17189,7 @@ to
 towards
 with regards to
 "
-1713,作者,"作者
+1717,作者,"作者
 さくしゃ
 
 author
@@ -17169,7 +17198,7 @@ writer
 composer
 artist
 "
-1714,事業,"事業
+1718,事業,"事業
 じぎょう
 ことわざ
 
@@ -17184,7 +17213,7 @@ act
 deed
 conduct
 "
-1715,論文,"論文
+1719,論文,"論文
 ろんぶん
 
 thesis
@@ -17193,7 +17222,7 @@ treatise
 paper
 article
 "
-1716,基づく,"基づく
+1720,基づく,"基づく
 もとづく
 
 to be grounded on
@@ -17201,13 +17230,13 @@ to be based on
 to be due to
 to originate from
 "
-1717,構造,"構造
+1721,構造,"構造
 こうぞう
 
 structure
 construction
 "
-1718,差別,"差別
+1722,差別,"差別
 さべつ
 しゃべつ
 しゃべち
@@ -17216,7 +17245,7 @@ discrimination
 distinction
 differentiation
 "
-1719,出席,"出席
+1723,出席,"出席
 しゅっせき
 
 attendance
@@ -17226,31 +17255,31 @@ to attend
 to be present
 to appear
 "
-1720,すき焼き,"すき焼き
+1724,すき焼き,"すき焼き
 すきやき
 
 sukiyaki
 thin slices of beef, cooked with various vegetables in a table-top cast-iron pan
 "
-1721,国立,"国立
+1725,国立,"国立
 こくりつ
 
 national
 "
-1722,言語,"言語
+1726,言語,"言語
 げんご
 ごんご
 げんきょ
 
 language
 "
-1723,焼きそば,"焼きそば
+1727,焼きそば,"焼きそば
 やきそば
 
 yakisoba
 fried noodles, usu. with with vegetables and meat
 "
-1724,よろしくお願いします,"よろしくお願いします
+1728,よろしくお願いします,"よろしくお願いします
 よろしくおねがいします
 
 please remember me
@@ -17258,19 +17287,19 @@ please help me
 please treat me well
 I look forward to working with you
 "
-1725,増やす,"増やす
+1729,増やす,"増やす
 ふやす
 
 to increase
 to add to
 to augment
 "
-1726,大使,"大使
+1730,大使,"大使
 たいし
 
 ambassador
 "
-1727,釣り,"釣り
+1731,釣り,"釣り
 つり
 
 fishing
@@ -17279,14 +17308,14 @@ change (e.g. for a purchase)
 trolling
 writing false posts online
 "
-1728,容易,"容易
+1732,容易,"容易
 ようい
 
 easy
 simple
 plain
 "
-1729,当たる,"当たる
+1733,当たる,"当たる
 あたる
 
 to be hit
@@ -17326,7 +17355,7 @@ to shave
 to be a relative of a person
 to stand in a relationship
 "
-1730,親子丼,"親子丼
+1734,親子丼,"親子丼
 おやこどん
 おやこどんぶり
 
@@ -17334,7 +17363,7 @@ oyakodon
 chicken and egg on rice
 sexual relationship with both a mother and daughter
 "
-1731,強化,"強化
+1735,強化,"強化
 きょうか
 
 strengthen
@@ -17343,13 +17372,13 @@ reinforce
 solidify
 enhancement
 "
-1732,タコ焼き,"タコ焼き
+1736,タコ焼き,"タコ焼き
 タコやき
 タコヤキ
 
 octopus dumplings
 "
-1733,別れ,"別れ
+1737,別れ,"別れ
 わかれ
 
 parting
@@ -17361,7 +17390,7 @@ offshoot
 division
 section
 "
-1734,贈る,"贈る
+1738,贈る,"贈る
 おくる
 
 to give (as a gift)
@@ -17370,13 +17399,13 @@ to confer
 to bestow
 to award
 "
-1735,休日,"休日
+1739,休日,"休日
 きゅうじつ
 
 holiday
 day off
 "
-1736,連続,"連続
+1740,連続,"連続
 れんぞく
 
 serial
@@ -17385,7 +17414,7 @@ continuity
 occurring in succession
 continuing
 "
-1737,実施,"実施
+1741,実施,"実施
 じっし
 
 enforcement
@@ -17396,7 +17425,7 @@ operation
 working (e.g. working parameters)
 enactment
 "
-1738,貯金,"貯金
+1742,貯金,"貯金
 ちょきん
 
 putting money aside
@@ -17405,7 +17434,7 @@ deposit (e.g. in a bank)
 accumulated surplus of wins
 wins in the bank
 "
-1739,輸入,"輸入
+1743,輸入,"輸入
 ゆにゅう
 しゅにゅう
 
@@ -17414,7 +17443,7 @@ import
 introduction
 afferent
 "
-1740,動かす,"動かす
+1744,動かす,"動かす
 うごかす
 
 to move
@@ -17437,14 +17466,14 @@ to mobilise
 to deploy
 to manage (e.g. funds)
 "
-1741,発電,"発電
+1745,発電,"発電
 はつでん
 
 generation (e.g. power)
 sending a telegram
 telegraphing
 "
-1742,斜め,"斜め
+1746,斜め,"斜め
 ななめ
 なのめ
 
@@ -17457,33 +17486,33 @@ unusual
 slanted (view of the world)
 bad (mood)
 "
-1743,費用,"費用
+1747,費用,"費用
 ひよう
 
 cost
 expense
 "
-1744,設計,"設計
+1748,設計,"設計
 せっけい
 
 plan
 design
 layout
 "
-1745,優秀,"優秀
+1749,優秀,"優秀
 ゆうしゅう
 
 superiority
 excellence
 "
-1746,価格,"価格
+1750,価格,"価格
 かかく
 
 price
 value
 cost
 "
-1747,疑問,"疑問
+1751,疑問,"疑問
 ぎもん
 
 question
@@ -17491,40 +17520,40 @@ problem
 doubt
 guess
 "
-1748,世代,"世代
+1752,世代,"世代
 せだい
 
 generation
 the world
 the age
 "
-1749,世間,"世間
+1753,世間,"世間
 せけん
 
 world
 society
 "
-1750,場面,"場面
+1754,場面,"場面
 ばめん
 
 scene
 setting (e.g. of novel)
 situation
 "
-1751,首都,"首都
+1755,首都,"首都
 しゅと
 
 capital city
 metropolis
 "
-1752,資料,"資料
+1756,資料,"資料
 しりょう
 
 materials
 data
 document
 "
-1753,世話,"世話
+1757,世話,"世話
 せわ
 
 looking after
@@ -17532,7 +17561,7 @@ help
 aid
 assistance
 "
-1754,掛ける,"掛ける
+1758,掛ける,"掛ける
 かける
 
 to hang (e.g. picture)
@@ -17572,13 +17601,13 @@ to begin (but not complete) ...
 to be about to ...
 indicates (verb) is being directed to (someone)
 "
-1755,消費,"消費
+1759,消費,"消費
 しょうひ
 
 consumption
 expenditure
 "
-1756,一家,"一家
+1760,一家,"一家
 いっか
 いっけ
 
@@ -17590,21 +17619,21 @@ one's family
 one's folks
 a style
 "
-1757,思想,"思想
+1761,思想,"思想
 しそう
 
 thought
 idea
 ideology
 "
-1758,自動,"自動
+1762,自動,"自動
 じどう
 
 automatic
 self-motion
 intransitive verb
 "
-1759,一時,"一時
+1763,一時,"一時
 いちじ
 
 one o'clock
@@ -17622,7 +17651,7 @@ a time
 one time
 once
 "
-1760,監督,"監督
+1764,監督,"監督
 かんとく
 
 supervision
@@ -17639,7 +17668,7 @@ overseer
 controller
 boss
 "
-1761,暮らし,"暮らし
+1765,暮らし,"暮らし
 くらし
 
 life
@@ -17647,7 +17676,7 @@ living
 livelihood
 life circumstances
 "
-1762,重ねる,"重ねる
+1766,重ねる,"重ねる
 かさねる
 
 to pile up
@@ -17656,36 +17685,36 @@ to stack up
 to repeat many times over
 to go through something repeatedly
 "
-1763,西口,"西口
+1767,西口,"西口
 にしぐち
 
 west entrance
 "
-1764,体育,"体育
+1768,体育,"体育
 たいいく
 
 physical education
 gymnastics
 athletics
 "
-1765,水色,"水色
+1769,水色,"水色
 みずいろ
 
 light blue
 "
-1766,老人,"老人
+1770,老人,"老人
 ろうじん
 
 the aged
 old person
 "
-1767,相手方,"相手方
+1771,相手方,"相手方
 あいてかた
 あいてがた
 
 other (opposite) party
 "
-1768,言うまでもない,"言うまでもない
+1772,言うまでもない,"言うまでもない
 いうまでもない
 ゆうまでもない
 
@@ -17694,7 +17723,7 @@ there is no need to say so, but of course
 it is needless to say
 it need scarcely be said
 "
-1769,親友,"親友
+1773,親友,"親友
 しんゆう
 
 close friend
@@ -17703,7 +17732,7 @@ buddy
 crony
 chum
 "
-1770,人工,"人工
+1774,人工,"人工
 じんこう
 
 artificial
@@ -17712,25 +17741,25 @@ human work
 human skill
 artificiality
 "
-1771,気をつける,"気をつける
+1775,気をつける,"気をつける
 きをつける
 
 to be careful
 to pay attention
 to take care
 "
-1772,肉じゃが,"肉じゃが
+1776,肉じゃが,"肉じゃが
 にくじゃが
 
 meat and potato stew
 "
-1773,汚染,"汚染
+1777,汚染,"汚染
 おせん
 
 pollution
 contamination
 "
-1774,恐らく,"恐らく
+1778,恐らく,"恐らく
 おそらく
 
 perhaps
@@ -17738,18 +17767,18 @@ likely
 probably
 I dare say
 "
-1775,家賃,"家賃
+1779,家賃,"家賃
 やちん
 
 rent
 "
-1776,苦労,"苦労
+1780,苦労,"苦労
 くろう
 
 troubles
 hardships
 "
-1777,交換,"交換
+1781,交換,"交換
 こうかん
 
 exchange
@@ -17761,66 +17790,66 @@ substitution
 replacement
 clearing (of checks, cheques)
 "
-1778,選択,"選択
+1782,選択,"選択
 せんたく
 
 selection
 choice
 option
 "
-1779,終了,"終了
+1783,終了,"終了
 しゅうりょう
 
 end
 close
 termination
 "
-1780,事務,"事務
+1784,事務,"事務
 じむ
 
 business
 office work
 administration
 "
-1781,長期,"長期
+1785,長期,"長期
 ちょうき
 
 long-term
 "
-1782,芸術,"芸術
+1786,芸術,"芸術
 げいじゅつ
 
 (fine) art
 the arts
 "
-1783,生活費,"生活費
+1787,生活費,"生活費
 せいかつひ
 
 living expenses
 "
-1784,観察,"観察
+1788,観察,"観察
 かんさつ
 
 observation
 survey
 "
-1785,比較,"比較
+1789,比較,"比較
 ひかく
 
 comparison
 "
-1786,話題,"話題
+1790,話題,"話題
 わだい
 
 topic
 subject
 "
-1787,議員,"議員
+1791,議員,"議員
 ぎいん
 
 member of the Diet, congress or parliament
 "
-1788,是非,"是非
+1792,是非,"是非
 ぜひ
 
 certainly
@@ -17828,7 +17857,7 @@ without fail
 right and wrong
 pros and cons
 "
-1789,明確,"明確
+1793,明確,"明確
 めいかく
 
 clear
@@ -17836,7 +17865,7 @@ precise
 definite
 distinct
 "
-1790,生かす,"生かす
+1794,生かす,"生かす
 いかす
 
 to make (the best) use of
@@ -17847,7 +17876,7 @@ to keep alive
 to revive
 to resuscitate
 "
-1791,条件,"条件
+1795,条件,"条件
 じょうけん
 
 condition
@@ -17857,14 +17886,14 @@ terms
 requirement
 requirements
 "
-1792,正式,"正式
+1796,正式,"正式
 せいしき
 
 due form
 official
 formality
 "
-1793,記念,"記念
+1797,記念,"記念
 きねん
 
 commemoration
@@ -17873,30 +17902,30 @@ honoring the memory of something
 turning something into a memento
 memory
 "
-1794,通行,"通行
+1798,通行,"通行
 つうこう
 
 passage
 passing
 common usage
 "
-1795,医療,"医療
+1799,医療,"医療
 いりょう
 
 medical care
 medical treatment
 "
-1796,古代,"古代
+1800,古代,"古代
 こだい
 
 ancient times
 "
-1797,気候,"気候
+1801,気候,"気候
 きこう
 
 climate
 "
-1798,主要,"主要
+1802,主要,"主要
 しゅよう
 
 chief
@@ -17904,13 +17933,13 @@ main
 principal
 major
 "
-1799,先日,"先日
+1803,先日,"先日
 せんじつ
 
 the other day
 a few days ago
 "
-1800,豊か,"豊か
+1804,豊か,"豊か
 ゆたか
 
 abundant
@@ -17923,7 +17952,7 @@ extremely
 full of
 great
 "
-1801,結局,"結局
+1805,結局,"結局
 けっきょく
 
 after all
@@ -17933,7 +17962,7 @@ conclusion
 end
 ending of a game of Go
 "
-1802,現状,"現状
+1806,現状,"現状
 げんじょう
 
 present condition
@@ -17941,12 +17970,12 @@ existing state
 status quo
 current state
 "
-1803,印象,"印象
+1807,印象,"印象
 いんしょう
 
 impression
 "
-1804,許可,"許可
+1808,許可,"許可
 きょか
 
 permission
@@ -17956,49 +17985,49 @@ license
 to permit
 to authorize
 "
-1805,野球,"野球
+1809,野球,"野球
 やきゅう
 
 baseball
 "
-1806,前半,"前半
+1810,前半,"前半
 ぜんはん
 ぜんぱん
 
 first half
 "
-1807,投資,"投資
+1811,投資,"投資
 とうし
 
 investment
 "
-1808,列車,"列車
+1812,列車,"列車
 れっしゃ
 
 train (ordinary)
 "
-1809,単位,"単位
+1813,単位,"単位
 たんい
 
 unit
 denomination
 credit (in school)
 "
-1810,地元,"地元
+1814,地元,"地元
 じもと
 
 home area
 home town
 local
 "
-1811,児童,"児童
+1815,児童,"児童
 じどう
 
 children
 child
 juvenile
 "
-1812,有効,"有効
+1816,有効,"有効
 ゆうこう
 
 validity
@@ -18006,13 +18035,13 @@ legality
 availability
 effectiveness
 "
-1813,行事,"行事
+1817,行事,"行事
 ぎょうじ
 
 event
 function
 "
-1814,発展,"発展
+1818,発展,"発展
 はってん
 
 development
@@ -18025,7 +18054,7 @@ enlargement
 playing around
 having an active sex life
 "
-1815,周辺,"周辺
+1819,周辺,"周辺
 しゅうへん
 
 circumference
@@ -18036,7 +18065,7 @@ in the area of
 in the vicinity of
 (computer) peripheral
 "
-1816,報道,"報道
+1820,報道,"報道
 ほうどう
 
 information
@@ -18045,7 +18074,7 @@ journalism
 news
 to report
 "
-1817,下がる,"下がる
+1821,下がる,"下がる
 さがる
 
 to come down
@@ -18066,7 +18095,7 @@ to be downgraded
 to get closer to the present day
 to go south
 "
-1818,成立,"成立
+1822,成立,"成立
 せいりつ
 
 coming into existence
@@ -18078,14 +18107,14 @@ to come into existence
 to be true
 to hold (i.e. hold true)
 "
-1819,禁止,"禁止
+1823,禁止,"禁止
 きんし
 
 prohibition
 inhibition
 ban
 "
-1820,命令,"命令
+1824,命令,"命令
 めいれい
 
 order
@@ -18095,7 +18124,7 @@ directive
 (software) instruction
 statement
 "
-1821,高度,"高度
+1825,高度,"高度
 こうど
 
 altitude
@@ -18106,7 +18135,7 @@ sophisticated
 high-grade
 strong
 "
-1822,一定,"一定
+1826,一定,"一定
 いってい
 いちじょう
 
@@ -18123,7 +18152,7 @@ standardised
 certain
 prescribed
 "
-1823,方,"方
+1827,方,"方
 ほう
 
 direction
@@ -18142,7 +18171,7 @@ manner
 means
 length (of each side of a square)
 "
-1824,平均,"平均
+1828,平均,"平均
 へいきん
 へいぎん
 
@@ -18151,20 +18180,20 @@ mean
 balance
 equilibrium
 "
-1825,地位,"地位
+1829,地位,"地位
 ちい
 
 (social) position
 status
 "
-1826,周囲,"周囲
+1830,周囲,"周囲
 しゅうい
 
 surroundings
 environs
 circumference
 "
-1827,表面,"表面
+1831,表面,"表面
 ひょうめん
 
 surface
@@ -18174,14 +18203,14 @@ exterior
 appearances
 superficiality
 "
-1828,製品,"製品
+1832,製品,"製品
 せいひん
 
 manufactured goods
 finished goods
 product
 "
-1829,詳しい,"詳しい
+1833,詳しい,"詳しい
 くわしい
 
 detailed
@@ -18191,7 +18220,7 @@ knowing very well
 well-acquainted
 well-informed
 "
-1830,否定,"否定
+1834,否定,"否定
 ひてい
 
 negation
@@ -18200,19 +18229,19 @@ repudiation
 disavowal
 NOT operation
 "
-1831,維持,"維持
+1835,維持,"維持
 いじ
 
 maintenance
 preservation
 improvement
 "
-1832,金額,"金額
+1836,金額,"金額
 きんがく
 
 amount of money
 "
-1833,候補,"候補
+1837,候補,"候補
 こうほ
 
 candidate
@@ -18225,7 +18254,7 @@ candidacy
 candidature
 nomination
 "
-1834,障害,"障害
+1838,障害,"障害
 しょうがい
 
 obstacle
@@ -18239,22 +18268,1255 @@ disability
 disorder
 malfunction
 "
-1835,社会党,"社会党
+1839,社会党,"社会党
 しゃかいとう
 
 Socialist Party
 "
-1836,夫,"夫
+1840,出版,"出版
+しゅっぱん
+
+publication
+"
+1841,到着,"到着
+とうちゃく
+
+arrival
+"
+1842,交流,"交流
+こうりゅう
+
+(cultural) exchange
+interchange
+interaction
+(inter-) mingling
+(social, etc.) networking
+intercourse
+alternating current
+AC
+"
+1843,用いる,"用いる
+もちいる
+
+to use
+to make use of
+to utilize
+to utilise
+"
+1844,サービス,"サービス
+サービス
+
+service
+help
+assistance
+care
+concern
+discount
+freebie
+free gift
+service
+serve
+service
+servicing
+(product) maintenance
+"
+1845,画家,"画家
+がか
+
+painter
+artist
+"
+1846,独立,"独立
+どくりつ
+
+independence (e.g. Independence Day)
+self-support
+"
+1847,借金,"借金
+しゃっきん
+
+debt
+loan
+liabilities
+"
+1848,建築,"建築
+けんちく
+
+construction
+architecture (of buildings)
+"
+1849,予算,"予算
+よさん
+
+estimate
+budget
+"
+1850,追う,"追う
+おう
+
+to chase
+to run after
+to pursue
+to follow (i.e. a set order, a trend)
+to drive out
+to oust
+to expel
+to drive (i.e. a herd)
+(in passive voice) to be pressed (for time, etc.)
+"
+1851,開催,"開催
+かいさい
+
+holding a meeting
+open an exhibition
+"
+1852,集団,"集団
+しゅうだん
+
+group
+mass
+"
+1853,訓練,"訓練
+くんれん
+
+practice
+practising
+training
+"
+1854,繰り返す,"繰り返す
+くりかえす
+
+to repeat
+to do something over again
+"
+1855,供給,"供給
+きょうきゅう
+
+supply
+provision
+"
+1856,見出し,"見出し
+みだし
+
+heading
+headline
+title
+caption
+index
+headword
+"
+1857,演奏,"演奏
+えんそう
+
+musical performance
+"
+1858,改善,"改善
+かいぜん
+
+betterment
+improvement
+kaizen (Japanese business philosophy of continuous improvement)
+"
+1859,批判,"批判
+ひはん
+
+criticism
+judgement
+judgment
+comment
+"
+1860,特定,"特定
+とくてい
+
+specific
+particular
+designated
+special
+to specify
+to identify
+to pinpoint
+"
+1861,往復,"往復
+おうふく
+
+making a round trip
+going and returning
+coming and going
+round-trip ticket
+return ticket
+correspondence
+exchanging (letters)
+socializing
+visiting one another
+"
+1862,信仰,"信仰
+しんこう
+
+(religious) faith
+belief
+creed
+"
+1863,設備,"設備
+せつび
+
+equipment
+device
+facilities
+installation
+"
+1864,以後,"以後
+いご
+
+after this
+from now on
+hereafter
+thereafter
+since (verb) (after -te form of verb)
+after (time)
+since (then)
+"
+1865,単に,"単に
+たんに
+
+simply
+merely
+only
+solely
+"
+1866,範囲,"範囲
+はんい
+
+extent
+scope
+sphere
+range
+span
+"
+1867,見方,"見方
+みかた
+
+viewpoint
+point of view
+way of understanding
+way of appreciating
+how to look at something (e.g. noh, train schedule)
+"
+1868,財産,"財産
+ざいさん
+
+property
+fortune
+assets
+"
+1869,痛い,"痛い
+いたい
+
+painful
+sore
+exceeding
+"
+1870,不満,"不満
+ふまん
+
+dissatisfaction
+displeasure
+discontent
+complaints
+unhappiness
+disgruntled
+"
+1871,知事,"知事
+ちじ
+
+prefectural governor
+"
+1872,逮捕,"逮捕
+たいほ
+
+arrest
+apprehension
+capture
+"
+1873,備える,"備える
+そなえる
+
+to furnish
+to provide for
+to equip
+to install
+to have ready
+to prepare for
+to possess (all that is needed)
+to be endowed with
+to be armed with
+to be born with
+to have since birth
+"
+1874,語学,"語学
+ごがく
+
+language study
+"
+1875,楽しむ,"楽しむ
+たのしむ
+
+to enjoy (oneself)
+"
+1876,どう考えても,"どう考えても
+どうかんがえても
+
+surely
+clearly
+without a doubt
+in all probability
+no matter how one slices it
+no matter how one looks at it
+"
+1877,小ちゃ,"小ちゃ
+ちいちゃ
+
+small (babytalk form)
+"
+1878,笑い,"笑い
+わらい
+
+laugh
+laughter
+smile
+sneer
+sex aids (e.g. dildos, pornographic books, erotic woodblock prints, etc.)
+"
+1879,ただいま,"ただいま
+ただいま
+
+I'm home! I'm back! Here I am! 
+presently
+right away
+right now
+just now
+"
+1880,どういたしまして,"どういたしまして
+どういたしまして
+
+you are welcome
+don't mention it
+not at all
+my pleasure
+"
+1881,おかえりなさい,"おかえりなさい
+おかえりなさい
+
+welcome home
+"
+1882,失礼します,"失礼します
+しつれいします
+
+excuse me
+"
+1883,はじめまして,"はじめまして
+はじめまして
+
+How do you do?
+I am glad to meet you
+"
+1884,行ってきます,"行ってきます
+いってきます
+
+I'm off
+see you later
+"
+1885,じゃあまた,"じゃあまた
+じゃあまた
+
+see you later (used in casual correspondence and conversation)
+goodbye
+sincerely
+"
+1886,すみません,"すみません
+すみません
+
+excuse me
+pardon me
+I'm sorry
+thank you
+"
+1887,いらっしゃいませ,"いらっしゃいませ
+いらっしゃいませ
+
+welcome (in shops, etc.)
+"
+1888,牛丼,"牛丼
+ぎゅうどん
+
+rice covered with beef and vegetables
+"
+1889,からあげ,"からあげ
+からあげ
+
+deep-fried food
+"
+1890,頭がいい,"頭がいい
+あたまがいい
+あたまがよい
+
+bright
+intelligent
+"
+1891,おこのみやき,"おこのみやき
+おこのみやき
+
+okonomiyaki
+savoury pancake containing meat or seafood and vegetables
+"
+1892,海鮮丼,"海鮮丼
+かいせんどん
+
+rice topped with sashimi
+"
+1893,いただきます,"いただきます
+いただきます
+
+expression of gratitude before meals
+"
+1894,ごちそうさまでした,"ごちそうさまでした
+ごちそうさまでした
+
+That was a delicious meal (said after meals)
+What a wonderful meal
+"
+1895,提出,"提出
+ていしゅつ
+
+to present
+to submit (e.g. a report or a thesis)
+to hand in
+to file
+to turn in
+presentation
+submission
+filing
+"
+1896,経由,"経由
+けいゆ
+けいゆう
+
+through
+by way of
+via
+to go via
+to go by way of
+"
+1897,なる,"なる
+なる
+
+to become
+to get
+to grow
+to be
+to reach
+to attain
+to result in
+to prove to be
+to consist of
+to be composed of
+to succeed
+to be complete
+to change into
+to be exchanged for
+to play a role
+to be promoted
+to do ...
+"
+1898,食う,"食う
+くう
+
+to eat
+to live
+to make a living
+to survive
+to bite
+to sting (as insects do)
+to tease
+to torment
+to taunt
+to make light of
+to make fun of
+to encroach on
+to eat into
+to consume
+to defeat a superior
+to threaten a position
+to consume time and-or resources
+to receive something (usu. an unfavourable event)
+to have sexual relations with a woman, esp. for the first time
+"
+1899,前年,"前年
+ぜんねん
+
+the preceding year
+the previous year
+last year
+"
+1900,分析,"分析
+ぶんせき
+
+analysis
+"
+1901,強いて,"強いて
+しいて
+
+by force
+"
+1902,広場,"広場
+ひろば
+
+plaza
+(public) square
+piazza
+forum
+open space
+"
+1903,適切,"適切
+てきせつ
+
+pertinent
+appropriate
+adequate
+relevance
+"
+1904,広げる,"広げる
+ひろげる
+
+to spread
+to extend
+to expand
+to enlarge
+to widen
+to broaden
+to unfold
+to open
+to unroll
+to unwrap
+to scatter about
+to spread around
+to make flourish
+to cause to prosper
+"
+1905,できるだけ,"できるだけ
+できるだけ
+
+as much as one can
+as much as possible
+if at all possible
+"
+1906,大気,"大気
+たいき
+
+atmosphere
+"
+1907,学問,"学問
+がくもん
+
+scholarship
+study
+learning
+discipline
+branch of learning
+(a) science
+"
+1908,尊敬,"尊敬
+そんけい
+
+respect
+esteem
+reverence
+honour
+honor
+"
+1909,追加,"追加
+ついか
+
+addition
+supplement
+append (e.g. to a file)
+appendix
+"
+1910,態度,"態度
+たいど
+
+attitude
+manner
+behaviour
+"
+1911,製造,"製造
+せいぞう
+
+manufacture
+production
+"
+1912,解説,"解説
+かいせつ
+
+explanation
+commentary
+exposition
+elucidation
+"
+1913,少なくとも,"少なくとも
+すくなくとも
+
+at least
+"
+1914,電話線,"電話線
+でんわせん
+
+telephone line
+"
+1915,保存,"保存
+ほぞん
+
+preservation
+conservation
+storage
+saving (e.g. to disk)
+maintenance
+"
+1916,国土,"国土
+こくど
+くにつち
+
+country
+territory
+domain
+realm
+"
+1917,一種,"一種
+いっしゅ
+ひとくさ
+
+species
+kind
+variety
+"
+1918,までに,"までに
+までに
+
+by
+not later than
+before
+"
+1919,服装,"服装
+ふくそう
+
+garments
+attire
+"
+1920,自殺,"自殺
+じさつ
+
+suicide
+"
+1921,悲劇,"悲劇
+ひげき
+
+tragedy
+tragic drama
+tragic play
+tragedy
+calamity
+disaster
+"
+1922,使用料,"使用料
+しようりょう
+
+rent
+hire
+"
+1923,私立,"私立
+しりつ
+わたくしりつ
+
+private (establishment)
+"
+1924,裁判,"裁判
+さいばん
+
+trial
+judgement
+judgment
+"
+1925,基準,"基準
+きじゅん
+
+standard
+basis
+criterion
+norm
+reference
+datum
+"
+1926,入社,"入社
+にゅうしゃ
+
+joining a company
+getting a job with a company
+entering a company
+"
+1927,今から,"今から
+いまから
+
+hence
+from now
+from the present moment
+from this time forward
+"
+1928,整備,"整備
+せいび
+
+maintenance
+servicing
+putting in place
+establishment
+development
+preparation
+provision
+outfitting
+"
+1929,世の中,"世の中
+よのなか
+
+society
+the world
+the times
+"
+1930,読者,"読者
+どくしゃ
+
+reader
+"
+1931,操作,"操作
+そうさ
+
+operation
+management
+processing
+manipulating to one's benefit
+to operate
+to manipulate
+to fiddle (e.g. the books)
+"
+1932,憲法,"憲法
+けんぽう
+
+constitution
+"
+1933,民間,"民間
+みんかん
+
+private
+civilian
+civil
+popular
+folk
+unofficial
+"
+1934,使用者,"使用者
+しようしゃ
+
+user
+consumer
+employer
+"
+1935,質問をする,"質問をする
+しつもんをする
+
+to ask a question
+to ask questions
+"
+1936,過程,"過程
+かてい
+
+process
+course
+mechanism
+"
+1937,詳細,"詳細
+しょうさい
+
+detail
+particulars
+"
+1938,体力,"体力
+たいりょく
+
+stamina
+endurance
+physical strength
+resilience
+resistance to disease
+strength of an organization (e.g. profitability, productivity, economic clout, stability, growth potential)
+"
+1939,行く手,"行く手
+ゆくて
+
+one's way
+one's path
+"
+1940,受験,"受験
+じゅけん
+
+taking an examination (esp. school and university entrance)
+"
+1941,進学,"進学
+しんがく
+
+entering a higher-level school, esp. going on to university
+"
+1942,改正,"改正
+かいせい
+
+revision
+amendment
+alteration
+"
+1943,断る,"断る
+ことわる
+
+to refuse
+to reject
+to dismiss
+to turn down
+to decline
+to inform
+to give notice
+to tell in advance
+to ask leave
+to excuse oneself (from)
+"
+1944,自由主義,"自由主義
+じゆうしゅぎ
+
+liberalism
+"
+1945,酸素,"酸素
+さんそ
+
+oxygen (O)
+"
+1946,文化人,"文化人
+ぶんかじん
+
+person of culture
+cultured person
+"
+1947,世界大戦,"世界大戦
+せかいたいせん
+
+the World War
+"
+1948,自由化,"自由化
+じゆうか
+
+liberalization
+liberalisation
+freeing
+"
+1949,手続き,"手続き
+てつづき
+
+procedure
+(legal) process
+formalities
+"
+1950,撮影,"撮影
+さつえい
+
+photography (still or motion)
+photographing
+filming
+shooting
+(video) recording
+"
+1951,説明書,"説明書
+せつめいしょ
+
+(printed) instructions
+"
+1952,通学,"通学
+つうがく
+
+commuting to school
+school commute
+"
+1953,意味合い,"意味合い
+いみあい
+
+implication
+nuance
+shade of meaning
+connotation
+"
+1954,理想的,"理想的
+りそうてき
+
+ideal
+"
+1955,どこまで,"どこまで
+どこまで
+
+how far
+to what extent
+"
+1956,姿勢,"姿勢
+しせい
+
+attitude
+posture
+stance
+approach
+carriage (of the body)
+"
+1957,電話機,"電話機
+でんわき
+
+telephone instrument
+"
+1958,かぶる,"かぶる
+かぶる
+
+to put on (one's head)
+to wear
+to have on
+to pull over (one's head)
+to crown (oneself)
+to be covered with (dust, snow, etc.)
+to pour (water, etc.) on oneself
+to dash on oneself
+to ship water
+to bear (e.g. someone's debts, faults, etc.)
+to take (blame)
+to assume (responsibility)
+to shoulder (burden)
+to overlap (e.g. sound or color)
+to be similar
+to be redundant
+to be fogged (due to overexposure, etc.)
+to close
+to come to an end
+to get a full house
+to sell out
+to blunder
+to bungle
+to fail
+to be deceived
+"
+1959,社会学,"社会学
+しゃかいがく
+
+sociology
+"
+1960,魅力,"魅力
+みりょく
+
+charm
+fascination
+glamour
+glamor
+attraction
+appeal
+"
+1961,深刻,"深刻
+しんこく
+
+serious
+severe
+grave
+acute
+"
+1962,宣伝,"宣伝
+せんでん
+
+publicity
+advertisement
+advertising
+propaganda
+"
+1963,目的地,"目的地
+もくてきち
+
+place of destination
+"
+1964,現地,"現地
+げんち
+
+actual place
+local
+on-site
+"
+1965,抵抗,"抵抗
+ていこう
+
+resistance
+opposition
+standing up to
+reluctance
+repulsion
+repugnance
+resistance
+drag
+friction
+electrical resistance
+resistor
+"
+1966,恋愛,"恋愛
+れんあい
+
+love
+love-making
+passion
+emotion
+affections
+"
+1967,複数,"複数
+ふくすう
+
+several
+plural
+plurality
+multiple
+"
+1968,かつ,"かつ
+かつ
+
+yet
+moreover
+and
+"
+1969,編集,"編集
+へんしゅう
+
+editing
+compilation
+editorial (e.g. committee)
+"
+1970,少しずつ,"少しずつ
+すこしずつ
+
+little by little
+"
+1971,課題,"課題
+かだい
+
+subject
+theme
+issue
+matter
+homework
+assignment
+task
+challenge
+problem
+question
+"
+1972,指示,"指示
+しじ
+
+indication
+instruction
+designation
+directions
+"
+1973,中身,"中身
+なかみ
+
+contents
+interior
+substance
+filling
+(sword) blade
+"
+1974,反省,"反省
+はんせい
+
+reflection
+reconsideration
+introspection
+meditation
+contemplation
+regret
+repentance
+remorse
+being sorry
+"
+1975,復活,"復活
+ふっかつ
+
+revival (e.g. musical)
+come-back
+restoration
+rebirth
+resurrection
+"
+1976,能力,"能力
+のうりょく
+
+ability
+faculty
+"
+1977,模様,"模様
+もよう
+
+pattern
+figure
+design
+state
+condition
+conjecture of the current situation
+the way it seems
+model
+pattern
+example
+indicates that that noun seems likely (e.g. rain or storm)
+framework (in go)
+territorial framework
+moyo
+"
+1978,家庭科,"家庭科
+かていか
+
+home economics
+"
+1979,支持,"支持
+しじ
+
+support
+holding up
+propping
+support
+backing
+endorsing
+"
+1980,へんそう,"へんそう
+へんそう
+
+disguise
+masquerade
+"
+1981,輸送,"輸送
+ゆそう
+
+transport
+transportation
+"
+1982,喜び,"喜び
+よろこび
+
+joy
+delight
+rapture
+pleasure
+gratification
+rejoicing
+congratulations
+felicitations
+"
+1983,専攻,"専攻
+せんこう
+
+major subject
+special study
+"
+1984,勝利,"勝利
+しょうり
+
+victory
+triumph
+conquest
+success
+win
+"
+1985,問題児,"問題児
+もんだいじ
+
+problem child
+"
+1986,国境,"国境
+こっきょう
+くにざかい
+
+national border
+provincial border
+"
+1987,付き合う,"付き合う
+つきあう
+
+to associate with
+to keep company with
+to go out with
+to go steady with
+to get on with
+to go along with
+to follow someone's lead
+to accompany someone
+to compromise
+"
+1988,美味しい,"美味しい
+おいしい
+
+delicious
+tasty
+sweet
+"
+1989,保証,"保証
+ほしょう
+
+guarantee
+security
+assurance
+pledge
+warranty
+"
+1990,抑える,"抑える
+おさえる
+
+to pin something down
+to hold something down
+to hold something back
+to stop
+to restrain
+to curb
+to seize
+to grasp
+to arrest
+to gain control of something
+to govern
+to keep down (e.g. information)
+to suppress
+to catch happening
+to determine (important points)
+to find (proof)
+to understand
+"
+1991,携帯,"携帯
+けいたい
+
+something carried (in the hand)
+handheld
+portable
+mobile telephone
+cell phone
+"
+1992,夫,"夫
 
 
 husband  フ  フウ  おっと
 "
-1837,絵,"絵
+1993,絵,"絵
 
 
 picture  カイ  エ  
 "
-1838,もう,"もう
+1994,もう,"もう
 もう
 
 now
@@ -18273,7 +19535,7 @@ another
 the other
 interjection used to strengthen expression of an emotion (often exasperation)
 "
-1839,帰る,"帰る
+1995,帰る,"帰る
 かえる
 
 to return
@@ -18284,7 +19546,7 @@ to leave
 to get home
 to get to home plate
 "
-1840,言葉,"言葉
+1996,言葉,"言葉
 ことば
 けとば
 
@@ -18299,7 +19561,7 @@ remark
 speech
 (manner of) speaking
 "
-1841,笑う,"笑う
+1997,笑う,"笑う
 わらう
 
 to laugh
@@ -18309,7 +19571,7 @@ to ridicule
 to be dumbfounded
 to be flabbergasted
 "
-1842,こちら,"こちら
+1998,こちら,"こちら
 こちら
 
 this way (direction close to the speaker or towards the speaker)
@@ -18322,7 +19584,7 @@ we
 us
 this person (someone physically close to the speaker and of equal or higher status)
 "
-1843,とても,"とても
+1999,とても,"とても
 とても
 
 very
@@ -18332,7 +19594,7 @@ exceedingly
 by no means
 simply (cannot)
 "
-1844,たくさん,"たくさん
+2000,たくさん,"たくさん
 たくさん
 
 a lot
@@ -18349,7 +19611,7 @@ enough
 too many
 too much
 "
-1845,もらう,"もらう
+2001,もらう,"もらう
 もらう
 
 to receive
@@ -18357,7 +19619,7 @@ to take
 to accept
 to get somebody to do something
 "
-1846,だめ,"だめ
+2002,だめ,"だめ
 だめ
 
 no good
@@ -18374,7 +19636,7 @@ not allowed
 neutral point (in go)
 intersection owned by neither player at the end of a game
 "
-1847,いっしょ,"いっしょ
+2003,いっしょ,"いっしょ
 いっしょ
 
 together
@@ -18382,7 +19644,7 @@ at the same time
 same
 identical
 "
-1848,ふね,"ふね
+2004,ふね,"ふね
 ふね
 
 ship
@@ -18396,23 +19658,23 @@ vat
 trough
 counter for boat-shaped containers (e.g. of sashimi)
 "
-1849,空港,"空港
+2005,空港,"空港
 くうこう
 
 airport
 "
-1850,大して,"大して
+2006,大して,"大して
 たいして
 
 (not so) much
 (not) very
 "
-1851,したい,"したい
+2007,したい,"したい
 したい
 
 want to do
 "
-1852,その後,"その後
+2008,その後,"その後
 そのあと
 そのご
 そののち
@@ -18421,7 +19683,7 @@ after that
 afterwards
 thereafter
 "
-1853,一緒,"一緒
+2009,一緒,"一緒
 いっしょ
 
 together
@@ -18429,7 +19691,7 @@ at the same time
 same
 identical
 "
-1854,靴,"靴
+2010,靴,"靴
 くつ
 
 shoes
@@ -18437,21 +19699,21 @@ boots
 footwear
 footgear
 "
-1855,後ろ,"後ろ
+2011,後ろ,"後ろ
 うしろ
 
 back
 behind
 rear
 "
-1856,後ほど,"後ほど
+2012,後ほど,"後ほど
 のちほど
 
 later on
 eventually
 afterwards
 "
-1857,まだ,"まだ
+2013,まだ,"まだ
 まだ
 
 as yet
@@ -18465,7 +19727,7 @@ unfinished
 incomplete
 not yet finished with
 "
-1858,びっくり,"びっくり
+2014,びっくり,"びっくり
 びっくり
 
 to be surprised
@@ -18476,7 +19738,7 @@ to get startled
 to jump
 surprise (e.g. surprise party)
 "
-1859,あと,"あと
+2015,あと,"あと
 あと
 
 behind
@@ -18496,20 +19758,20 @@ in addition
 past
 previous
 "
-1860,いろいろ,"いろいろ
+2016,いろいろ,"いろいろ
 いろいろ
 
 various
 various colors (colours)
 "
-1861,どう,"どう
+2017,どう,"どう
 どう
 
 how
 in what way
 how about
 "
-1862,ワクワク,"ワクワク
+2018,ワクワク,"ワクワク
 ワクワク
 
 tremble
@@ -18517,7 +19779,7 @@ get nervous
 excitedly
 thrilled
 "
-1863,やすい,"やすい
+2019,やすい,"やすい
 やすい
 
 cheap
@@ -18526,7 +19788,7 @@ calm
 peaceful
 quiet
 "
-1864,のち,"のち
+2020,のち,"のち
 のち
 
 later
@@ -18536,14 +19798,14 @@ future
 after one's death
 descendant
 "
-1865,わざわざ,"わざわざ
+2021,わざわざ,"わざわざ
 わざわざ
 
 expressly
 specially
 doing something especially rather than incidentally
 "
-1866,わがまま,"わがまま
+2022,わがまま,"わがまま
 わがまま
 
 selfishness
@@ -18554,7 +19816,7 @@ willfulness
 disobedience
 whim
 "
-1867,あまり,"あまり
+2023,あまり,"あまり
 あまり
 
 remainder
@@ -18573,13 +19835,13 @@ too much
 more than
 over
 "
-1868,すでに,"すでに
+2024,すでに,"すでに
 すでに
 
 already
 too late
 "
-1869,キッカケ,"キッカケ
+2025,キッカケ,"キッカケ
 キッカケ
 
 chance
@@ -18590,7 +19852,7 @@ motive
 impetus
 occasion
 "
-1870,恥ずかしい,"恥ずかしい
+2026,恥ずかしい,"恥ずかしい
 はずかしい
 
 shy
@@ -18599,7 +19861,7 @@ embarrassed
 disgraceful
 shameful
 "
-1871,きっと,"きっと
+2027,きっと,"きっと
 きっと
 
 surely
@@ -18616,7 +19878,7 @@ suddenly
 abruptly
 instantly
 "
-1872,急,"急
+2028,急,"急
 きゅう
 
 urgent
@@ -18634,7 +19896,7 @@ hurrying
 haste
 (in gagaku or noh) end of a song
 "
-1873,そっち,"そっち
+2029,そっち,"そっち
 そっち
 
 that way (direction distant from the speaker, close to the listener)
@@ -18645,18 +19907,18 @@ your family
 your company
 that person (someone close to the listener)
 "
-1874,わざと,"わざと
+2030,わざと,"わざと
 わざと
 
 on purpose
 "
-1875,なぜ,"なぜ
+2031,なぜ,"なぜ
 なぜ
 
 why
 how
 "
-1876,そば,"そば
+2032,そば,"そば
 そば
 
 near
@@ -18668,7 +19930,7 @@ besides
 while
 third person
 "
-1877,ふと,"ふと
+2033,ふと,"ふと
 ふと
 
 suddenly
@@ -18678,25 +19940,25 @@ incidentally
 unexpectedly
 unintentionally
 "
-1878,おなかが空く,"おなかが空く
+2034,おなかが空く,"おなかが空く
 おなかがすく
 
 to become hungry
 to get an empty stomach
 "
-1879,しんせつ,"しんせつ
+2035,しんせつ,"しんせつ
 しんせつ
 
 kindness
 gentleness
 "
-1880,さあっと,"さあっと
+2036,さあっと,"さあっと
 さあっと
 
 relatively quickly (esp. actions)
 quite suddenly (esp. wind, rain, etc.)
 "
-1881,おかしい,"おかしい
+2037,おかしい,"おかしい
 おかしい
 
 funny
@@ -18716,7 +19978,7 @@ unsuitable
 unbecoming
 suspicious
 "
-1882,やっぱり,"やっぱり
+2038,やっぱり,"やっぱり
 やっぱり
 
 too
@@ -18732,7 +19994,7 @@ in any event
 all the same
 as expected
 "
-1883,しかたない,"しかたない
+2039,しかたない,"しかたない
 しかたない
 
 it can't be helped
@@ -18742,7 +20004,7 @@ can't stand it
 impatient
 annoyed
 "
-1884,仕方ない,"仕方ない
+2040,仕方ない,"仕方ない
 しかたない
 
 it can't be helped
@@ -18752,7 +20014,7 @@ can't stand it
 impatient
 annoyed
 "
-1885,ありふれた,"ありふれた
+2041,ありふれた,"ありふれた
 ありふれた
 
 unsurprising
@@ -18762,7 +20024,7 @@ mundane
 hackneyed
 garden variety (of)
 "
-1886,普通,"普通
+2042,普通,"普通
 ふつう
 
 general
@@ -18773,7 +20035,7 @@ generally
 usually
 train that stops at every station
 "
-1887,つらい,"つらい
+2043,つらい,"つらい
 つらい
 
 painful
@@ -18787,7 +20049,7 @@ cruel
 harsh
 cold
 "
-1888,たまたま,"たまたま
+2044,たまたま,"たまたま
 たまたま
 
 casually
@@ -18795,7 +20057,7 @@ unexpectedly
 accidentally
 by chance
 "
-1889,ちゃんと,"ちゃんと
+2045,ちゃんと,"ちゃんと
 ちゃんと
 
 diligently
@@ -18814,7 +20076,7 @@ sufficiently
 satisfactorily
 quickly
 "
-1890,合う,"合う
+2046,合う,"合う
 あう
 おう
 
@@ -18832,7 +20094,7 @@ to be equitable
 to do ... to each other
 to do ... together
 "
-1891,気まずい,"気まずい
+2047,気まずい,"気まずい
 きまずい
 
 unpleasant
@@ -18840,7 +20102,7 @@ awkward
 embarrassing
 uneasy
 "
-1892,ただ,"ただ
+2048,ただ,"ただ
 ただ
 
 ordinary
@@ -18858,7 +20120,7 @@ but
 however
 nevertheless
 "
-1893,きつい,"きつい
+2049,きつい,"きつい
 きつい
 
 intense
@@ -18871,7 +20133,7 @@ strong
 tight
 close
 "
-1894,今さら,"今さら
+2050,今さら,"今さら
 いまさら
 
 now (after such a long time)
@@ -18881,7 +20143,7 @@ afresh
 anew
 again
 "
-1895,もはや,"もはや
+2051,もはや,"もはや
 もはや
 
 already
@@ -18889,7 +20151,7 @@ now
 no longer
 not any more
 "
-1896,おんち,"おんち
+2052,おんち,"おんち
 おんち
 
 tone-deafness
@@ -18900,7 +20162,7 @@ off-key
 having no sense (of something)
 being hopeless (when it comes to something)
 "
-1897,せっかく,"せっかく
+2053,せっかく,"せっかく
 せっかく
 
 with trouble
@@ -18914,7 +20176,7 @@ specially
 especially
 expressly
 "
-1898,っていうか,"っていうか
+2054,っていうか,"っていうか
 っていうか
 
 or rather (say)
@@ -18923,7 +20185,7 @@ or perhaps I should say
 or, how should I put it,...
 I mean
 "
-1899,めずらしい,"めずらしい
+2055,めずらしい,"めずらしい
 めずらしい
 
 unusual
@@ -18933,7 +20195,7 @@ new
 novel
 fine (e.g. gift)
 "
-1900,なかなか,"なかなか
+2056,なかなか,"なかなか
 なかなか
 
 very
@@ -18952,7 +20214,7 @@ excellent
 wonderful
 very good
 "
-1901,さっさ,"さっさ
+2057,さっさ,"さっさ
 さっさ
 
 promptly
@@ -18961,7 +20223,7 @@ quickly
 without delay
 indifferently
 "
-1902,ほとんど,"ほとんど
+2058,ほとんど,"ほとんど
 ほとんど
 
 mostly
@@ -18973,13 +20235,13 @@ all but
 just about
 almost
 "
-1903,ほうがいい,"ほうがいい
+2059,ほうがいい,"ほうがいい
 ほうがいい
 
 (after past tense verb) had better (verb)
 (after negative verb) had better not (verb)
 "
-1904,など,"など
+2060,など,"など
 など
 
 et cetera
@@ -18989,7 +20251,7 @@ and so forth
 or something
 the likes of
 "
-1905,ほんの,"ほんの
+2061,ほんの,"ほんの
 ほんの
 
 mere
@@ -18997,7 +20259,7 @@ only
 just
 not even (with negative verb)
 "
-1906,それに,"それに
+2062,それに,"それに
 それに
 
 besides
@@ -19005,7 +20267,7 @@ in addition
 also
 moreover
 "
-1907,ずっと,"ずっと
+2063,ずっと,"ずっと
 ずっと
 
 continuously in some state (for a long time, distance)
@@ -19021,13 +20283,13 @@ long ago
 direct
 straight
 "
-1908,誰一人,"誰一人
+2064,誰一人,"誰一人
 だれひとり
 
 no one
 nobody
 "
-1909,何のことはない,"何のことはない
+2065,何のことはない,"何のことはない
 なんのことはない
 
 trivial
@@ -19035,14 +20297,14 @@ not amounting to much
 not enough to cause a problem
 not as much as expected
 "
-1910,わけがない,"わけがない
+2066,わけがない,"わけがない
 わけがない
 
 there is no way that ... (expresses speaker's belief that something is impossible)
 easy
 simple
 "
-1911,周り,"周り
+2067,周り,"周り
 まわり
 
 circumference
@@ -19052,7 +20314,7 @@ neighbourhood
 neighborhood
 vicinity
 "
-1912,なのに,"なのに
+2068,なのに,"なのに
 なのに
 
 and yet
@@ -19064,7 +20326,7 @@ nevertheless
 for all that
 notwithstanding that
 "
-1913,怪異,"怪異
+2069,怪異,"怪異
 かいい
 
 strangeness
@@ -19077,12 +20339,12 @@ spectre
 specter
 goblin
 "
-1914,かくして,"かくして
+2070,かくして,"かくして
 かくして
 
 thus
 "
-1915,うち,"うち
+2071,うち,"うち
 うち
 
 inside
@@ -19099,7 +20361,7 @@ emperor
 I (primarily used by women and children)
 me
 "
-1916,ぶつかる,"ぶつかる
+2072,ぶつかる,"ぶつかる
 ぶつかる
 
 to strike against
@@ -19110,7 +20372,7 @@ to encounter
 to meet
 to clash
 "
-1917,どうでもいい,"どうでもいい
+2073,どうでもいい,"どうでもいい
 どうでもいい
 
 inconsequential
@@ -19119,7 +20381,7 @@ not worth worrying about
 whatever you do is OK
 trivial
 "
-1918,まず,"まず
+2074,まず,"まず
 まず
 
 first (of all)
@@ -19131,30 +20393,30 @@ well
 now
 hardly (with neg. verb)
 "
-1919,もしかして,"もしかして
+2075,もしかして,"もしかして
 もしかして
 
 perhaps
 possibly
 "
-1920,さっき,"さっき
+2076,さっき,"さっき
 さっき
 
 some time ago
 just now
 "
-1921,それとも,"それとも
+2077,それとも,"それとも
 それとも
 
 or
 or else
 "
-1922,嘘,"嘘
+2078,嘘,"嘘
 
 
 lie  うそ a lie
 "
-1923,つける,"つける
+2079,つける,"つける
 つける
 
 to attach
@@ -19189,7 +20451,7 @@ to turn on (light)
 to produce flowers
 to produce fruit
 "
-1924,付く,"付く
+2080,付く,"付く
 つく
 
 to be attached
@@ -19225,7 +20487,7 @@ to be perceived
 to be lucky
 to become (a state, condition, etc.)
 "
-1925,当然,"当然
+2081,当然,"当然
 とうぜん
 
 natural
@@ -19234,34 +20496,34 @@ justified
 deserved
 reasonable
 "
-1926,数分,"数分
+2082,数分,"数分
 すうふん
 
 several minutes
 a few minutes
 "
-1927,し出す,"し出す
+2083,し出す,"し出す
 しだす
 
 to begin to do
 to cater
 to deliver food
 "
-1928,ようになる,"ようになる
+2084,ようになる,"ようになる
 ようになる
 
 to reach the point that
 to come to be that
 to turn into
 "
-1929,無駄,"無駄
+2085,無駄,"無駄
 むだ
 
 futility
 uselessness
 pointlessness
 "
-1930,調子,"調子
+2086,調子,"調子
 ちょうし
 
 tune
@@ -19283,25 +20545,25 @@ spur of the moment
 strain
 trend
 "
-1931,それぞれ,"それぞれ
+2087,それぞれ,"それぞれ
 それぞれ
 
 each
 respectively
 "
-1932,暗殺,"暗殺
+2088,暗殺,"暗殺
 あんさつ
 
 assassination
 "
-1933,眠い,"眠い
+2089,眠い,"眠い
 ねむい
 
 sleepy
 drowsy
 somnolent
 "
-1934,合流,"合流
+2090,合流,"合流
 ごうりゅう
 
 confluence (of rivers)
@@ -19314,14 +20576,14 @@ linking up
 merging
 coming together
 "
-1935,作戦,"作戦
+2091,作戦,"作戦
 さくせん
 
 tactics
 strategy
 military or naval operations
 "
-1936,てか,"てか
+2092,てか,"てか
 てか
 
 or rather (say)
@@ -19330,38 +20592,38 @@ or perhaps I should say
 or, how should I put it,...
 I mean
 "
-1937,何十,"何十
+2093,何十,"何十
 なんじゅう
 
 several tens
 "
-1938,何だか,"何だか
+2094,何だか,"何だか
 なんだか
 
 (a) little
 somewhat
 somehow
 "
-1939,なんだか,"なんだか
+2095,なんだか,"なんだか
 なんだか
 
 (a) little
 somewhat
 somehow
 "
-1940,には,"には
+2096,には,"には
 には
 
 for (in regard to)
 in order to
 "
-1941,各自,"各自
+2097,各自,"各自
 かくじ
 
 individual
 each
 "
-1942,相変わらず,"相変わらず
+2098,相変わらず,"相変わらず
 あいかわらず
 
 as ever
@@ -19369,12 +20631,12 @@ as usual
 the same
 still
 "
-1943,本日,"本日
+2099,本日,"本日
 ほんじつ
 
 today
 "
-1944,大切にする,"大切にする
+2100,大切にする,"大切にする
 たいせつにする
 
 to cherish
@@ -19384,7 +20646,7 @@ to set a high value on
 to take good care of
 to look after
 "
-1945,落ち着く,"落ち着く
+2101,落ち着く,"落ち着く
 おちつく
 
 to calm down
@@ -19409,14 +20671,14 @@ to be unobtrusive
 to be quiet
 to be subdued
 "
-1946,いざ,"いざ
+2102,いざ,"いざ
 いざ
 
 now
 come (now)
 well
 "
-1947,ちなみに,"ちなみに
+2103,ちなみに,"ちなみに
 ちなみに
 
 by the way
@@ -19424,7 +20686,7 @@ in this connection
 incidentally
 in passing
 "
-1948,勝手,"勝手
+2104,勝手,"勝手
 かって
 
 one's own convenience
@@ -19439,14 +20701,14 @@ arbitrary
 unauthorised (e.g. phone app, WWW site)
 unofficial
 "
-1949,何か用,"何か用
+2105,何か用,"何か用
 なんかよう
 なにかよう
 
 What do you want? (oft. brusque, curt)
 Can I help you?
 "
-1950,とにかく,"とにかく
+2106,とにかく,"とにかく
 とにかく
 
 anyhow
@@ -19457,7 +20719,7 @@ generally speaking
 in any case
 at least
 "
-1951,だって,"だって
+2107,だって,"だって
 だって
 
 after all
@@ -19471,13 +20733,13 @@ they say
 I hear
 you mean
 "
-1952,いる,"いる
+2108,いる,"いる
 いる
 
 to need
 to want
 "
-1953,それより,"それより
+2109,それより,"それより
 それより
 
 apart from that
@@ -19487,7 +20749,7 @@ more ... than that
 but
 however
 "
-1954,謎,"謎
+2110,謎,"謎
 なぞ
 
 riddle
@@ -19497,7 +20759,7 @@ mystery
 enigmatic
 mysterious
 "
-1955,為,"為
+2111,為,"為
 ため
 
 good
@@ -19515,7 +20777,7 @@ affecting
 regarding
 concerning
 "
-1956,解く,"解く
+2112,解く,"解く
 とく
 
 to untie
@@ -19545,7 +20807,7 @@ to comb (out)
 to card
 to untangle (hair)
 "
-1957,暇,"暇
+2113,暇,"暇
 ひま
 いとま
 
@@ -19566,13 +20828,13 @@ divorcing (one's spouse)
 leaving
 departing
 "
-1958,させる,"させる
+2114,させる,"させる
 させる
 
 to make (someone) do
 to allow (someone) to
 "
-1959,そもそも,"そもそも
+2115,そもそも,"そもそも
 そもそも
 
 in the first place
@@ -19586,7 +20848,7 @@ ab initio
 beginning
 start
 "
-1960,検索,"検索
+2116,検索,"検索
 けんさく
 
 looking up (e.g. a word in a dictionary)
@@ -19594,13 +20856,13 @@ retrieval (e.g. data)
 searching for
 referring to
 "
-1961,となる,"となる
+2117,となる,"となる
 となる
 
 to become
 to amount to
 "
-1962,台詞,"台詞
+2118,台詞,"台詞
 せりふ
 だいし
 
@@ -19609,32 +20871,32 @@ words
 one's lines
 remarks
 "
-1963,でもない,"でもない
+2119,でもない,"でもない
 でもない
 
 it is not (like that)
 used to explicitly deny one thing while also implicitly denying other things
 "
-1964,これでも,"これでも
+2120,これでも,"これでも
 これでも
 
 even though things may appear this way
 "
-1965,宝石,"宝石
+2121,宝石,"宝石
 ほうせき
 
 gem
 jewel
 precious stone
 "
-1966,旅,"旅
+2122,旅,"旅
 たび
 
 travel
 trip
 journey
 "
-1967,反逆,"反逆
+2123,反逆,"反逆
 はんぎゃく
 
 treason
@@ -19643,7 +20905,7 @@ mutiny
 rebellion
 insurrection
 "
-1968,英雄,"英雄
+2124,英雄,"英雄
 えいゆう
 
 hero
@@ -19652,21 +20914,21 @@ great person
 Eroica Symphony (Beethoven, 1804)
 Heroic Polonaise (Chopin)
 "
-1969,冒険,"冒険
+2125,冒険,"冒険
 ぼうけん
 
 risk
 venture
 adventure
 "
-1970,奇妙,"奇妙
+2126,奇妙,"奇妙
 きみょう
 
 strange
 queer
 curious
 "
-1971,女神,"女神
+2127,女神,"女神
 めがみ
 じょしん
 おんながみ
@@ -19674,27 +20936,27 @@ curious
 goddess
 female deity
 "
-1972,災難,"災難
+2128,災難,"災難
 さいなん
 
 calamity
 misfortune
 disaster
 "
-1973,進撃,"進撃
+2129,進撃,"進撃
 しんげき
 
 advance
 charge
 "
-1974,巨人,"巨人
+2130,巨人,"巨人
 きょじん
 
 giant
 great man
 Tokyo Giants (baseball team)
 "
-1975,化け物,"化け物
+2131,化け物,"化け物
 ばけもの
 ばけもん
 
@@ -19706,7 +20968,7 @@ phantom
 spectre
 specter
 "
-1976,狼,"狼
+2132,狼,"狼
 おおかみ
 おおかめ
 おいぬ
@@ -19715,12 +20977,12 @@ wolf (Canis lupus)
 wolf in sheep's clothing
 womanizer
 "
-1977,戦艦,"戦艦
+2133,戦艦,"戦艦
 せんかん
 
 battleship
 "
-1978,席,"席
+2134,席,"席
 せき
 
 seat
@@ -19729,13 +20991,13 @@ place
 position
 post
 "
-1979,注文,"注文
+2135,注文,"注文
 ちゅうもん
 
 order
 request
 "
-1980,偽,"偽
+2136,偽,"偽
 にせ
 
 imitation
@@ -19747,19 +21009,19 @@ bogus
 sham
 pseudo-
 "
-1981,絶望,"絶望
+2137,絶望,"絶望
 ぜつぼう
 
 despair
 hopelessness
 "
-1982,残響,"残響
+2138,残響,"残響
 ざんきょう
 
 reverberation
 echo
 "
-1983,クズ,"クズ
+2139,クズ,"クズ
 クズ
 
 waste
@@ -19768,14 +21030,14 @@ garbage
 dregs
 chad
 "
-1984,征服,"征服
+2140,征服,"征服
 せいふく
 
 conquest
 subjugation
 overcoming
 "
-1985,紫,"紫
+2141,紫,"紫
 むらさき
 
 purple
@@ -19783,7 +21045,7 @@ violet
 Lithospermum erythrorhizon (species of gromwell)
 type of soy sauce
 "
-1986,悪魔,"悪魔
+2142,悪魔,"悪魔
 あくま
 
 devil
@@ -19794,30 +21056,30 @@ the Devil
 Māra
 evil spirits or forces that hinder one's path to enlightenment
 "
-1987,突破,"突破
+2143,突破,"突破
 とっぱ
 
 breaking through
 breakthrough
 penetration
 "
-1988,桃,"桃
+2144,桃,"桃
 もも
 
 peach (Prunus persica)
 "
-1989,西瓜,"西瓜
+2145,西瓜,"西瓜
 すいか
 
 watermelon (Citrullus lanatus)
 "
-1990,銀河,"銀河
+2146,銀河,"銀河
 ぎんが
 
 Milky Way
 galaxy
 "
-1991,翼,"翼
+2147,翼,"翼
 つばさ
 よく
 
@@ -19825,7 +21087,7 @@ wing
 Chinese ""Wings"" constellation (one of the 28 mansions)
 counter for birds or bird wings
 "
-1992,捧げる,"捧げる
+2148,捧げる,"捧げる
 ささげる
 
 to lift up
@@ -19836,7 +21098,7 @@ to devote
 to sacrifice
 to dedicate
 "
-1993,定め,"定め
+2149,定め,"定め
 さだめ
 
 law
@@ -19851,30 +21113,30 @@ destiny
 fate
 karma
 "
-1994,裏切る,"裏切る
+2150,裏切る,"裏切る
 うらぎる
 
 to betray
 to turn traitor to
 to double-cross
 "
-1995,怪物,"怪物
+2151,怪物,"怪物
 かいぶつ
 
 monster
 "
-1996,天使,"天使
+2152,天使,"天使
 てんし
 
 angel
 "
-1997,純潔,"純潔
+2153,純潔,"純潔
 じゅんけつ
 
 purity
 chastity
 "
-1998,蛇,"蛇
+2154,蛇,"蛇
 へび
 じゃ
 くちなわ
@@ -19884,12 +21146,12 @@ snake
 serpent
 large snake
 "
-1999,熊,"熊
+2155,熊,"熊
 くま
 
 bear (any mammal of family Ursidae)
 "
-2000,竜,"竜
+2156,竜,"竜
 りゅう
 たつ
 りょう
@@ -19899,13 +21161,13 @@ naga
 semi-divine human-cobra chimera in Hindu and Buddhist mythology
 promoted rook
 "
-2001,と言うことは,"と言うことは
+2157,と言うことは,"と言うことは
 ということは
 
 that is to say
 so that means
 "
-2002,扉,"扉
+2158,扉,"扉
 とびら
 
 door
@@ -19913,7 +21175,7 @@ gate
 opening
 title page
 "
-2003,戸,"戸
+2159,戸,"戸
 と
 
 door (esp. Japanese-style)
@@ -19922,27 +21184,27 @@ window shutter
 entrance (to a home)
 narrows
 "
-2004,銃,"銃
+2160,銃,"銃
 じゅう
 
 gun
 rifle
 small arms
 "
-2005,カッとなる,"カッとなる
+2161,カッとなる,"カッとなる
 カッとなる
 
 to flare up
 to fly into a rage
 "
-2006,もう少しで,"もう少しで
+2162,もう少しで,"もう少しで
 もうすこしで
 
 almost
 nearly
 close to
 "
-2007,と言うところ,"と言うところ
+2163,と言うところ,"と言うところ
 
 
 no more than, at the most と言うところ というところ  とゆうところ a state called
@@ -19953,7 +21215,7 @@ places known as
 that called
 the place named
 "
-2008,辺り,"辺り
+2164,辺り,"辺り
 あたり
 ほとり
 
@@ -19966,12 +21228,12 @@ nearby
 around (Sunday, last year, etc...)
 for instance
 "
-2009,気が合う,"気が合う
+2165,気が合う,"気が合う
 きがあう
 
 to get along (with someone)
 "
-2010,突く,"突く
+2166,突く,"突く
 つつく
 
 to poke (repeatedly, lightly)
@@ -19982,7 +21244,7 @@ to peck at (someone's faults, etc.)
 to egg on
 to put up to
 "
-2011,他,"他
+2167,他,"他
 ほか
 
 other (place, thing, person)
@@ -19997,12 +21259,12 @@ no choice (but to)
 besides...
 in addition to...
 "
-2012,くらいなら,"くらいなら
+2168,くらいなら,"くらいなら
 くらいなら
 
 rather than (do ...)
 "
-2013,忍,"忍
+2169,忍,"忍
 しのぶ
 
 squirrel's foot fern (Davallia mariesii)
@@ -20011,20 +21273,20 @@ color of clothing layers under one's overcoat (light green on blue)
 ancient women's hairstyle
 clothing patterned using squirrel's foot fern
 "
-2014,要る,"要る
+2170,要る,"要る
 いる
 
 to need
 to want
 "
-2015,弾丸,"弾丸
+2171,弾丸,"弾丸
 だんがん
 
 bullet
 shot
 shell
 "
-2016,卵,"卵
+2172,卵,"卵
 たまご
 
 eggs
@@ -20037,7 +21299,7 @@ beginning
 origin
 infancy
 "
-2017,何なのか,"何なのか
+2173,何なのか,"何なのか
 なんなのか
 なになのか
 
@@ -20045,13 +21307,13 @@ what is it (that)
 the meaning of something
 what something is about
 "
-2018,想像,"想像
+2174,想像,"想像
 そうぞう
 
 imagination
 guess
 "
-2019,フリ,"フリ
+2175,フリ,"フリ
 フリ
 
 lead in (e.g. to a running joke, asking a question)
@@ -20060,7 +21322,7 @@ pretence (pretense)
 show
 pretending (to)
 "
-2020,いきなり,"いきなり
+2176,いきなり,"いきなり
 いきなり
 
 abruptly
@@ -20068,14 +21330,14 @@ suddenly
 all of a sudden
 without warning
 "
-2021,遭遇,"遭遇
+2177,遭遇,"遭遇
 そうぐう
 
 encounter
 being confronted with (e.g. difficulty)
 meeting with (e.g. accident)
 "
-2022,満ちる,"満ちる
+2178,満ちる,"満ちる
 みちる
 
 to be full
@@ -20084,14 +21346,14 @@ to rise (e.g. tide)
 to mature
 to expire
 "
-2023,事象,"事象
+2179,事象,"事象
 じしょう
 
 event
 phenomenon
 matter
 "
-2024,平気,"平気
+2180,平気,"平気
 へいき
 
 coolness
@@ -20102,7 +21364,7 @@ all right
 OK
 okay
 "
-2025,およそ,"およそ
+2181,およそ,"およそ
 およそ
 
 about
@@ -20120,7 +21382,7 @@ not at all (with neg. verb)
 outline
 gist
 "
-2026,における,"における
+2182,における,"における
 における
 
 in
@@ -20130,13 +21392,13 @@ as for
 regarding
 with regards to
 "
-2027,あらゆる,"あらゆる
+2183,あらゆる,"あらゆる
 あらゆる
 
 all
 every
 "
-2028,あげく,"あげく
+2184,あげく,"あげく
 あげく
 
 in the end (after a long process)
@@ -20145,7 +21407,7 @@ after all
 at last
 last line (of a renga)
 "
-2029,くせに,"くせに
+2185,くせに,"くせに
 くせに
 
 and yet
@@ -20153,20 +21415,20 @@ though
 when
 in spite of
 "
-2030,せめて,"せめて
+2186,せめて,"せめて
 せめて
 
 at least
 at most
 "
-2031,だけに,"だけに
+2187,だけに,"だけに
 だけに ..
 
 being the case
 (precisely) because ...
 as might be expected (from ..)
 "
-2032,ならない,"ならない
+2188,ならない,"ならない
 ならない
 
 cannot help (doing, etc.)
@@ -20178,7 +21440,7 @@ must ...
 have to ...
 ought to ....
 "
-2033,につき,"につき
+2189,につき,"につき
 につき
 
 because of
@@ -20187,20 +21449,20 @@ regarding
 per
 apiece
 "
-2034,灰色,"灰色
+2190,灰色,"灰色
 はいいろ
 
 grey
 gray
 ashen
 "
-2035,親切,"親切
+2191,親切,"親切
 しんせつ
 
 kindness
 gentleness
 "
-2036,途端,"途端
+2192,途端,"途端
 とたん
 
 just (now, at the moment, etc.)
@@ -20209,12 +21471,12 @@ in the act of
 as soon as
 at the moment that
 "
-2037,っつって,"っつって
+2193,っつって,"っつって
 っつって
 
 colloquial spoken form of と言っている
 "
-2038,眠る,"眠る
+2194,眠る,"眠る
 ねむる
 ねぶる
 
@@ -20225,7 +21487,7 @@ to be dormant
 to be unused
 to close one's eyes
 "
-2039,調子に乗る,"調子に乗る
+2195,調子に乗る,"調子に乗る
 ちょうしにのる
 
 to be elated
@@ -20236,13 +21498,13 @@ to get cocky
 to get up to speed
 to move into gear
 "
-2040,ようこそ,"ようこそ
+2196,ようこそ,"ようこそ
 ようこそ
 
 welcome!
 nice to see you!
 "
-2041,至る,"至る
+2197,至る,"至る
 いたる
 
 to arrive at (e.g. a decision)
@@ -20254,7 +21516,7 @@ to come
 to arrive
 to result in
 "
-2042,腰,"腰
+2198,腰,"腰
 こし
 
 back
@@ -20266,7 +21528,7 @@ body (of hair, noodle, paper, etc.)
 resilience
 spring
 "
-2043,腕,"腕
+2199,腕,"腕
 うで
 
 arm
@@ -20274,14 +21536,14 @@ skill
 efforts
 ability
 "
-2044,床,"床
+2200,床,"床
 ゆか
 
 floor
 stage (for the narrator and the shamisen player)
 dining platform built across a river
 "
-2045,序でに,"序でに
+2201,序でに,"序でに
 ついでに
 
 incidentally
@@ -20289,14 +21551,14 @@ taking the opportunity
 while (you) are at it
 on the occasion
 "
-2046,できる限り,"できる限り
+2202,できる限り,"できる限り
 できるかぎり
 
 as ... as one can
 as ... as possible
 as much as possible
 "
-2047,寂しい,"寂しい
+2203,寂しい,"寂しい
 さびしい
 さみしい
 
@@ -20305,7 +21567,7 @@ lonesome
 solitary
 desolate
 "
-2048,折り紙,"折り紙
+2204,折り紙,"折り紙
 おりがみ
 
 origami
@@ -20313,7 +21575,7 @@ art of paper folding
 hallmark
 certificate of authenticity
 "
-2049,折る,"折る
+2205,折る,"折る
 おる
 
 to break
@@ -20327,14 +21589,14 @@ to make (origami)
 to interrupt
 to end
 "
-2050,霞,"霞
+2206,霞,"霞
 かすみ
 
 haze (esp. in spring)
 mist
 dimness (of sight)
 "
-2051,挨拶,"挨拶
+2207,挨拶,"挨拶
 あいさつ
 
 greeting
@@ -20352,7 +21614,7 @@ retaliation
 a fine thing to say (used as part of a sarcastic response to a rude remark)
 dialoging (with another Zen practitioner to ascertain their level of enlightenment)
 "
-2052,全く,"全く
+2208,全く,"全く
 まったく
 
 really
@@ -20364,7 +21626,7 @@ perfectly
 indeed
 good grief (expression of exasperation)
 "
-2053,噂,"噂
+2209,噂,"噂
 うわさ
 
 rumour
@@ -20374,7 +21636,7 @@ hearsay
 gossip
 common talk
 "
-2054,挟む,"挟む
+2210,挟む,"挟む
 はさむ
 
 to interpose
@@ -20384,7 +21646,7 @@ to be on either side (e.g. road)
 to be across (e.g. street, river)
 to be beyond
 "
-2055,扱う,"扱う
+2211,扱う,"扱う
 あつかう
 
 to deal with (a person)
@@ -20410,7 +21672,7 @@ to be too much for one
 to find unmanageable
 to gossip
 "
-2056,分の,"分の
+2212,分の,"分の
 ぶんの -
 
 th (e.g. one fifth)

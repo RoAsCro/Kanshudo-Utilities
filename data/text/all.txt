@@ -265,6 +265,12 @@ particle わ	(text of grammar points is not available for download)
 に対する（にたいする）	(text of grammar points is not available for download)
 に対して（にたいして）	(text of grammar points is not available for download)
 のに対して（のにたいして）	(text of grammar points is not available for download)
+つつ	(text of grammar points is not available for download)
+たきり	(text of grammar points is not available for download)
+ものの	(text of grammar points is not available for download)
+たところ	(text of grammar points is not available for download)
+とうてい	(text of grammar points is not available for download)
+にのぼる	(text of grammar points is not available for download)
 ことがない	(text of grammar points is not available for download)
 〜にしても	(text of grammar points is not available for download)
 としても	(text of grammar points is not available for download)
@@ -654,6 +660,10 @@ particle が	(text of grammar points is not available for download)
 よって	よって よって therefore; consequently; accordingly; because of
 したがって	したがって したがって therefore; consequently; accordingly
 しょっちゅう	しょっちゅう しょっちゅう always; constantly; frequently; often
+かつじ	かつじ かつじ printing type; movable type; printed text; print
+まもなく	まもなく まもなく soon; before long; in a short time; lacking time to ...; without time to ...
+さんかく	さんかく さんかく triangle; triangular
+ついで	ついで ついで opportunity; occasion
 距	距  distance  キョ  
 素	素  element  ソ  ス  
 修	修  to master  シュウ  シュ  おさ.める
@@ -2132,6 +2142,158 @@ particle が	(text of grammar points is not available for download)
 候補	候補 こうほ candidate; contender; prospect; pick; choice; list; candidacy; candidature; nomination
 障害	障害 しょうがい obstacle; impediment; hindrance; difficulty; barrier; handicap; impairment; disability; disorder; malfunction
 社会党	社会党 しゃかいとう Socialist Party
+出版	出版 しゅっぱん publication
+到着	到着 とうちゃく arrival
+交流	交流 こうりゅう (cultural) exchange; interchange; interaction; (inter-) mingling; (social, etc.) networking; intercourse; alternating current; AC
+用いる	用いる もちいる to use; to make use of; to utilize; to utilise
+サービス	サービス サービス service; help; assistance; care; concern; discount; freebie; free gift; service; serve; service; servicing; (product) maintenance
+画家	画家 がか painter; artist
+独立	独立 どくりつ independence (e.g. Independence Day); self-support
+借金	借金 しゃっきん debt; loan; liabilities
+建築	建築 けんちく construction; architecture (of buildings)
+予算	予算 よさん estimate; budget
+追う	追う おう to chase; to run after; to pursue; to follow (i.e. a set order, a trend); to drive out; to oust; to expel; to drive (i.e. a herd); (in passive voice) to be pressed (for time, etc.)
+開催	開催 かいさい holding a meeting; open an exhibition
+集団	集団 しゅうだん group; mass
+訓練	訓練 くんれん practice; practising; training
+繰り返す	繰り返す くりかえす to repeat; to do something over again
+供給	供給 きょうきゅう supply; provision
+見出し	見出し みだし heading; headline; title; caption; index; headword
+演奏	演奏 えんそう musical performance
+改善	改善 かいぜん betterment; improvement; kaizen (Japanese business philosophy of continuous improvement)
+批判	批判 ひはん criticism; judgement; judgment; comment
+特定	特定 とくてい specific; particular; designated; special; to specify; to identify; to pinpoint
+往復	往復 おうふく making a round trip; going and returning; coming and going; round-trip ticket; return ticket; correspondence; exchanging (letters); socializing; visiting one another
+信仰	信仰 しんこう (religious) faith; belief; creed
+設備	設備 せつび equipment; device; facilities; installation
+以後	以後 いご after this; from now on; hereafter; thereafter; since (verb) (after -te form of verb); after (time); since (then)
+単に	単に たんに simply; merely; only; solely
+範囲	範囲 はんい extent; scope; sphere; range; span
+見方	見方 みかた viewpoint; point of view; way of understanding; way of appreciating; how to look at something (e.g. noh, train schedule)
+財産	財産 ざいさん property; fortune; assets
+痛い	痛い いたい painful; sore; exceeding
+不満	不満 ふまん dissatisfaction; displeasure; discontent; complaints; unhappiness; disgruntled
+知事	知事 ちじ prefectural governor
+逮捕	逮捕 たいほ arrest; apprehension; capture
+備える	備える そなえる to furnish; to provide for; to equip; to install; to have ready; to prepare for; to possess (all that is needed); to be endowed with; to be armed with; to be born with; to have since birth
+語学	語学 ごがく language study
+楽しむ	楽しむ たのしむ to enjoy (oneself)
+どう考えても	どう考えても どうかんがえても surely; clearly; without a doubt; in all probability; no matter how one slices it; no matter how one looks at it
+小ちゃ	小ちゃ ちいちゃ small (babytalk form)
+笑い	笑い わらい laugh; laughter; smile; sneer; sex aids (e.g. dildos, pornographic books, erotic woodblock prints, etc.)
+ただいま	ただいま ただいま I'm home! I'm back! Here I am! ; presently; right away; right now; just now
+どういたしまして	どういたしまして どういたしまして you are welcome; don't mention it; not at all; my pleasure
+おかえりなさい	おかえりなさい おかえりなさい welcome home
+失礼します	失礼します しつれいします excuse me
+はじめまして	はじめまして はじめまして How do you do?; I am glad to meet you
+行ってきます	行ってきます いってきます I'm off; see you later
+じゃあまた	じゃあまた じゃあまた see you later (used in casual correspondence and conversation); goodbye; sincerely
+すみません	すみません すみません excuse me; pardon me; I'm sorry; thank you
+いらっしゃいませ	いらっしゃいませ いらっしゃいませ welcome (in shops, etc.)
+牛丼	牛丼 ぎゅうどん rice covered with beef and vegetables
+からあげ	からあげ からあげ deep-fried food
+頭がいい	頭がいい あたまがいい  あたまがよい bright; intelligent
+おこのみやき	おこのみやき おこのみやき okonomiyaki; savoury pancake containing meat or seafood and vegetables
+海鮮丼	海鮮丼 かいせんどん rice topped with sashimi
+いただきます	いただきます いただきます expression of gratitude before meals
+ごちそうさまでした	ごちそうさまでした ごちそうさまでした That was a delicious meal (said after meals); What a wonderful meal
+提出	提出 ていしゅつ to present; to submit (e.g. a report or a thesis); to hand in; to file; to turn in; presentation; submission; filing
+経由	経由 けいゆ  けいゆう through; by way of; via; to go via; to go by way of
+なる	なる なる to become; to get; to grow; to be; to reach; to attain; to result in; to prove to be; to consist of; to be composed of; to succeed; to be complete; to change into; to be exchanged for; to play a role; to be promoted; to do ...
+食う	食う くう to eat; to live; to make a living; to survive; to bite; to sting (as insects do); to tease; to torment; to taunt; to make light of; to make fun of; to encroach on; to eat into; to consume; to defeat a superior; to threaten a position; to consume time and-or resources; to receive something (usu. an unfavourable event); to have sexual relations with a woman, esp. for the first time
+前年	前年 ぜんねん the preceding year; the previous year; last year
+分析	分析 ぶんせき analysis
+強いて	強いて しいて by force
+広場	広場 ひろば plaza; (public) square; piazza; forum; open space
+適切	適切 てきせつ pertinent; appropriate; adequate; relevance
+広げる	広げる ひろげる to spread; to extend; to expand; to enlarge; to widen; to broaden; to unfold; to open; to unroll; to unwrap; to scatter about; to spread around; to make flourish; to cause to prosper
+できるだけ	できるだけ できるだけ as much as one can; as much as possible; if at all possible
+大気	大気 たいき atmosphere
+学問	学問 がくもん scholarship; study; learning; discipline; branch of learning; (a) science
+尊敬	尊敬 そんけい respect; esteem; reverence; honour; honor
+追加	追加 ついか addition; supplement; append (e.g. to a file); appendix
+態度	態度 たいど attitude; manner; behaviour
+製造	製造 せいぞう manufacture; production
+解説	解説 かいせつ explanation; commentary; exposition; elucidation
+少なくとも	少なくとも すくなくとも at least
+電話線	電話線 でんわせん telephone line
+保存	保存 ほぞん preservation; conservation; storage; saving (e.g. to disk); maintenance
+国土	国土 こくど  くにつち country; territory; domain; realm
+一種	一種 いっしゅ  ひとくさ species; kind; variety
+までに	までに までに by; not later than; before
+服装	服装 ふくそう garments; attire
+自殺	自殺 じさつ suicide
+悲劇	悲劇 ひげき tragedy; tragic drama; tragic play; tragedy; calamity; disaster
+使用料	使用料 しようりょう rent; hire
+私立	私立 しりつ  わたくしりつ private (establishment)
+裁判	裁判 さいばん trial; judgement; judgment
+基準	基準 きじゅん standard; basis; criterion; norm; reference; datum
+入社	入社 にゅうしゃ joining a company; getting a job with a company; entering a company
+今から	今から いまから hence; from now; from the present moment; from this time forward
+整備	整備 せいび maintenance; servicing; putting in place; establishment; development; preparation; provision; outfitting
+世の中	世の中 よのなか society; the world; the times
+読者	読者 どくしゃ reader
+操作	操作 そうさ operation; management; processing; manipulating to one's benefit; to operate; to manipulate; to fiddle (e.g. the books)
+憲法	憲法 けんぽう constitution
+民間	民間 みんかん private; civilian; civil; popular; folk; unofficial
+使用者	使用者 しようしゃ user; consumer; employer
+質問をする	質問をする しつもんをする to ask a question; to ask questions
+過程	過程 かてい process; course; mechanism
+詳細	詳細 しょうさい detail; particulars
+体力	体力 たいりょく stamina; endurance; physical strength; resilience; resistance to disease; strength of an organization (e.g. profitability, productivity, economic clout, stability, growth potential)
+行く手	行く手 ゆくて one's way; one's path
+受験	受験 じゅけん taking an examination (esp. school and university entrance)
+進学	進学 しんがく entering a higher-level school, esp. going on to university
+改正	改正 かいせい revision; amendment; alteration
+断る	断る ことわる to refuse; to reject; to dismiss; to turn down; to decline; to inform; to give notice; to tell in advance; to ask leave; to excuse oneself (from)
+自由主義	自由主義 じゆうしゅぎ liberalism
+酸素	酸素 さんそ oxygen (O)
+文化人	文化人 ぶんかじん person of culture; cultured person
+世界大戦	世界大戦 せかいたいせん the World War
+自由化	自由化 じゆうか liberalization; liberalisation; freeing
+手続き	手続き てつづき procedure; (legal) process; formalities
+撮影	撮影 さつえい photography (still or motion); photographing; filming; shooting; (video) recording
+説明書	説明書 せつめいしょ (printed) instructions
+通学	通学 つうがく commuting to school; school commute
+意味合い	意味合い いみあい implication; nuance; shade of meaning; connotation
+理想的	理想的 りそうてき ideal
+どこまで	どこまで どこまで how far; to what extent
+姿勢	姿勢 しせい attitude; posture; stance; approach; carriage (of the body)
+電話機	電話機 でんわき telephone instrument
+かぶる	かぶる かぶる to put on (one's head); to wear; to have on; to pull over (one's head); to crown (oneself); to be covered with (dust, snow, etc.); to pour (water, etc.) on oneself; to dash on oneself; to ship water; to bear (e.g. someone's debts, faults, etc.); to take (blame); to assume (responsibility); to shoulder (burden); to overlap (e.g. sound or color); to be similar; to be redundant; to be fogged (due to overexposure, etc.); to close; to come to an end; to get a full house; to sell out; to blunder; to bungle; to fail; to be deceived
+社会学	社会学 しゃかいがく sociology
+魅力	魅力 みりょく charm; fascination; glamour; glamor; attraction; appeal
+深刻	深刻 しんこく serious; severe; grave; acute
+宣伝	宣伝 せんでん publicity; advertisement; advertising; propaganda
+目的地	目的地 もくてきち place of destination
+現地	現地 げんち actual place; local; on-site
+抵抗	抵抗 ていこう resistance; opposition; standing up to; reluctance; repulsion; repugnance; resistance; drag; friction; electrical resistance; resistor
+恋愛	恋愛 れんあい love; love-making; passion; emotion; affections
+複数	複数 ふくすう several; plural; plurality; multiple
+かつ	かつ かつ yet; moreover; and
+編集	編集 へんしゅう editing; compilation; editorial (e.g. committee)
+少しずつ	少しずつ すこしずつ little by little
+課題	課題 かだい subject; theme; issue; matter; homework; assignment; task; challenge; problem; question
+指示	指示 しじ indication; instruction; designation; directions
+中身	中身 なかみ contents; interior; substance; filling; (sword) blade
+反省	反省 はんせい reflection; reconsideration; introspection; meditation; contemplation; regret; repentance; remorse; being sorry
+復活	復活 ふっかつ revival (e.g. musical); come-back; restoration; rebirth; resurrection
+能力	能力 のうりょく ability; faculty
+模様	模様 もよう pattern; figure; design; state; condition; conjecture of the current situation; the way it seems; model; pattern; example; indicates that that noun seems likely (e.g. rain or storm); framework (in go); territorial framework; moyo
+家庭科	家庭科 かていか home economics
+支持	支持 しじ support; holding up; propping; support; backing; endorsing
+へんそう	へんそう へんそう disguise; masquerade
+輸送	輸送 ゆそう transport; transportation
+喜び	喜び よろこび joy; delight; rapture; pleasure; gratification; rejoicing; congratulations; felicitations
+専攻	専攻 せんこう major subject; special study
+勝利	勝利 しょうり victory; triumph; conquest; success; win
+問題児	問題児 もんだいじ problem child
+国境	国境 こっきょう  くにざかい national border; provincial border
+付き合う	付き合う つきあう to associate with; to keep company with; to go out with; to go steady with; to get on with; to go along with; to follow someone's lead; to accompany someone; to compromise
+美味しい	美味しい おいしい delicious; tasty; sweet
+保証	保証 ほしょう guarantee; security; assurance; pledge; warranty
+抑える	抑える おさえる to pin something down; to hold something down; to hold something back; to stop; to restrain; to curb; to seize; to grasp; to arrest; to gain control of something; to govern; to keep down (e.g. information); to suppress; to catch happening; to determine (important points); to find (proof); to understand
+携帯	携帯 けいたい something carried (in the hand); handheld; portable; mobile telephone; cell phone
 夫	夫  husband  フ  フウ  おっと
 絵	絵  picture  カイ  エ  
 もう	もう もう now; soon; shortly; before long; presently; already; yet; by now; (not) anymore; further; more; again; another; the other; interjection used to strengthen expression of an emotion (often exasperation)
